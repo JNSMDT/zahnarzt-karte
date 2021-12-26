@@ -70,7 +70,6 @@ typings/
 .cache
 
 # Generated files
-lib
 dist
 
 # MacOS specific files
