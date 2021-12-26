@@ -1,0 +1,7262 @@
+[
+  {
+    "gemeindename": "Sauzin",
+    "gemeindeschlüssel": 13075124,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 434,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karlshagen, Ostseebad",
+    "gemeindeschlüssel": 13075058,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 3219,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Krembz",
+    "gemeindeschlüssel": 13074043,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 876,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Baabe, Ostseebad",
+    "gemeindeschlüssel": 13073006,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 954,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Millienhagen-Oebelitz",
+    "gemeindeschlüssel": 13073057,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 325,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohen Viecheln",
+    "gemeindeschlüssel": 13074031,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 634,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gützkow, Stadt",
+    "gemeindeschlüssel": 13075044,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2967,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Preetz",
+    "gemeindeschlüssel": 13073066,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1016,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bredenfelde",
+    "gemeindeschlüssel": 13071015,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 185,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Veelböken",
+    "gemeindeschlüssel": 13074081,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 636,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Prerow, Ostseebad",
+    "gemeindeschlüssel": 13073067,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1486,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gremersdorf-Buchholz",
+    "gemeindeschlüssel": 13073034,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 684,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kuhs",
+    "gemeindeschlüssel": 13072061,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 318,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neddemin",
+    "gemeindeschlüssel": 13071104,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 354,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dahmen",
+    "gemeindeschlüssel": 13072023,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 466,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rerik, Ostseebad, Stadt",
+    "gemeindeschlüssel": 13072085,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2169,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Leizen",
+    "gemeindeschlüssel": 13071088,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 484,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kittendorf",
+    "gemeindeschlüssel": 13071074,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 289,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Teterow, Bergringstadt",
+    "gemeindeschlüssel": 13072106,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 8334,
+    "za_absolut": 7,
+    "za_bereinigt": 6,
+    "hausbesuche": 3,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Wittenburg, Stadt",
+    "gemeindeschlüssel": 13076152,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 6303,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Sellin, Ostseebad",
+    "gemeindeschlüssel": 13073084,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2653,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Schönhausen",
+    "gemeindeschlüssel": 13071132,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 222,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Weitenhagen",
+    "gemeindeschlüssel": 13073097,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 208,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bibow",
+    "gemeindeschlüssel": 13074006,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 376,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dömitz, Stadt",
+    "gemeindeschlüssel": 13076034,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2990,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Neukloster, Stadt",
+    "gemeindeschlüssel": 13074057,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 4020,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Hohenbollentin",
+    "gemeindeschlüssel": 13071064,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 108,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kletzin",
+    "gemeindeschlüssel": 13071076,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 687,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dranske",
+    "gemeindeschlüssel": 13073019,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1149,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Drechow",
+    "gemeindeschlüssel": 13073020,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 219,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wardow",
+    "gemeindeschlüssel": 13072112,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1332,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lüdershagen",
+    "gemeindeschlüssel": 13073053,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 565,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Trollenhagen",
+    "gemeindeschlüssel": 13071145,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 898,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gägelow",
+    "gemeindeschlüssel": 13074022,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 2579,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Groß Mohrdorf",
+    "gemeindeschlüssel": 13073037,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 759,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sassnitz, Stadt",
+    "gemeindeschlüssel": 13073080,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 9191,
+    "za_absolut": 7,
+    "za_bereinigt": 7,
+    "hausbesuche": 3,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Klein Vielen",
+    "gemeindeschlüssel": 13071075,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 620,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pantelitz",
+    "gemeindeschlüssel": 13073061,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 836,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kieve",
+    "gemeindeschlüssel": 13071073,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 145,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bresegard bei Picher",
+    "gemeindeschlüssel": 13076019,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 292,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohen Sprenz",
+    "gemeindeschlüssel": 13072046,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 540,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kummerow",
+    "gemeindeschlüssel": 13071084,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 575,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Buchholz",
+    "gemeindeschlüssel": 13071020,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 140,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nieden",
+    "gemeindeschlüssel": 13075103,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 158,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Krugsdorf",
+    "gemeindeschlüssel": 13075071,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 456,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Postlow",
+    "gemeindeschlüssel": 13075110,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 296,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Goldberg, Stadt",
+    "gemeindeschlüssel": 13076048,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 3392,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Garz/Rügen, Stadt",
+    "gemeindeschlüssel": 13073027,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2215,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Sarmstorf",
+    "gemeindeschlüssel": 13072092,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 481,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rostock, Hanse- und Universitätsstadt",
+    "gemeindeschlüssel": 13003000,
+    "kreisname": "Rostock",
+    "bevölkerung": 209061,
+    "za_absolut": 256,
+    "za_bereinigt": 219,
+    "hausbesuche": 54,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Warlitz",
+    "gemeindeschlüssel": 13076145,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 455,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Königsfeld",
+    "gemeindeschlüssel": 13074042,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 961,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Koblentz",
+    "gemeindeschlüssel": 13075063,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 202,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ribnitz-Damgarten, Bernsteinstadt",
+    "gemeindeschlüssel": 13073075,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 15269,
+    "za_absolut": 17,
+    "za_bereinigt": 11,
+    "hausbesuche": 6,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Dabel",
+    "gemeindeschlüssel": 13076026,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1371,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Faulenrost",
+    "gemeindeschlüssel": 13071032,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 653,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Cölpin",
+    "gemeindeschlüssel": 13071026,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 814,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Binz, Ostseebad",
+    "gemeindeschlüssel": 13073011,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 5488,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Ueckermünde, Seebad, Stadt",
+    "gemeindeschlüssel": 13075136,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 8472,
+    "za_absolut": 7,
+    "za_bereinigt": 7,
+    "hausbesuche": 2,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Neustadt-Glewe, Stadt",
+    "gemeindeschlüssel": 13076105,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 6997,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Groß Kordshagen",
+    "gemeindeschlüssel": 13073036,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 310,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neu Kosenow",
+    "gemeindeschlüssel": 13075098,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 473,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Borrentin",
+    "gemeindeschlüssel": 13071014,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 784,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Menzendorf",
+    "gemeindeschlüssel": 13074052,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 236,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sülstorf",
+    "gemeindeschlüssel": 13076134,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 827,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bartow",
+    "gemeindeschlüssel": 13071006,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 452,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Testorf-Steinfort",
+    "gemeindeschlüssel": 13074077,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 642,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kritzmow",
+    "gemeindeschlüssel": 13072057,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3896,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Redefin",
+    "gemeindeschlüssel": 13076119,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 535,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kremmin",
+    "gemeindeschlüssel": 13076076,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 234,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gneven",
+    "gemeindeschlüssel": 13076044,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 376,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Altenhof",
+    "gemeindeschlüssel": 13071003,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 332,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schwarz",
+    "gemeindeschlüssel": 13071133,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 362,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Datzetal",
+    "gemeindeschlüssel": 13071028,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 853,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stäbelow",
+    "gemeindeschlüssel": 13072098,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1384,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wulkenzin",
+    "gemeindeschlüssel": 13071166,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1525,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dalberg-Wendelstorf",
+    "gemeindeschlüssel": 13074015,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 542,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Burg Stargard, Stadt",
+    "gemeindeschlüssel": 13071021,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 5359,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Iven",
+    "gemeindeschlüssel": 13075053,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 180,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warnow",
+    "gemeindeschlüssel": 13072114,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 889,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Reimershagen",
+    "gemeindeschlüssel": 13072084,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 407,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zarnewanz",
+    "gemeindeschlüssel": 13072118,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 423,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Roggendorf",
+    "gemeindeschlüssel": 13074068,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 979,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Werder",
+    "gemeindeschlüssel": 13076151,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 340,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Penkun, Stadt",
+    "gemeindeschlüssel": 13075107,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1765,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Ritzerow",
+    "gemeindeschlüssel": 13071123,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 377,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bad Kleinen",
+    "gemeindeschlüssel": 13074002,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3753,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Völschow",
+    "gemeindeschlüssel": 13075140,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 496,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohenfelde",
+    "gemeindeschlüssel": 13072047,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 785,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Vorbeck",
+    "gemeindeschlüssel": 13072110,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 356,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blesewitz",
+    "gemeindeschlüssel": 13075013,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 242,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Insel Poel, Ostseebad",
+    "gemeindeschlüssel": 13074035,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 2456,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Brüsewitz",
+    "gemeindeschlüssel": 13074012,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1975,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Korswandt",
+    "gemeindeschlüssel": 13075065,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 585,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Papendorf",
+    "gemeindeschlüssel": 13075104,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 214,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warnkenhagen",
+    "gemeindeschlüssel": 13072113,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 328,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Bukow",
+    "gemeindeschlüssel": 13072002,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 480,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rothenklempenow",
+    "gemeindeschlüssel": 13075119,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 598,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Papendorf",
+    "gemeindeschlüssel": 13072077,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2535,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Brietzig",
+    "gemeindeschlüssel": 13075017,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 195,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Thürkow",
+    "gemeindeschlüssel": 13072109,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 376,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gültz",
+    "gemeindeschlüssel": 13071059,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 521,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mustin",
+    "gemeindeschlüssel": 13076101,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 346,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stralendorf",
+    "gemeindeschlüssel": 13076130,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1357,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Brunn",
+    "gemeindeschlüssel": 13071019,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1040,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rövershagen",
+    "gemeindeschlüssel": 13072088,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2650,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Rubenow",
+    "gemeindeschlüssel": 13075120,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 794,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pudagla",
+    "gemeindeschlüssel": 13075111,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 499,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lelkendorf",
+    "gemeindeschlüssel": 13072066,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 432,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Finkenthal",
+    "gemeindeschlüssel": 13072031,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 318,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gehlsbach",
+    "gemeindeschlüssel": 13076165,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 522,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Tessin b. Boizenburg",
+    "gemeindeschlüssel": 13076138,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 409,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Boldekow",
+    "gemeindeschlüssel": 13075015,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 660,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wolde",
+    "gemeindeschlüssel": 13071163,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 550,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Röckwitz",
+    "gemeindeschlüssel": 13071125,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 276,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rosenow",
+    "gemeindeschlüssel": 13071127,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 951,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Bergholz",
+    "gemeindeschlüssel": 13075011,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 320,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sarnow",
+    "gemeindeschlüssel": 13075122,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 390,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lietzow",
+    "gemeindeschlüssel": 13073049,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 257,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bröbberow",
+    "gemeindeschlüssel": 13072018,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 660,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Golchen",
+    "gemeindeschlüssel": 13071044,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 280,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wolgast, Stadt",
+    "gemeindeschlüssel": 13075144,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 11840,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 4,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Sehlen",
+    "gemeindeschlüssel": 13073083,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 877,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klein Belitz",
+    "gemeindeschlüssel": 13072053,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 831,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stolpe auf Usedom",
+    "gemeindeschlüssel": 13075129,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 367,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gülzow",
+    "gemeindeschlüssel": 13071060,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 407,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kröslin",
+    "gemeindeschlüssel": 13075069,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1756,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pampow",
+    "gemeindeschlüssel": 13076107,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 3011,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Göhlen",
+    "gemeindeschlüssel": 13076046,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 564,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Granzin",
+    "gemeindeschlüssel": 13076051,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 390,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schönwalde",
+    "gemeindeschlüssel": 13075126,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 438,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rankwitz",
+    "gemeindeschlüssel": 13075114,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 549,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kratzeburg",
+    "gemeindeschlüssel": 13071080,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 526,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pruchten",
+    "gemeindeschlüssel": 13073069,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 715,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lübberstorf",
+    "gemeindeschlüssel": 13074046,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 221,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blankensee",
+    "gemeindeschlüssel": 13071011,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1636,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karrenzin",
+    "gemeindeschlüssel": 13076068,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 559,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Retschow",
+    "gemeindeschlüssel": 13072086,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 951,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Luckow",
+    "gemeindeschlüssel": 13075042,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 199,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schwaan, Stadt",
+    "gemeindeschlüssel": 13072095,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 5017,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Buschvitz",
+    "gemeindeschlüssel": 13073014,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 253,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Breesen",
+    "gemeindeschlüssel": 13071016,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 518,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hülseburg",
+    "gemeindeschlüssel": 13076065,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 161,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Deyelsdorf",
+    "gemeindeschlüssel": 13073016,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 477,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Walkendorf",
+    "gemeindeschlüssel": 13072111,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 903,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Steinhagen",
+    "gemeindeschlüssel": 13072101,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 674,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Samtens",
+    "gemeindeschlüssel": 13073079,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1915,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Walow",
+    "gemeindeschlüssel": 13071155,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 477,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hanshagen",
+    "gemeindeschlüssel": 13075046,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 895,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohen Demzin",
+    "gemeindeschlüssel": 13072045,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 344,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Krams",
+    "gemeindeschlüssel": 13076057,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 170,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dalkendorf",
+    "gemeindeschlüssel": 13072024,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 251,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Cramonshagen",
+    "gemeindeschlüssel": 13074014,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 512,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Fünfseen",
+    "gemeindeschlüssel": 13071036,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1079,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Roggenstorf",
+    "gemeindeschlüssel": 13074069,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 445,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Molzahn",
+    "gemeindeschlüssel": 13074028,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 397,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Siedenbrünzow",
+    "gemeindeschlüssel": 13071136,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 488,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Passow",
+    "gemeindeschlüssel": 13076109,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 688,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Langen Brütz",
+    "gemeindeschlüssel": 13076080,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 476,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Metelsdorf",
+    "gemeindeschlüssel": 13074053,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 486,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Plau am See, Stadt",
+    "gemeindeschlüssel": 13076114,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 6055,
+    "za_absolut": 6,
+    "za_bereinigt": 5,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Schorssow",
+    "gemeindeschlüssel": 13072094,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 467,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Tützpatz",
+    "gemeindeschlüssel": 13071146,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 549,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ralswiek",
+    "gemeindeschlüssel": 13073072,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 252,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mellenthin",
+    "gemeindeschlüssel": 13075090,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 461,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dümmer",
+    "gemeindeschlüssel": 13076036,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1523,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Wüstenfelde",
+    "gemeindeschlüssel": 13072041,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 800,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kloster Tempzin",
+    "gemeindeschlüssel": 13076167,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 546,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Röbel/Müritz, Stadt",
+    "gemeindeschlüssel": 13071124,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 4999,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Altefähr",
+    "gemeindeschlüssel": 13073003,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1275,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ückeritz, Seebad",
+    "gemeindeschlüssel": 13075135,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1009,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Groß Kelle",
+    "gemeindeschlüssel": 13071053,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 100,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kentzlin",
+    "gemeindeschlüssel": 13071072,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 210,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kobrow",
+    "gemeindeschlüssel": 13076072,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 409,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grimmen, Stadt",
+    "gemeindeschlüssel": 13073035,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 9369,
+    "za_absolut": 10,
+    "za_bereinigt": 10,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Krusenfelde",
+    "gemeindeschlüssel": 13075073,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 154,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pingelshagen",
+    "gemeindeschlüssel": 13074062,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 521,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zempin, Seebad",
+    "gemeindeschlüssel": 13075148,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 962,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Beseritz",
+    "gemeindeschlüssel": 13071009,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 120,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nadrensee",
+    "gemeindeschlüssel": 13075095,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 330,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Peenemünde",
+    "gemeindeschlüssel": 13075106,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 349,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sundhagen",
+    "gemeindeschlüssel": 13073090,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 5232,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Zislow",
+    "gemeindeschlüssel": 13071171,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 209,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Laage, Stadt",
+    "gemeindeschlüssel": 13072062,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 6477,
+    "za_absolut": 6,
+    "za_bereinigt": 6,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Dolgen am See",
+    "gemeindeschlüssel": 13072027,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 636,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Prislich",
+    "gemeindeschlüssel": 13076115,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 694,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neubukow, Stadt",
+    "gemeindeschlüssel": 13072074,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3937,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Gresse",
+    "gemeindeschlüssel": 13076054,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 706,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Dargelin",
+    "gemeindeschlüssel": 13075025,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 362,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Strohkirchen",
+    "gemeindeschlüssel": 13076131,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 321,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zarrendorf",
+    "gemeindeschlüssel": 13073104,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1138,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karstädt",
+    "gemeindeschlüssel": 13076069,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 603,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Balow",
+    "gemeindeschlüssel": 13076003,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 320,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Godendorf",
+    "gemeindeschlüssel": 13071042,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 226,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kargow",
+    "gemeindeschlüssel": 13071071,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 682,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kirch Jesar",
+    "gemeindeschlüssel": 13076070,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 637,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nostorf",
+    "gemeindeschlüssel": 13076106,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 672,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Staven",
+    "gemeindeschlüssel": 13071141,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 367,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lützow",
+    "gemeindeschlüssel": 13074050,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1550,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Verchen",
+    "gemeindeschlüssel": 13071150,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 383,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wusterhusen",
+    "gemeindeschlüssel": 13075146,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1100,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zepelin",
+    "gemeindeschlüssel": 13072120,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 441,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bergen auf Rügen, Stadt",
+    "gemeindeschlüssel": 13073010,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 13572,
+    "za_absolut": 16,
+    "za_bereinigt": 12,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Wackerow",
+    "gemeindeschlüssel": 13075141,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1496,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Nemerow",
+    "gemeindeschlüssel": 13071055,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1150,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Gadebusch, Stadt",
+    "gemeindeschlüssel": 13074021,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 5461,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Schwerin, Landeshauptstadt",
+    "gemeindeschlüssel": 13004000,
+    "kreisname": "Schwerin",
+    "bevölkerung": 95609,
+    "za_absolut": 113,
+    "za_bereinigt": 93,
+    "hausbesuche": 15,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Lübs",
+    "gemeindeschlüssel": 13075084,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 339,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Knorrendorf",
+    "gemeindeschlüssel": 13071079,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 552,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jürgenstorf",
+    "gemeindeschlüssel": 13071070,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 859,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Liepgarten",
+    "gemeindeschlüssel": 13075078,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 774,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Tellin",
+    "gemeindeschlüssel": 13075002,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 407,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wittendörp",
+    "gemeindeschlüssel": 13076153,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2906,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bartenshagen-Parkentin",
+    "gemeindeschlüssel": 13072007,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1339,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Benitz",
+    "gemeindeschlüssel": 13072011,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 398,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Torgelow am See",
+    "gemeindeschlüssel": 13071144,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 445,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Siggelkow",
+    "gemeindeschlüssel": 13076125,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 844,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Krien",
+    "gemeindeschlüssel": 13075068,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 661,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Teetzleben",
+    "gemeindeschlüssel": 13071057,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 683,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gribow",
+    "gemeindeschlüssel": 13075040,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 138,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klütz, Stadt",
+    "gemeindeschlüssel": 13074039,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3082,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Zirkow",
+    "gemeindeschlüssel": 13073106,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 685,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Damshagen",
+    "gemeindeschlüssel": 13074016,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1343,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Bützow, Stadt",
+    "gemeindeschlüssel": 13072020,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 7829,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Cambs",
+    "gemeindeschlüssel": 13076024,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 621,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neuenkirchen",
+    "gemeindeschlüssel": 13073059,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 284,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dersenow",
+    "gemeindeschlüssel": 13076030,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 465,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schwanheide",
+    "gemeindeschlüssel": 13076122,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 737,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Muchow",
+    "gemeindeschlüssel": 13076100,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 277,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Südmüritz",
+    "gemeindeschlüssel": 13071176,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 885,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Altenkirchen",
+    "gemeindeschlüssel": 13073004,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 901,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Ramin",
+    "gemeindeschlüssel": 13075113,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 665,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Franzburg, Stadt",
+    "gemeindeschlüssel": 13073024,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1364,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Trent",
+    "gemeindeschlüssel": 13073092,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 657,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Friedland, Stadt",
+    "gemeindeschlüssel": 13071035,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 6403,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Elmenhorst/Lichtenhagen",
+    "gemeindeschlüssel": 13072030,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 4270,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Neetzka",
+    "gemeindeschlüssel": 13071105,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 225,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lütow",
+    "gemeindeschlüssel": 13075087,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 428,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hoort",
+    "gemeindeschlüssel": 13076064,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 576,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Strasburg (Uckermark), Stadt",
+    "gemeindeschlüssel": 13075130,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 4553,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Altkalen",
+    "gemeindeschlüssel": 13072004,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 785,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sukow-Levitzow",
+    "gemeindeschlüssel": 13072103,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 497,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Möllenbeck",
+    "gemeindeschlüssel": 13071100,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 721,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kriesow",
+    "gemeindeschlüssel": 13071081,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 299,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sarow",
+    "gemeindeschlüssel": 13071128,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 717,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Teldau",
+    "gemeindeschlüssel": 13076136,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1029,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Vellahn",
+    "gemeindeschlüssel": 13076142,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2756,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Groß Roge",
+    "gemeindeschlüssel": 13072038,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 615,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Luckow",
+    "gemeindeschlüssel": 13075085,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 572,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Vogelsang-Warsin",
+    "gemeindeschlüssel": 13075139,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 360,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Benz",
+    "gemeindeschlüssel": 13075010,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1118,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Alt Schwerin",
+    "gemeindeschlüssel": 13071001,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 558,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Altenhagen",
+    "gemeindeschlüssel": 13071002,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 312,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gielow",
+    "gemeindeschlüssel": 13071039,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1076,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Penzin",
+    "gemeindeschlüssel": 13072078,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 140,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Tessin, Stadt",
+    "gemeindeschlüssel": 13072105,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3997,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 2,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Dargen",
+    "gemeindeschlüssel": 13075026,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 576,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Splietsdorf",
+    "gemeindeschlüssel": 13073086,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 451,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gallin-Kuppentin",
+    "gemeindeschlüssel": 13076040,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 467,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Usedom, Stadt",
+    "gemeindeschlüssel": 13075137,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1747,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Medow",
+    "gemeindeschlüssel": 13075088,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 486,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Friedrichsruhe",
+    "gemeindeschlüssel": 13076038,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 882,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hinrichshagen",
+    "gemeindeschlüssel": 13075050,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 924,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klein Trebbow",
+    "gemeindeschlüssel": 13074038,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1111,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klausdorf",
+    "gemeindeschlüssel": 13073044,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 692,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohenzieritz",
+    "gemeindeschlüssel": 13071066,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 451,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zapel",
+    "gemeindeschlüssel": 13076158,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 444,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dreschvitz",
+    "gemeindeschlüssel": 13073021,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 753,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Weitendorf",
+    "gemeindeschlüssel": 13076148,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 377,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Thulendorf",
+    "gemeindeschlüssel": 13072108,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 671,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Borkow",
+    "gemeindeschlüssel": 13076015,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 426,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stralsund, Hansestadt",
+    "gemeindeschlüssel": 13073088,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 59205,
+    "za_absolut": 48,
+    "za_bereinigt": 44,
+    "hausbesuche": 6,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Ruhner Berge",
+    "gemeindeschlüssel": 13076168,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1863,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Poseritz",
+    "gemeindeschlüssel": 13073065,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 986,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mölschow",
+    "gemeindeschlüssel": 13075092,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 779,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pätow-Steegen",
+    "gemeindeschlüssel": 13076110,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 405,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rieps",
+    "gemeindeschlüssel": 13074066,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 358,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grabowhöfe",
+    "gemeindeschlüssel": 13071047,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1349,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wendisch Baggendorf",
+    "gemeindeschlüssel": 13073098,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 535,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dreetz",
+    "gemeindeschlüssel": 13072028,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 199,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Züssow",
+    "gemeindeschlüssel": 13075154,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1306,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kogel",
+    "gemeindeschlüssel": 13076073,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 659,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Wokern",
+    "gemeindeschlüssel": 13072040,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1003,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Glasin",
+    "gemeindeschlüssel": 13074023,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 795,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Benz",
+    "gemeindeschlüssel": 13074004,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 641,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gelbensande",
+    "gemeindeschlüssel": 13072032,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1788,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Neu Poserin",
+    "gemeindeschlüssel": 13076104,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 502,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Murchin",
+    "gemeindeschlüssel": 13075094,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 760,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zinnowitz, Ostseebad",
+    "gemeindeschlüssel": 13075151,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 4158,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Krummin",
+    "gemeindeschlüssel": 13075072,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 244,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kuhlen-Wendorf",
+    "gemeindeschlüssel": 13076078,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 803,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Obere Warnow",
+    "gemeindeschlüssel": 13076164,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 800,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wendorf",
+    "gemeindeschlüssel": 13073099,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 897,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Brenz",
+    "gemeindeschlüssel": 13076017,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 510,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dettmannsdorf",
+    "gemeindeschlüssel": 13073015,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1036,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Klein Rogahn",
+    "gemeindeschlüssel": 13076071,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1336,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ganzlin",
+    "gemeindeschlüssel": 13076166,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1419,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lüttow-Valluhn",
+    "gemeindeschlüssel": 13076092,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 911,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dargun, Stadt",
+    "gemeindeschlüssel": 13071027,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 4331,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 3,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Dambeck",
+    "gemeindeschlüssel": 13076027,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 284,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rappin",
+    "gemeindeschlüssel": 13073074,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 312,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Trassenheide, Ostseebad",
+    "gemeindeschlüssel": 13075133,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 937,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Prohn",
+    "gemeindeschlüssel": 13073068,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2166,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Möllenbeck",
+    "gemeindeschlüssel": 13076098,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 171,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schildetal",
+    "gemeindeschlüssel": 13074072,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 768,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karlsburg",
+    "gemeindeschlüssel": 13075156,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1841,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Loddin, Seebad",
+    "gemeindeschlüssel": 13075080,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 991,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bresegard bei Eldena",
+    "gemeindeschlüssel": 13076018,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 199,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gustow",
+    "gemeindeschlüssel": 13073038,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 584,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Picher",
+    "gemeindeschlüssel": 13076111,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 642,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kublank",
+    "gemeindeschlüssel": 13071083,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 166,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wokuhl-Dabelow",
+    "gemeindeschlüssel": 13071162,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 590,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blankenberg",
+    "gemeindeschlüssel": 13076011,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 382,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Seehof",
+    "gemeindeschlüssel": 13074075,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 947,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Jabel",
+    "gemeindeschlüssel": 13071069,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 660,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warsow",
+    "gemeindeschlüssel": 13076147,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 676,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bernstorf",
+    "gemeindeschlüssel": 13074005,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 341,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stolpe an der Peene",
+    "gemeindeschlüssel": 13075128,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 275,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Passee",
+    "gemeindeschlüssel": 13074060,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 195,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rossow",
+    "gemeindeschlüssel": 13075117,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 447,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ziethen",
+    "gemeindeschlüssel": 13075150,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 440,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lubmin, Seebad",
+    "gemeindeschlüssel": 13075083,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2108,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Groß Stieten",
+    "gemeindeschlüssel": 13074030,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 548,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klein Upahl",
+    "gemeindeschlüssel": 13072055,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 235,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Barnekow",
+    "gemeindeschlüssel": 13074003,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 600,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zettemin",
+    "gemeindeschlüssel": 13071169,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 268,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sternberg, Stadt",
+    "gemeindeschlüssel": 13076128,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 4120,
+    "za_absolut": 6,
+    "za_bereinigt": 6,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Bargischow",
+    "gemeindeschlüssel": 13075007,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 286,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Brünzow",
+    "gemeindeschlüssel": 13075018,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 658,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mühl Rosin",
+    "gemeindeschlüssel": 13072073,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1125,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karnin",
+    "gemeindeschlüssel": 13073042,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 212,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Karenz",
+    "gemeindeschlüssel": 13076067,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 225,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Leezen",
+    "gemeindeschlüssel": 13076082,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2207,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Insel Hiddensee, Seebad",
+    "gemeindeschlüssel": 13073040,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 992,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Eggesin, Stadt",
+    "gemeindeschlüssel": 13075031,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 4711,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lübz, Stadt",
+    "gemeindeschlüssel": 13076089,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 6204,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Kenz-Küstrow",
+    "gemeindeschlüssel": 13073043,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 533,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Glasow",
+    "gemeindeschlüssel": 13075035,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 150,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Weitenhagen",
+    "gemeindeschlüssel": 13075142,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2020,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Altenpleen",
+    "gemeindeschlüssel": 13073005,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1000,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Glowe",
+    "gemeindeschlüssel": 13073030,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 974,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warrenzin",
+    "gemeindeschlüssel": 13071157,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 378,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Breege",
+    "gemeindeschlüssel": 13073013,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 573,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neukalen, Peenestadt",
+    "gemeindeschlüssel": 13071109,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1747,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Zülow",
+    "gemeindeschlüssel": 13076163,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 146,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Reddelich",
+    "gemeindeschlüssel": 13072083,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 977,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Krakow am See, Stadt",
+    "gemeindeschlüssel": 13072056,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3412,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Mistorf",
+    "gemeindeschlüssel": 13072071,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 642,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neverin",
+    "gemeindeschlüssel": 13071111,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1021,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Neuburg",
+    "gemeindeschlüssel": 13074056,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 2129,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blankensee",
+    "gemeindeschlüssel": 13075012,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 551,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kalkhorst",
+    "gemeindeschlüssel": 13074037,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1793,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Am Salzhaff",
+    "gemeindeschlüssel": 13072005,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 544,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gorlosen",
+    "gemeindeschlüssel": 13076049,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 451,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zemitz",
+    "gemeindeschlüssel": 13075147,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 702,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Werder",
+    "gemeindeschlüssel": 13071158,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 554,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blievenstorf",
+    "gemeindeschlüssel": 13076012,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 432,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lewitzrand",
+    "gemeindeschlüssel": 13076085,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1357,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jakobsdorf",
+    "gemeindeschlüssel": 13073041,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 484,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zehna",
+    "gemeindeschlüssel": 13072119,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 647,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Richtenberg, Stadt",
+    "gemeindeschlüssel": 13073076,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1331,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Briggow",
+    "gemeindeschlüssel": 13071018,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 307,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Göhren-Lebbin",
+    "gemeindeschlüssel": 13071043,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 631,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lindholz",
+    "gemeindeschlüssel": 13073050,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 632,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Plate",
+    "gemeindeschlüssel": 13076113,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 3324,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Möllenhagen",
+    "gemeindeschlüssel": 13071101,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1527,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lambrechtshagen",
+    "gemeindeschlüssel": 13072064,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2891,
+    "za_absolut": 5,
+    "za_bereinigt": 4,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Feldberger Seenlandschaft",
+    "gemeindeschlüssel": 13071033,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 4444,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 3,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Bütow",
+    "gemeindeschlüssel": 13071023,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 458,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gingst",
+    "gemeindeschlüssel": 13073028,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1227,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sanitz",
+    "gemeindeschlüssel": 13072091,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 6310,
+    "za_absolut": 4,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Tutow",
+    "gemeindeschlüssel": 13075134,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1027,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Polzin",
+    "gemeindeschlüssel": 13075043,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 400,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Selmsdorf",
+    "gemeindeschlüssel": 13074076,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3213,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Userin",
+    "gemeindeschlüssel": 13071147,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 688,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Göhren, Ostseebad",
+    "gemeindeschlüssel": 13073031,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1315,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Kuhstorf",
+    "gemeindeschlüssel": 13076079,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 733,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Zachun",
+    "gemeindeschlüssel": 13076002,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 369,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rothemühl",
+    "gemeindeschlüssel": 13075118,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 297,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rom",
+    "gemeindeschlüssel": 13076120,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 792,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grapzow",
+    "gemeindeschlüssel": 13071049,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 386,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Carpin",
+    "gemeindeschlüssel": 13071025,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 844,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stavenhagen, Reuterstadt",
+    "gemeindeschlüssel": 13071142,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 5721,
+    "za_absolut": 5,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Boiensdorf",
+    "gemeindeschlüssel": 13074009,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 495,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Vielank",
+    "gemeindeschlüssel": 13076143,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1262,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Stepenitztal",
+    "gemeindeschlüssel": 13074093,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1707,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wiendorf",
+    "gemeindeschlüssel": 13072116,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 781,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nustrow",
+    "gemeindeschlüssel": 13072076,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 158,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warlow",
+    "gemeindeschlüssel": 13076146,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 506,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Leopoldshagen",
+    "gemeindeschlüssel": 13075075,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 624,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Glewitz",
+    "gemeindeschlüssel": 13073029,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 544,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blankenhof",
+    "gemeindeschlüssel": 13071010,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 730,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dobin am See",
+    "gemeindeschlüssel": 13076033,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1974,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Torgelow, Stadt",
+    "gemeindeschlüssel": 13075131,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 8972,
+    "za_absolut": 12,
+    "za_bereinigt": 11,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Mesekenhagen",
+    "gemeindeschlüssel": 13075091,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1070,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Woggersin",
+    "gemeindeschlüssel": 13071161,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 514,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wildberg",
+    "gemeindeschlüssel": 13071160,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 496,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Burow",
+    "gemeindeschlüssel": 13071022,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 943,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Tarnow",
+    "gemeindeschlüssel": 13072104,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1083,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jördenstorf",
+    "gemeindeschlüssel": 13072049,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 936,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Eldetal",
+    "gemeindeschlüssel": 13071175,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 905,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hornstorf",
+    "gemeindeschlüssel": 13074034,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1203,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Fahrenwalde",
+    "gemeindeschlüssel": 13075032,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 270,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wöbbelin",
+    "gemeindeschlüssel": 13076156,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 907,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bentwisch",
+    "gemeindeschlüssel": 13072012,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3321,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 2,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Neuenkirchen",
+    "gemeindeschlüssel": 13075101,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 215,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Laasch",
+    "gemeindeschlüssel": 13076058,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 957,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lohme",
+    "gemeindeschlüssel": 13073052,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 459,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Moltzow",
+    "gemeindeschlüssel": 13071103,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 886,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Fincken",
+    "gemeindeschlüssel": 13071034,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 509,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Peenehagen",
+    "gemeindeschlüssel": 13071172,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1067,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neuenkirchen",
+    "gemeindeschlüssel": 13075102,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2391,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Glasewitz",
+    "gemeindeschlüssel": 13072033,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 436,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Behrenhoff",
+    "gemeindeschlüssel": 13075008,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 833,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Börgerende-Rethwisch",
+    "gemeindeschlüssel": 13072017,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1711,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Parchtitz",
+    "gemeindeschlüssel": 13073063,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 769,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Blowatz",
+    "gemeindeschlüssel": 13074007,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1144,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wittenhagen",
+    "gemeindeschlüssel": 13073102,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1155,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neuenkirchen",
+    "gemeindeschlüssel": 13071108,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1134,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sassen-Trantow",
+    "gemeindeschlüssel": 13075123,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 846,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bad Sülze, Stadt",
+    "gemeindeschlüssel": 13073007,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1731,
+    "za_absolut": 4,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Zirzow",
+    "gemeindeschlüssel": 13071170,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 332,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Woldegk, Windmühlenstadt",
+    "gemeindeschlüssel": 13071164,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 4308,
+    "za_absolut": 5,
+    "za_bereinigt": 4,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Hohenkirchen",
+    "gemeindeschlüssel": 13074032,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1271,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Plasten",
+    "gemeindeschlüssel": 13071056,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1045,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Züsow",
+    "gemeindeschlüssel": 13074091,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 288,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kreien",
+    "gemeindeschlüssel": 13076075,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 375,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kuckssee",
+    "gemeindeschlüssel": 13071173,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 546,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rühn",
+    "gemeindeschlüssel": 13072089,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 631,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Brüel, Stadt",
+    "gemeindeschlüssel": 13076020,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2587,
+    "za_absolut": 4,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Schönfeld",
+    "gemeindeschlüssel": 13071131,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 346,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Baumgarten",
+    "gemeindeschlüssel": 13072009,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 800,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grevesmühlen, Stadt",
+    "gemeindeschlüssel": 13074026,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 10439,
+    "za_absolut": 7,
+    "za_bereinigt": 7,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Satow",
+    "gemeindeschlüssel": 13072093,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 6018,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 2,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Zierow",
+    "gemeindeschlüssel": 13074089,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 805,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mönkebude",
+    "gemeindeschlüssel": 13075093,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 773,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Lübesse",
+    "gemeindeschlüssel": 13076086,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 699,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neu Boltenhagen",
+    "gemeindeschlüssel": 13075097,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 570,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Marlow, Stadt",
+    "gemeindeschlüssel": 13073055,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 4616,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Ahrenshagen-Daskow",
+    "gemeindeschlüssel": 13073001,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2147,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Grambow",
+    "gemeindeschlüssel": 13074025,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 666,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Moraas",
+    "gemeindeschlüssel": 13076099,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 483,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zierzow",
+    "gemeindeschlüssel": 13076161,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 364,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Blankenhagen",
+    "gemeindeschlüssel": 13072015,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1062,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Loissin",
+    "gemeindeschlüssel": 13075081,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 797,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dragun",
+    "gemeindeschlüssel": 13074020,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 753,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Admannshagen-Bargeshagen",
+    "gemeindeschlüssel": 13072001,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2899,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sukow",
+    "gemeindeschlüssel": 13076133,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1531,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Heringsdorf, Ostseebad",
+    "gemeindeschlüssel": 13075049,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 8443,
+    "za_absolut": 7,
+    "za_bereinigt": 7,
+    "hausbesuche": 4,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Zirchow",
+    "gemeindeschlüssel": 13075152,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 570,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Meteln",
+    "gemeindeschlüssel": 13074001,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1158,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Barkhagen",
+    "gemeindeschlüssel": 13076006,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 613,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bentzin",
+    "gemeindeschlüssel": 13075009,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 848,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Besitz",
+    "gemeindeschlüssel": 13076010,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 450,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Eixen",
+    "gemeindeschlüssel": 13073022,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 741,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Galenbeck",
+    "gemeindeschlüssel": 13071037,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1086,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kröpelin, Stadt",
+    "gemeindeschlüssel": 13072058,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 4789,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Uelitz",
+    "gemeindeschlüssel": 13076141,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 467,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Anklam, Hansestadt",
+    "gemeindeschlüssel": 13075005,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 12288,
+    "za_absolut": 18,
+    "za_bereinigt": 16,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Viereck",
+    "gemeindeschlüssel": 13075138,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1020,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Hoppenrade",
+    "gemeindeschlüssel": 13072048,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 637,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Süderholz",
+    "gemeindeschlüssel": 13073089,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 4058,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Perlin",
+    "gemeindeschlüssel": 13074061,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 383,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rollwitz",
+    "gemeindeschlüssel": 13075115,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 903,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Roduchelstorf",
+    "gemeindeschlüssel": 13074067,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 238,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hammer a. d. Uecker",
+    "gemeindeschlüssel": 13075045,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 464,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nossendorf",
+    "gemeindeschlüssel": 13071112,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 653,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dobbertin",
+    "gemeindeschlüssel": 13076032,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1106,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grammendorf",
+    "gemeindeschlüssel": 13073032,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 533,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Kamminke",
+    "gemeindeschlüssel": 13075056,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 249,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Krusenhagen",
+    "gemeindeschlüssel": 13074044,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 584,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jesendorf",
+    "gemeindeschlüssel": 13074036,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 503,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rögnitz",
+    "gemeindeschlüssel": 13074070,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 199,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grischow",
+    "gemeindeschlüssel": 13071050,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 241,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Patzig",
+    "gemeindeschlüssel": 13073064,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 452,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Elmenhorst",
+    "gemeindeschlüssel": 13073023,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 716,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gutow",
+    "gemeindeschlüssel": 13072044,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1002,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Penkow",
+    "gemeindeschlüssel": 13071114,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 266,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Greifswald, Universitäts- und Hansestadt",
+    "gemeindeschlüssel": 13075039,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 59282,
+    "za_absolut": 100,
+    "za_bereinigt": 78,
+    "hausbesuche": 6,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Mönchhagen",
+    "gemeindeschlüssel": 13072072,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1278,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rechlin",
+    "gemeindeschlüssel": 13071122,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 2043,
+    "za_absolut": 2,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Wustrow, Ostseebad",
+    "gemeindeschlüssel": 13073103,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1049,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Crivitz, Stadt",
+    "gemeindeschlüssel": 13076025,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 4780,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Ankershagen, Schliemanngemeinde",
+    "gemeindeschlüssel": 13071005,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 507,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Broderstorf",
+    "gemeindeschlüssel": 13072019,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3803,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Katzow",
+    "gemeindeschlüssel": 13075059,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 591,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Krenzlin",
+    "gemeindeschlüssel": 13076001,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 749,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Boock",
+    "gemeindeschlüssel": 13075016,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 572,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Görmin",
+    "gemeindeschlüssel": 13075036,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 882,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zickhusen",
+    "gemeindeschlüssel": 13074088,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 511,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Tramm",
+    "gemeindeschlüssel": 13076140,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 905,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Putgarten",
+    "gemeindeschlüssel": 13073071,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 185,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Semlow",
+    "gemeindeschlüssel": 13073085,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 693,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Stuer",
+    "gemeindeschlüssel": 13071143,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 247,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warnow",
+    "gemeindeschlüssel": 13074085,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 624,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Meiersberg",
+    "gemeindeschlüssel": 13075089,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 420,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schloen-Dratow",
+    "gemeindeschlüssel": 13071174,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 881,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Altwigshagen",
+    "gemeindeschlüssel": 13075004,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 388,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Malliß",
+    "gemeindeschlüssel": 13076094,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1072,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Kritzow",
+    "gemeindeschlüssel": 13076077,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 464,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Malchin, Stadt",
+    "gemeindeschlüssel": 13071092,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 7341,
+    "za_absolut": 9,
+    "za_bereinigt": 8,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Blumenholz",
+    "gemeindeschlüssel": 13071012,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 773,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gnevkow",
+    "gemeindeschlüssel": 13071041,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 321,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rastow",
+    "gemeindeschlüssel": 13076118,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1946,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lüblow",
+    "gemeindeschlüssel": 13076087,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 565,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Plöwen",
+    "gemeindeschlüssel": 13075108,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 268,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kuchelmiß",
+    "gemeindeschlüssel": 13072059,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 616,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kemnitz",
+    "gemeindeschlüssel": 13075060,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1150,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Lüdersdorf",
+    "gemeindeschlüssel": 13074049,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 5331,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 2,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Witzin",
+    "gemeindeschlüssel": 13076155,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 452,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hintersee",
+    "gemeindeschlüssel": 13075051,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 318,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sommersdorf",
+    "gemeindeschlüssel": 13071139,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 234,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rossin",
+    "gemeindeschlüssel": 13075116,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 167,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Born a. Darß",
+    "gemeindeschlüssel": 13073012,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1169,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Bollewick",
+    "gemeindeschlüssel": 13071013,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 648,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nienhagen, Ostseebad",
+    "gemeindeschlüssel": 13072075,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2140,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Altwarp",
+    "gemeindeschlüssel": 13075003,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 452,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gransebieth",
+    "gemeindeschlüssel": 13073033,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 554,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gülzow-Prüzen",
+    "gemeindeschlüssel": 13072042,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1584,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Techentin",
+    "gemeindeschlüssel": 13076135,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 727,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Divitz-Spoldershagen",
+    "gemeindeschlüssel": 13073018,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 451,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pasewalk, Stadt",
+    "gemeindeschlüssel": 13075105,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 9948,
+    "za_absolut": 11,
+    "za_bereinigt": 10,
+    "hausbesuche": 4,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Steinhagen",
+    "gemeindeschlüssel": 13073087,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2687,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Barnin",
+    "gemeindeschlüssel": 13076007,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 469,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Eldena",
+    "gemeindeschlüssel": 13076037,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1136,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schönberg, Stadt",
+    "gemeindeschlüssel": 13074074,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 4699,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lübstorf",
+    "gemeindeschlüssel": 13074048,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1458,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Spantekow",
+    "gemeindeschlüssel": 13075127,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1105,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Loitz, Stadt",
+    "gemeindeschlüssel": 13075082,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 4262,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Kruckow",
+    "gemeindeschlüssel": 13075070,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 665,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gnewitz",
+    "gemeindeschlüssel": 13072034,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 220,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Güstrow, Barlachstadt",
+    "gemeindeschlüssel": 13072043,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 28999,
+    "za_absolut": 31,
+    "za_bereinigt": 26,
+    "hausbesuche": 11,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Putbus, Stadt",
+    "gemeindeschlüssel": 13073070,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 4487,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Bastorf",
+    "gemeindeschlüssel": 13072008,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1078,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Niepars",
+    "gemeindeschlüssel": 13073060,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2492,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Löbnitz",
+    "gemeindeschlüssel": 13073051,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 574,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mestlin",
+    "gemeindeschlüssel": 13076096,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 755,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Malchow, Inselstadt",
+    "gemeindeschlüssel": 13071093,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 6542,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Lindenberg",
+    "gemeindeschlüssel": 13071089,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 220,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Godems",
+    "gemeindeschlüssel": 13076056,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 394,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Thelkow",
+    "gemeindeschlüssel": 13072107,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 460,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Behren-Lübchin",
+    "gemeindeschlüssel": 13072010,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 906,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lindetal",
+    "gemeindeschlüssel": 13071090,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1168,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Domsühl",
+    "gemeindeschlüssel": 13076035,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1358,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Boizenburg/Elbe, Stadt",
+    "gemeindeschlüssel": 13076014,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 10722,
+    "za_absolut": 7,
+    "za_bereinigt": 7,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Fuhlendorf",
+    "gemeindeschlüssel": 13073025,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 819,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wittenbeck",
+    "gemeindeschlüssel": 13072117,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 872,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Nossentiner Hütte",
+    "gemeindeschlüssel": 13071113,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 644,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ummanz",
+    "gemeindeschlüssel": 13073095,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 542,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lassan, Stadt",
+    "gemeindeschlüssel": 13075074,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1468,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ahlbeck",
+    "gemeindeschlüssel": 13075001,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 582,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Demmin, Hansestadt",
+    "gemeindeschlüssel": 13071029,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 10523,
+    "za_absolut": 12,
+    "za_bereinigt": 11,
+    "hausbesuche": 4,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Boltenhagen, Ostseebad",
+    "gemeindeschlüssel": 13074010,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 2470,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Grambow",
+    "gemeindeschlüssel": 13075038,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 853,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dassow, Stadt",
+    "gemeindeschlüssel": 13074017,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 4102,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lübtheen, Stadt",
+    "gemeindeschlüssel": 13076088,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 4643,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Stubbendorf",
+    "gemeindeschlüssel": 13072102,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 172,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Voigtsdorf",
+    "gemeindeschlüssel": 13071153,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 93,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lüssow",
+    "gemeindeschlüssel": 13072069,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 943,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Löcknitz",
+    "gemeindeschlüssel": 13075079,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 3255,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Lärz",
+    "gemeindeschlüssel": 13071087,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 497,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bandelin",
+    "gemeindeschlüssel": 13075006,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 531,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Kiesow",
+    "gemeindeschlüssel": 13075041,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1271,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kluis",
+    "gemeindeschlüssel": 13073045,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 411,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lalendorf",
+    "gemeindeschlüssel": 13072063,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 3525,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Pokrent",
+    "gemeindeschlüssel": 13074064,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 680,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lancken-Granitz",
+    "gemeindeschlüssel": 13073048,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 454,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lohmen",
+    "gemeindeschlüssel": 13072067,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 796,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Vollrathsruhe",
+    "gemeindeschlüssel": 13071154,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 402,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bad Doberan, Stadt",
+    "gemeindeschlüssel": 13072006,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 12755,
+    "za_absolut": 18,
+    "za_bereinigt": 17,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Schlagsdorf",
+    "gemeindeschlüssel": 13074073,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1190,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neubrandenburg, Vier-Tore-Stadt",
+    "gemeindeschlüssel": 13071107,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 63372,
+    "za_absolut": 71,
+    "za_bereinigt": 56,
+    "hausbesuche": 6,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Ventschow",
+    "gemeindeschlüssel": 13074082,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 738,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lüssow",
+    "gemeindeschlüssel": 13073054,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 809,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schmatzin",
+    "gemeindeschlüssel": 13075125,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 280,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Siemz-Niendorf",
+    "gemeindeschlüssel": 13074094,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 641,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schönbeck",
+    "gemeindeschlüssel": 13071130,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 465,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grieben",
+    "gemeindeschlüssel": 13074027,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 162,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jatznick",
+    "gemeindeschlüssel": 13075055,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2239,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wesenberg, Stadt",
+    "gemeindeschlüssel": 13071159,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 3057,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Grabow, Stadt",
+    "gemeindeschlüssel": 13076050,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 5559,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Demen",
+    "gemeindeschlüssel": 13076029,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 839,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schwasdorf",
+    "gemeindeschlüssel": 13072096,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 438,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Buggenhagen",
+    "gemeindeschlüssel": 13075021,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 210,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klocksin",
+    "gemeindeschlüssel": 13071078,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 312,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Barth, Stadt",
+    "gemeindeschlüssel": 13073009,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 8609,
+    "za_absolut": 10,
+    "za_bereinigt": 10,
+    "hausbesuche": 2,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Mirow, Stadt",
+    "gemeindeschlüssel": 13071099,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 3883,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Levenhagen",
+    "gemeindeschlüssel": 13075076,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 423,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gotthun",
+    "gemeindeschlüssel": 13071045,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 327,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rubkow",
+    "gemeindeschlüssel": 13075121,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 614,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Breest",
+    "gemeindeschlüssel": 13071017,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 137,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wittenförden",
+    "gemeindeschlüssel": 13076154,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2511,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Kneese",
+    "gemeindeschlüssel": 13074040,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 349,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Carinerland",
+    "gemeindeschlüssel": 13072022,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1262,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schossin",
+    "gemeindeschlüssel": 13076121,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 253,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schlemmin",
+    "gemeindeschlüssel": 13073082,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 291,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Daberkow",
+    "gemeindeschlüssel": 13075023,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 339,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Holldorf",
+    "gemeindeschlüssel": 13071067,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 765,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Krackow",
+    "gemeindeschlüssel": 13075067,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 625,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wismar, Hansestadt",
+    "gemeindeschlüssel": 13074087,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 42824,
+    "za_absolut": 48,
+    "za_bereinigt": 42,
+    "hausbesuche": 8,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Graal-Müritz, Ostseeheilbad",
+    "gemeindeschlüssel": 13072036,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 4080,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Wiek",
+    "gemeindeschlüssel": 13073101,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1061,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sietow",
+    "gemeindeschlüssel": 13071137,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 629,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Beggerow",
+    "gemeindeschlüssel": 13071008,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 503,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Siedenbollentin",
+    "gemeindeschlüssel": 13071135,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 553,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Biendorf",
+    "gemeindeschlüssel": 13072014,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1233,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Banzkow",
+    "gemeindeschlüssel": 13076005,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2795,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Silz",
+    "gemeindeschlüssel": 13071138,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 363,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pragsdorf",
+    "gemeindeschlüssel": 13071117,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 555,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zerrenthin",
+    "gemeindeschlüssel": 13075149,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 468,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Papenhagen",
+    "gemeindeschlüssel": 13073062,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 557,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Saal",
+    "gemeindeschlüssel": 13073077,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1411,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Holthusen",
+    "gemeindeschlüssel": 13076063,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 938,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Parchim, Stadt",
+    "gemeindeschlüssel": 13076108,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 17622,
+    "za_absolut": 16,
+    "za_bereinigt": 16,
+    "hausbesuche": 5,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Hugoldsdorf",
+    "gemeindeschlüssel": 13073039,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 126,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Milow",
+    "gemeindeschlüssel": 13076097,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 359,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gallin",
+    "gemeindeschlüssel": 13076039,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 582,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rüting",
+    "gemeindeschlüssel": 13074071,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 525,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wedendorfersee",
+    "gemeindeschlüssel": 13074092,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 638,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gnoien, Warbelstadt",
+    "gemeindeschlüssel": 13072035,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2898,
+    "za_absolut": 6,
+    "za_bereinigt": 6,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Toddin",
+    "gemeindeschlüssel": 13076169,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 924,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grünow",
+    "gemeindeschlüssel": 13071058,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 287,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bandenitz",
+    "gemeindeschlüssel": 13076004,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 483,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Brahlstorf",
+    "gemeindeschlüssel": 13076016,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 715,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grammow",
+    "gemeindeschlüssel": 13072037,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 153,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Velgast",
+    "gemeindeschlüssel": 13073096,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1702,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wrangelsburg",
+    "gemeindeschlüssel": 13075145,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 235,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Polzow",
+    "gemeindeschlüssel": 13075109,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 248,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dersekow",
+    "gemeindeschlüssel": 13075027,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1096,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Sponholz",
+    "gemeindeschlüssel": 13071140,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 743,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gottesgabe",
+    "gemeindeschlüssel": 13074024,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 745,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Melz",
+    "gemeindeschlüssel": 13071097,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 336,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Schaprode",
+    "gemeindeschlüssel": 13073081,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 419,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Selpin",
+    "gemeindeschlüssel": 13072097,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 488,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pripsleben",
+    "gemeindeschlüssel": 13071120,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 231,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Lübow",
+    "gemeindeschlüssel": 13074047,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1593,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wustrow",
+    "gemeindeschlüssel": 13071167,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 735,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Poppendorf",
+    "gemeindeschlüssel": 13072081,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 696,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dierhagen, Ostseebad",
+    "gemeindeschlüssel": 13073017,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1598,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Spornitz",
+    "gemeindeschlüssel": 13076126,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1217,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Neu Kaliß",
+    "gemeindeschlüssel": 13076103,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1955,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Kramerhof",
+    "gemeindeschlüssel": 13073046,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1894,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Zarrentin am Schaalsee, Stadt",
+    "gemeindeschlüssel": 13076159,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 5369,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Hagenow, Stadt",
+    "gemeindeschlüssel": 13076060,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 12245,
+    "za_absolut": 14,
+    "za_bereinigt": 13,
+    "hausbesuche": 4,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Neetzow-Liepen",
+    "gemeindeschlüssel": 13075155,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 807,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dorf Mecklenburg",
+    "gemeindeschlüssel": 13074019,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3162,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bernitt",
+    "gemeindeschlüssel": 13072013,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1590,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Garz",
+    "gemeindeschlüssel": 13075034,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 280,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grebs-Niendorf",
+    "gemeindeschlüssel": 13076053,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 536,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kassow",
+    "gemeindeschlüssel": 13072051,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 319,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mönchgut, Ostseebad",
+    "gemeindeschlüssel": 13073107,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1369,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Sagard",
+    "gemeindeschlüssel": 13073078,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2398,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Tribsees, Stadt",
+    "gemeindeschlüssel": 13073093,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 2598,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 2,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Ducherow",
+    "gemeindeschlüssel": 13075029,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2421,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Bobzin",
+    "gemeindeschlüssel": 13076013,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 262,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ivenack",
+    "gemeindeschlüssel": 13071068,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 809,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Butzow",
+    "gemeindeschlüssel": 13075022,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 434,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Miltzow",
+    "gemeindeschlüssel": 13071054,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 982,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jarmen, Stadt",
+    "gemeindeschlüssel": 13075054,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2941,
+    "za_absolut": 5,
+    "za_bereinigt": 5,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Pritzier",
+    "gemeindeschlüssel": 13076116,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 400,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Roggentin",
+    "gemeindeschlüssel": 13072087,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 2714,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Warin, Stadt",
+    "gemeindeschlüssel": 13074084,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3239,
+    "za_absolut": 3,
+    "za_bereinigt": 3,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Brunow",
+    "gemeindeschlüssel": 13076021,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 292,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Priepert",
+    "gemeindeschlüssel": 13071119,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 317,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wilhelmsburg",
+    "gemeindeschlüssel": 13075143,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 749,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Utecht",
+    "gemeindeschlüssel": 13074080,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 426,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bülow",
+    "gemeindeschlüssel": 13076023,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 336,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Thandorf",
+    "gemeindeschlüssel": 13074078,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 183,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klink",
+    "gemeindeschlüssel": 13071077,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 1128,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grammentin",
+    "gemeindeschlüssel": 13071048,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 246,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Alt Sührkow",
+    "gemeindeschlüssel": 13072003,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 389,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Steffenshagen",
+    "gemeindeschlüssel": 13072099,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 532,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ziesendorf",
+    "gemeindeschlüssel": 13072121,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1418,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Jürgenshagen",
+    "gemeindeschlüssel": 13072050,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 1105,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Plaaz",
+    "gemeindeschlüssel": 13072079,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 766,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Priborn",
+    "gemeindeschlüssel": 13071118,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 353,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pölchow",
+    "gemeindeschlüssel": 13072080,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 937,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Groß Schwiesow",
+    "gemeindeschlüssel": 13072039,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 298,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohen Pritz",
+    "gemeindeschlüssel": 13076062,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 357,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Kühlungsborn, Ostseebad, Stadt",
+    "gemeindeschlüssel": 13072060,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 7930,
+    "za_absolut": 8,
+    "za_bereinigt": 8,
+    "hausbesuche": 3,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Belsch",
+    "gemeindeschlüssel": 13076008,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 227,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Hohen Wangelin",
+    "gemeindeschlüssel": 13071063,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 607,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zölkow",
+    "gemeindeschlüssel": 13076162,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 742,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Grambin",
+    "gemeindeschlüssel": 13075037,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 424,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Upahl",
+    "gemeindeschlüssel": 13074079,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1609,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Raben Steinfeld",
+    "gemeindeschlüssel": 13076117,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 1055,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ahrenshoop, Ostseebad",
+    "gemeindeschlüssel": 13073002,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 651,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mölln",
+    "gemeindeschlüssel": 13071102,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 510,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Trinwillershagen",
+    "gemeindeschlüssel": 13073094,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 1145,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Altentreptow, Stadt",
+    "gemeindeschlüssel": 13071004,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 5221,
+    "za_absolut": 5,
+    "za_bereinigt": 4,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Holdorf",
+    "gemeindeschlüssel": 13074033,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 393,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Ziegendorf",
+    "gemeindeschlüssel": 13076160,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 632,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Pinnow",
+    "gemeindeschlüssel": 13076112,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 2028,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Ludwigslust, Stadt",
+    "gemeindeschlüssel": 13076090,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 11959,
+    "za_absolut": 18,
+    "za_bereinigt": 14,
+    "hausbesuche": 4,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Bugewitz",
+    "gemeindeschlüssel": 13075020,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 232,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Meesiger",
+    "gemeindeschlüssel": 13071096,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 241,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rambin",
+    "gemeindeschlüssel": 13073073,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 944,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Bobitz",
+    "gemeindeschlüssel": 13074008,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 2478,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Carlow",
+    "gemeindeschlüssel": 13074013,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1220,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 2
+  },
+  {
+    "gemeindename": "Greven",
+    "gemeindeschlüssel": 13076055,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 721,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Prebberede",
+    "gemeindeschlüssel": 13072082,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 773,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rukieten",
+    "gemeindeschlüssel": 13072090,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 354,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Wieck a. Darß",
+    "gemeindeschlüssel": 13073100,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 719,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Malk Göhren",
+    "gemeindeschlüssel": 13076093,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 402,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Utzedel",
+    "gemeindeschlüssel": 13071148,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 470,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Klein Bünzow",
+    "gemeindeschlüssel": 13075061,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 673,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Gammelin",
+    "gemeindeschlüssel": 13076041,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 477,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Stolpe",
+    "gemeindeschlüssel": 13076129,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 345,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Heinrichswalde",
+    "gemeindeschlüssel": 13075048,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 401,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Mühlen Eichsen",
+    "gemeindeschlüssel": 13074054,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 966,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Penzlin, Stadt",
+    "gemeindeschlüssel": 13071115,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 4175,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 0,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Dechow",
+    "gemeindeschlüssel": 13074018,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 181,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Rehna, Stadt",
+    "gemeindeschlüssel": 13074065,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 3592,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 2,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Koserow, Ostseebad",
+    "gemeindeschlüssel": 13075066,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 1703,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Cammin",
+    "gemeindeschlüssel": 13072021,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 757,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Neu Gülze",
+    "gemeindeschlüssel": 13076102,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 769,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zingst, Ostseeheilbad",
+    "gemeindeschlüssel": 13073105,
+    "kreisname": "Vorpommern-Rügen",
+    "bevölkerung": 3154,
+    "za_absolut": 1,
+    "za_bereinigt": 1,
+    "hausbesuche": 1,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Hohenmocker",
+    "gemeindeschlüssel": 13071065,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 455,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dummerstorf",
+    "gemeindeschlüssel": 13072029,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 7427,
+    "za_absolut": 4,
+    "za_bereinigt": 4,
+    "hausbesuche": 3,
+    "kategorie": 5
+  },
+  {
+    "gemeindename": "Waren (Müritz), Stadt",
+    "gemeindeschlüssel": 13071156,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 21147,
+    "za_absolut": 21,
+    "za_bereinigt": 20,
+    "hausbesuche": 5,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Ferdinandshof",
+    "gemeindeschlüssel": 13075033,
+    "kreisname": "Vorpommern-Greifswald",
+    "bevölkerung": 2637,
+    "za_absolut": 2,
+    "za_bereinigt": 2,
+    "hausbesuche": 0,
+    "kategorie": 3
+  },
+  {
+    "gemeindename": "Neustrelitz, Residenzstadt",
+    "gemeindeschlüssel": 13071110,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 20151,
+    "za_absolut": 20,
+    "za_bereinigt": 19,
+    "hausbesuche": 1,
+    "kategorie": 1
+  },
+  {
+    "gemeindename": "Basedow",
+    "gemeindeschlüssel": 13071007,
+    "kreisname": "Mecklenburgische Seenplatte",
+    "bevölkerung": 683,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Bengerstorf",
+    "gemeindeschlüssel": 13076009,
+    "kreisname": "Ludwigslust-Parchim",
+    "bevölkerung": 540,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Zurow",
+    "gemeindeschlüssel": 13074090,
+    "kreisname": "Nordwestmecklenburg",
+    "bevölkerung": 1288,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  },
+  {
+    "gemeindename": "Dobbin-Linstow",
+    "gemeindeschlüssel": 13072026,
+    "kreisname": "Landkreis Rostock",
+    "bevölkerung": 502,
+    "za_absolut": 0,
+    "za_bereinigt": 0,
+    "hausbesuche": 0,
+    "kategorie": 0
+  }
+]

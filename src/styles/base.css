@@ -1,0 +1,22 @@
+:root {
+  --box-margin: 30px;
+}
+
+.AGIF {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#map {
+  height: 90vh;
+  width: 68vw;
+}
+
+.hidden {
+  display: none;
+}
