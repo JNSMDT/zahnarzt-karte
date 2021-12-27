@@ -8,28 +8,34 @@ async function main() {
   const { type, features } = geoMV;
 
   const zaDataFile = await readFile(resolve(args[0]));
+  /**
+   * @type {Record<string,unknown>[]]}
+   */
   const zaData = JSON.parse(zaDataFile.toString());
 
   const newFeat = features.map((feat) => {
     const { type, properties, geometry } = feat;
 
-    const gemeindeZaData = zaData.filter(
-      (za) =>
+    const gemeindeZaData = zaData.filter((za) => {
+      /**
+       * @type {string}
+       */
+      const gsString = za.gemeindeschlüssel.toString();
+      const gsLastThree = gsString.slice(gsString.length - 3);
+
+      const ks = properties.kreis_schluessel;
+
+      const zaGemeindeSchlüssel = Number(`${ks}${gsLastThree}`);
+
+      return (
+        za.gemeindeschlüssel === zaGemeindeSchlüssel &&
         za.gemeindename == properties.gemeinde_name &&
         za.kreisname == properties.kreis_name
-    );
+      );
+    });
 
-    let gemeindeDaten = gemeindeZaData[0];
+    const gemeindeDaten = gemeindeZaData[0];
 
-    if (gemeindeZaData.length === 0) {
-      gemeindeDaten = {
-        versorgungsindex: 0,
-        za_absolut: 0,
-        za_bereinigt: 0,
-        hausbesuche: 0,
-        kategorie: 0,
-      };
-    }
     const newProp = { ...properties, ...gemeindeDaten };
     return { type, properties: newProp, geometry };
   });

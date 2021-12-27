@@ -4,6 +4,7 @@ import { writeFile } from "fs/promises";
  * @typedef {Object} RawResults
  * @property {number} Gemeindeschlüssel
  * @property {string} kreis_name
+ * @property {string} Amt_Name
  * @property {string} Gemeindename
  * @property {string} Gemeinde_Name
  * @property {string} Bevölkerung
@@ -16,6 +17,7 @@ import { writeFile } from "fs/promises";
  * @typedef {Object} NormalizedResults
  * @property {number} gemeindeschlüssel
  * @property {string} gemeindename
+ * @property {string} amtname
  * @property {string} kreisname
  * @property {string} bevölkerung
  * @property {number} za_absolut
@@ -28,6 +30,7 @@ import { writeFile } from "fs/promises";
  * @typedef {Object} ResultPopNum
  * @property {number} gemeindeschlüssel
  * @property {string} gemeindename
+ * @property {string} amtname
  * @property {string} kreisname
  * @property {number} bevölkerung
  * @property {number} za_absolut
@@ -39,6 +42,7 @@ import { writeFile } from "fs/promises";
  * @typedef {Object} ResultWithVI
  * @property {number} gemeindeschlüssel
  * @property {string} gemeindename
+ * @property {string} amtname
  * @property {string} kreisname
  * @property {number} bevölkerung
  * @property {number} za_absolut
@@ -105,27 +109,18 @@ function injectVI(results) {
  */
 function normalizeKeys(results) {
   const normalizedResults = results.map((result) => {
-    const {
-      Bevölkerung,
-      Gemeinde_Name,
-      Gemeindename,
-      Gemeindeschlüssel,
-      hausbesuche,
-      kreis_name,
-      za_absolut,
-      za_bereinigt,
-      Kategorie,
-    } = result;
+    const amtname = result.Amt_Name.replace(" (amtsfreie Gemeinde)", "");
 
     return {
-      gemeindename: Gemeinde_Name,
-      gemeindeschlüssel: Gemeindeschlüssel,
-      kreisname: kreis_name,
-      bevölkerung: Bevölkerung,
-      za_absolut: za_absolut,
-      za_bereinigt: za_bereinigt,
-      hausbesuche: hausbesuche,
-      kategorie: Kategorie,
+      gemeindename: result.Gemeinde_Name,
+      gemeindeschlüssel: result["Gemeindeschlüssel"],
+      amtname: result.amtname,
+      kreisname: result.kreis_name,
+      bevölkerung: result["Bevölkerung"],
+      za_absolut: result.za_absolut,
+      za_bereinigt: result.za_bereinigt,
+      hausbesuche: result.hausbesuche,
+      kategorie: result.Kategorie === null ? 0 : result.Kategorie,
     };
   });
   return normalizedResults;

@@ -1,4 +1,4 @@
-import geoJSONMV from "../data/geoMVwZA.json";
+import localGEOJSON from "../data/geoMVwZA.json";
 import { catStyle } from "./lib/layerStyles";
 // import stateBorders from "../data/lkmv.json";
 import { getGeoJSON } from "./lib/utils";
@@ -93,8 +93,13 @@ async function main() {
   mapTile.addTo(map);
 
   // kategorie
-  L.geoJSON(geoJSONMV, {
+  L.geoJSON(localGEOJSON, {
     style: catStyle,
+    onEachFeature: (feat, layer) => {
+      layer.on({
+        click: () => console.log(feat.properties),
+      });
+    },
   }).addTo(map);
 }
 
