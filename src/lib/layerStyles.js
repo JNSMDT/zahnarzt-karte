@@ -13,7 +13,7 @@ function getCatColor(cat) {
     ? "#ff4500"
     : cat == 6
     ? "#ff0000"
-    : "#ffffff";
+    : "#888";
 }
 
 /**
