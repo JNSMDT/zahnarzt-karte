@@ -1,7 +1,7 @@
-import localGEOJSON from "../data/geoMVwZA.json";
-import { catStyle } from "./lib/layerStyles";
-// import stateBorders from "../data/lkmv.json";
-import { getGeoJSON } from "./lib/utils";
+import { categoryStyles, CATEGORY_COLORS } from "./lib/layerStyles";
+import { updateSidebar } from "./lib/sidebar";
+import { getJSONData } from "./lib/utils";
+import { combineJSON, convertPopToNum, normalizeKeys } from "./lib/processing";
 /**
  * @typedef {import(@types/leaflet)}
  */
@@ -9,68 +9,81 @@ import { getGeoJSON } from "./lib/utils";
 // ###################################################################
 // OLD FROM MAPBOX GL
 
-const legendThresholds = {
-  ZaV: [
-    "0",
-    "1 - 2",
-    "3 - 5",
-    "6 - 10",
-    "11 - 20",
-    "21 - 50",
-    "51-100",
-    "> 100",
-  ],
-  LK: ["< 100", "100 - 149", "150 - 199", "200 - 250", "> 250"],
-  VI: ["< 0.75", "0.75 - 1", "> 1"],
-  RVI: ["no Kat", "1", "2", "3", "4", "5", "6"],
-};
+// const legendThresholds = {
+//   ZaV: [
+//     "0",
+//     "1 - 2",
+//     "3 - 5",
+//     "6 - 10",
+//     "11 - 20",
+//     "21 - 50",
+//     "51-100",
+//     "> 100",
+//   ],
+//   LK: ["< 100", "100 - 149", "150 - 199", "200 - 250", "> 250"],
+//   VI: ["< 0.75", "0.75 - 1", "> 1"],
+//   RVI: ["no Kat", "1", "2", "3", "4", "5", "6"],
+// };
 
-const BUTTON_NAME = {
-  ZaV: "Zahnarzt (absolut)",
-  ZaV_b: "Zaharzt (bereinigt)",
-  ZaV_H: "Hausbesuche",
-  VI: "Versorgungsindex",
-  RVI: "Regionaler VI",
-  gBorder: "Gemeinden",
-  lkBorder: "Landkreise",
-};
+// const BUTTON_NAME = {
+//   ZaV: "Zahnarzt (absolut)",
+//   ZaV_b: "Zaharzt (bereinigt)",
+//   ZaV_H: "Hausbesuche",
+//   VI: "Versorgungsindex",
+//   RVI: "Regionaler VI",
+//   gBorder: "Gemeinden",
+//   lkBorder: "Landkreise",
+// };
 
-const COLORS = {
-  ZaV: [
-    "#ffffff",
-    "#c6dbef",
-    "#9ecae1",
-    "#6baed6",
-    "#4292c6",
-    "#2171b5",
-    "#08519c",
-    "#08306b",
-  ],
-  LK: ["#c6dbef", "#6baed6", "#2171b5", "#08519c", "#08306b"],
-  VI: ["#fcbba1", "#ffffff", "#a1d99b"],
-  RVI: [
-    "#262626",
-    "#006400",
-    "#90ee90",
-    "#ffff00",
-    "#ffa500",
-    "#ff4500",
-    "#ff0000",
-  ],
-};
+// const COLORS = {
+//   ZaV: [
+//     "#ffffff",
+//     "#c6dbef",
+//     "#9ecae1",
+//     "#6baed6",
+//     "#4292c6",
+//     "#2171b5",
+//     "#08519c",
+//     "#08306b",
+//   ],
+//   LK: ["#c6dbef", "#6baed6", "#2171b5", "#08519c", "#08306b"],
+//   VI: ["#fcbba1", "#ffffff", "#a1d99b"],
+//   RVI: [
+//     "#262626",
+//     "#006400",
+//     "#90ee90",
+//     "#ffff00",
+//     "#ffa500",
+//     "#ff4500",
+//     "#ff0000",
+//   ],
+// };
 
 // ###################################################################
 
 const GEOJSON_URL =
   "https://geo.sv.rostock.de/download/opendata/gemeinden_mecklenburg-vorpommern/gemeinden_mecklenburg-vorpommern.json";
 
+const GEMEINDE_DATA_URL =
+  "https://json-provider.angertitan.workers.dev/zaGemData";
+
 const STARTPOS = [53.9, 12.6]; // starting position [lng, lat]
 const ZOOM = 9.2;
 
 async function main() {
   // Get Data
-  const geoJSONMV = await getGeoJSON(GEOJSON_URL);
-  console.log(typeof geoJSONMV);
+  console.log("Getting Data");
+  const geoJSONMV = await getJSONData(GEOJSON_URL, "geoJSONMV");
+  console.log({ m: "received geoJSON", d: geoJSONMV });
+  let gemeindeDaten = await getJSONData(GEMEINDE_DATA_URL, "gemeindeDaten");
+  console.log({ m: "received gemeindeDaten", d: gemeindeDaten });
+
+  // Process Data
+  gemeindeDaten = normalizeKeys(gemeindeDaten);
+  gemeindeDaten = convertPopToNum(gemeindeDaten);
+
+  const geoJSONGemData = combineJSON(geoJSONMV, gemeindeDaten);
+  console.log(geoJSONGemData);
   // Init Map
   /**
    * @type L.MapOptions
@@ -92,15 +105,48 @@ async function main() {
   );
   mapTile.addTo(map);
 
-  // kategorie
-  L.geoJSON(localGEOJSON, {
-    style: catStyle,
+  // Add geoJSON Layer
+  const geoJSONLayer = L.geoJSON(geoJSONGemData, {
+    style: categoryStyles,
     onEachFeature: (feat, layer) => {
       layer.on({
-        click: () => console.log(feat.properties),
+        click: () => {
+          console.log(feat.properties.gemeindeZADaten);
+          updateSidebar(feat.properties.gemeindeZADaten);
+        },
       });
     },
-  }).addTo(map);
+  });
+
+  map.addLayer(geoJSONLayer);
+
+  // add Legend
+  const legend = L.control({ position: "topright" });
+  legend.onAdd = function (map) {
+    const legendElement = L.DomUtil.create("div", "legend");
+    const categories = Object.keys(CATEGORY_COLORS);
+
+    categories.forEach((cat) => {
+      const legendItem = L.DomUtil.create("div", "legend-item", legendElement);
+      const legendItemColor = L.DomUtil.create(
+        "div",
+        "legend-color",
+        legendItem
+      );
+      const legendItemValue = L.DomUtil.create(
+        "div",
+        "legend-value",
+        legendItem
+      );
+
+      legendItemColor.style.backgroundColor = `${CATEGORY_COLORS[cat]}`;
+      legendItemValue.innerText = `${cat}`;
+    });
+
+    return legendElement;
+  };
+
+  legend.addTo(map);
 }
 
 main();

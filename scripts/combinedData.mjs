@@ -36,7 +36,7 @@ async function main() {
 
     const gemeindeDaten = gemeindeZaData[0];
 
-    const newProp = { ...properties, ...gemeindeDaten };
+    const newProp = { ...properties, gemeindeZADaten: gemeindeDaten };
     return { type, properties: newProp, geometry };
   });
 

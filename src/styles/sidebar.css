@@ -1,0 +1,32 @@
+.sideBar {
+  position: absolute;
+  top: 5vh;
+  width: 16vw;
+  padding: 0 20px;
+  height: 90vh;
+}
+
+.sideBar-data-list {
+  text-align: center;
+  height: 90vh;
+  background-color: #f8f8f8;
+}
+
+.data-list-item {
+  padding: 25px 0;
+}
+.data-list-item:last-child {
+  border: none;
+}
+
+.data-list-key {
+  font-size: 16px;
+
+  color: grey;
+  padding-bottom: 10px;
+}
+
+.data-list-value {
+  font-size: 20px;
+  font-weight: 700;
+}

@@ -2,6 +2,16 @@
  * @typedef {import("@cloudflare/workers-types")}
  */
 
+const defaultReponseOptions = {
+  headers: {
+    "Content-Type": "applicaion/json",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
+    "Access-Control-Allow-Headers":
+      "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers",
+  },
+};
+
 /**
  *
  * @param {string} jsonString
@@ -30,21 +40,24 @@ async function getRequest(url) {
   const requestedJSON = url.pathname.replace("/", "");
   if (requestedJSON === "") {
     return new Response(
-      {
-        error: {
-          message: "you need to provide a path to request a json",
+      JSON.stringify(
+        {
+          error: {
+            message: "you need to provide a path to request a json",
+          },
         },
-      },
-      {
-        status: 400,
-        headers: {
-          "Content-Type": "application/json",
-        },
-      }
+        {
+          status: 400,
+          headers: {
+            "Content-Type": "application/json",
+          },
+          ...defaultReponseOptions,
+        }
+      )
     );
   }
 
-  const jsonString = await KVStore.get("zaData");
+  const jsonString = await KVStore.get(requestedJSON);
   if (!jsonString) {
     return new Response(
       JSON.stringify({
@@ -54,6 +67,7 @@ async function getRequest(url) {
         headers: {
           "Content-Type": "application/json",
         },
+        ...defaultReponseOptions,
       }
     );
   }
@@ -62,6 +76,7 @@ async function getRequest(url) {
     headers: {
       "Content-Type": "application/json",
     },
+    ...defaultReponseOptions,
   });
 }
 
@@ -72,6 +87,19 @@ async function getRequest(url) {
  * @returns {Promise<Response>}
  */
 async function postRequest(url, body) {
+  if (contentType !== "application/json") {
+    return new Response(
+      JSON.stringify(
+        {
+          error: {
+            message:
+              "Body must be of content-type application/json. Check data or headers",
+          },
+        },
+        defaultReponseOptions
+      )
+    );
+  }
   const { searchParams } = url;
   const jsonKey = searchParams.get("key");
   console.log(jsonKey);
@@ -82,6 +110,7 @@ async function postRequest(url, body) {
     headers: {
       "Content-Type": "application/json",
     },
+    ...defaultReponseOptions,
   });
 }
 
@@ -95,19 +124,8 @@ async function handleRequest(request) {
   const { headers } = request;
   const contentType = headers.get("content-type") || "";
 
-  if (contentType !== "application/json") {
-    return new Response(
-      JSON.stringify({
-        error: {
-          message:
-            "Body must be of content-type application/json. Check data or headers",
-        },
-      })
-    );
-  }
-
-  const body = await request.json();
   if (request.method === "POST") {
+    const body = await request.json();
     const postResponse = postRequest(url, body);
     return postResponse;
   }
