@@ -1,6 +1,9 @@
 export function convertPopToNum(data) {
   const newResults = data.map((d) => {
     const { bevölkerung } = d;
+    if (typeof bevölkerung === "number") {
+      return d;
+    }
 
     const pop_no_point = bevölkerung.replace(".", "");
     const pop_num = Number(pop_no_point);
@@ -34,12 +37,9 @@ function injectVI(results) {
  */
 export function normalizeKeys(data) {
   const normalizedResults = data.map((d) => {
-    const amtname = d.Amt_Name.replace(" (amtsfreie Gemeinde)", "");
-
     return {
       gemeindename: d.Gemeinde_Name,
       gemeindeschlüssel: d["Gemeindeschlüssel"],
-      amtname: d.amtname,
       kreisname: d.kreis_name,
       bevölkerung: d["Bevölkerung"],
       za_absolut: d.za_absolut,
