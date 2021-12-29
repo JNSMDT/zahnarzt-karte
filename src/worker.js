@@ -2,34 +2,12 @@
  * @typedef {import("@cloudflare/workers-types")}
  */
 
-const defaultReponseOptions = {
-  headers: {
-    "Content-Type": "applicaion/json",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
-    "Access-Control-Allow-Headers":
-      "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers",
-  },
+const CORS_HEADER = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
+  "Access-Control-Allow-Headers":
+    "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers",
 };
-
-/**
- *
- * @param {string} jsonString
- */
-
-// /**
-//  *
-//  * @param {ReadableStream} stream
-//  * @returns
-//  */
-// function streamToString(stream) {
-//   const chunks = [];
-//   return new Promise((resolve, reject) => {
-//     stream.on("data", (chunk) => chunks.push(Buffer.from(chunk)));
-//     stream.on("error", (err) => reject(err));
-//     stream.on("end", () => resolve(Buffer.concat(chunks).toString("utf8")));
-//   });
-// }
 
 /**
  *
@@ -50,11 +28,21 @@ async function getRequest(url) {
           status: 400,
           headers: {
             "Content-Type": "application/json",
+            ...CORS_HEADER,
           },
-          ...defaultReponseOptions,
         }
       )
     );
+  }
+
+  if (requestedJSON === "version") {
+    const dataVersion = await KVStore.get("dataVersion");
+    return new Response(JSON.stringify({ dataVersion }), {
+      headers: {
+        "Content-Type": "application/json",
+        ...CORS_HEADER,
+      },
+    });
   }
 
   const jsonString = await KVStore.get(requestedJSON);
@@ -66,8 +54,8 @@ async function getRequest(url) {
       {
         headers: {
           "Content-Type": "application/json",
+          ...CORS_HEADER,
         },
-        ...defaultReponseOptions,
       }
     );
   }
@@ -75,8 +63,8 @@ async function getRequest(url) {
   return new Response(jsonString, {
     headers: {
       "Content-Type": "application/json",
+      ...CORS_HEADER,
     },
-    ...defaultReponseOptions,
   });
 }
 
@@ -87,31 +75,24 @@ async function getRequest(url) {
  * @returns {Promise<Response>}
  */
 async function postRequest(url, body) {
-  if (contentType !== "application/json") {
-    return new Response(
-      JSON.stringify(
-        {
-          error: {
-            message:
-              "Body must be of content-type application/json. Check data or headers",
-          },
-        },
-        defaultReponseOptions
-      )
-    );
-  }
   const { searchParams } = url;
   const jsonKey = searchParams.get("key");
-  console.log(jsonKey);
-  const jsonString = JSON.stringify(body);
-  await KVStore.put(jsonKey, jsonString);
 
-  return new Response(JSON.stringify({ success: true, data: body }), {
-    headers: {
-      "Content-Type": "application/json",
-    },
-    ...defaultReponseOptions,
-  });
+  const jsonString = JSON.stringify(body);
+  const dataVersion = Number(await KVStore.get("dataVersion"));
+
+  await KVStore.put(jsonKey, jsonString);
+  await KVStore.put("dataVersion", dataVersion + 1);
+
+  return new Response(
+    JSON.stringify({ success: true, dataVersion: dataVersion + 1, data: body }),
+    {
+      headers: {
+        "Content-Type": "application/json",
+        ...CORS_HEADER,
+      },
+    }
+  );
 }
 
 /**
@@ -122,9 +103,24 @@ async function postRequest(url, body) {
 async function handleRequest(request) {
   const url = new URL(request.url);
   const { headers } = request;
-  const contentType = headers.get("content-type") || "";
+  const contentType = headers.get("Content-Type") || "";
 
   if (request.method === "POST") {
+    if (contentType !== "application/json") {
+      return new Response(
+        JSON.stringify({
+          error: {
+            message:
+              "Body must be of content-type application/json. Check data or headers",
+          },
+        }),
+        {
+          headers: {
+            ...CORS_HEADER,
+          },
+        }
+      );
+    }
     const body = await request.json();
     const postResponse = postRequest(url, body);
     return postResponse;
