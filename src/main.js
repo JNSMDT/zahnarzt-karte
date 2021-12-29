@@ -83,7 +83,6 @@ async function main() {
   gemeindeDaten = convertPopToNum(gemeindeDaten);
 
   const geoJSONGemData = combineJSON(geoJSONMV, gemeindeDaten);
-  console.log(geoJSONGemData);
   // Init Map
   /**
    * @type L.MapOptions
