@@ -1,7 +1,7 @@
-import { categoryStyles, CATEGORY_COLORS } from "./lib/layerStyles";
 import { updateSidebar } from "./lib/sidebar";
 import { getJSONData } from "./lib/utils";
 import { combineJSON, convertPopToNum, normalizeKeys } from "./lib/processing";
+import { addStyleFunction, CATEGORY_COLORS } from "./lib/controls";
 /**
  * @typedef {import(@types/leaflet)}
  */
@@ -106,18 +106,27 @@ async function main() {
 
   // Add geoJSON Layer
   const geoJSONLayer = L.geoJSON(geoJSONGemData, {
-    style: categoryStyles,
-    onEachFeature: (feat, layer) => {
+    style: {
+      fillColor: "#fff",
+      fillOpacity: 0.9,
+      color: "grey",
+      weight: 2,
+      opacity: 0.5,
+    },
+    onEachFeature: (feature, layer) => {
       layer.on({
         click: () => {
-          console.log(feat.properties.gemeindeZADaten);
-          updateSidebar(feat.properties.gemeindeZADaten);
+          console.log(feature.properties.gemeindeZADaten);
+          updateSidebar(feature.properties.gemeindeZADaten);
         },
       });
     },
   });
 
+  addStyleFunction(geoJSONLayer);
   map.addLayer(geoJSONLayer);
+
+  //
 
   // add Legend
   const legend = L.control({ position: "topright" });
@@ -144,7 +153,6 @@ async function main() {
 
     return legendElement;
   };
-
   legend.addTo(map);
 }
 
