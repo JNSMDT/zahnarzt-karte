@@ -17,6 +17,7 @@ async function fetchJSON(url) {
  */
 export async function getJSONData(url, key) {
   const localDataVersion = await localforage.getItem("dataVersion");
+
   const dataVersion = await fetchJSON(
     "https://json-provider.angertitan.workers.dev/version"
   );

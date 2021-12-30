@@ -1,0 +1,53 @@
+.controlBar {
+  position: absolute;
+  top: 5vh;
+  right: 0;
+  width: 16vw;
+  padding: 0 20px;
+  height: 90vh;
+}
+
+.controlBar-buttonList {
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.styleButton {
+  background-color: #48c;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  width: 100%;
+}
+
+.styleButton:hover {
+  opacity: 0.75;
+}
+
+.styleButton:active {
+  background-color: #ddd;
+  color: black;
+}
+
+.styleButton.active {
+  background-color: #84c;
+}
