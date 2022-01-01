@@ -78,6 +78,19 @@ async function postRequest(url, body) {
   const { searchParams } = url;
   const jsonKey = searchParams.get("key");
 
+  if (!jsonKey) {
+    return new Response(
+      JSON.stringify({
+        error: {
+          message: "No key provided, use 'key' query to specify json file.",
+        },
+      }),
+      {
+        "Content-Type": "application/json",
+        ...CORS_HEADER,
+      }
+    );
+  }
   const jsonString = JSON.stringify(body);
   const dataVersion = Number(await KVStore.get("dataVersion"));
 
