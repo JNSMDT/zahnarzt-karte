@@ -15,30 +15,35 @@ async function fetchJSON(url) {
  *
  * @param {string} url
  */
-export async function getJSONData(url, key) {
-  const localDataVersion = await localforage.getItem("dataVersion");
+export async function getJSONData(url, key, longTimeData = false) {
+  let recentDateVersion = true;
 
-  const dataVersion = await fetchJSON(
-    "https://json-provider.angertitan.workers.dev/version"
-  );
+  if (!longTimeData) {
+    const localDataVersion = await localforage.getItem("dataVersion");
 
-  const recentDateVersion = localDataVersion === dataVersion;
-  console.log({
-    localDataVersion,
-    dataVersion,
-  });
+    const dataVersion = await fetchJSON(
+      "https://json-provider.angertitan.workers.dev/version"
+    );
 
-  const localGeoJSON = recentDateVersion ? await localforage.getItem(key) : "";
+    const recentDateVersion = localDataVersion === dataVersion;
+    console.log({
+      localDataVersion,
+      dataVersion,
+    });
+  }
+  const localGeoJSON = recentDateVersion
+    ? await localforage.getItem(key)
+    : null;
   const lastPush = recentDateVersion
     ? await localforage.getItem(`lastPush-${key}`)
-    : "";
+    : null;
 
   const timestamp = new Date().getTime();
   const maxTime = 1000 * 21600; // 1000ms -> 1s, 21600s -> 6h
 
   if (
-    localGeoJSON === "" ||
-    lastPush === "" ||
+    localGeoJSON === null ||
+    lastPush === null ||
     Number(lastPush) > timestamp + maxTime
   ) {
     const geoJSON = await fetchJSON(url);
