@@ -73,14 +73,14 @@ const ZOOM = 9.2;
 async function main() {
   // Get Data
   console.log("Getting Data");
-  const geoJSONMV = await getJSONData(GEOJSON_URL, "geoJSONMV");
+  const geoJSONMV = await getJSONData(GEOJSON_URL, "geoJSONMV", true);
   console.log({ m: "received geoJSON", d: geoJSONMV });
   let gemeindeDaten = await getJSONData(GEMEINDE_DATA_URL, "gemeindeDaten");
   console.log({ m: "received gemeindeDaten", d: gemeindeDaten });
 
   // Process Data
   gemeindeDaten = normalizeKeys(gemeindeDaten);
-  gemeindeDaten = convertPopToNum(gemeindeDaten);
+  // gemeindeDaten = convertPopToNum(gemeindeDaten);
 
   const geoJSONGemData = combineJSON(geoJSONMV, gemeindeDaten);
   // Init Map
@@ -116,8 +116,12 @@ async function main() {
     onEachFeature: (feature, layer) => {
       layer.on({
         click: () => {
-          console.log(feature.properties.gemeindeZADaten);
-          updateSidebar(feature.properties.gemeindeZADaten);
+          const { gemeindeZADaten, ...geoJSONData } = feature.properties;
+          console.dir({
+            gdata: gemeindeZADaten,
+            geoData: geoJSONData,
+          });
+          updateSidebar(gemeindeZADaten);
         },
       });
     },
