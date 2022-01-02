@@ -1,7 +1,8 @@
 import { updateSidebar } from "./lib/sidebar";
-import { getJSONData } from "./lib/utils";
-import { combineJSON, convertPopToNum, normalizeKeys } from "./lib/processing";
+import { getJSONData, getLegendHTML } from "./lib/utils";
+import { combineJSON, normalizeKeys } from "./lib/processing";
 import { addStyleFunction, CATEGORY_COLORS } from "./lib/controls";
+import { Legend } from "./lib/components";
 /**
  * @typedef {import(@types/leaflet)}
  */
@@ -126,38 +127,17 @@ async function main() {
       });
     },
   });
+  const legend = new Legend({
+    position: "topright",
+    content: "",
+  });
 
-  addStyleFunction(geoJSONLayer);
+  map.addControl(legend);
+
+  addStyleFunction(geoJSONLayer, legend);
   map.addLayer(geoJSONLayer);
 
   //
-
-  // add Legend
-  const legend = L.control({ position: "topright" });
-  legend.onAdd = function (map) {
-    const legendElement = L.DomUtil.create("div", "legend");
-    const categories = Object.keys(CATEGORY_COLORS);
-
-    categories.forEach((cat) => {
-      const legendItem = L.DomUtil.create("div", "legend-item", legendElement);
-      const legendItemColor = L.DomUtil.create(
-        "div",
-        "legend-color",
-        legendItem
-      );
-      const legendItemValue = L.DomUtil.create(
-        "div",
-        "legend-value",
-        legendItem
-      );
-
-      legendItemColor.style.backgroundColor = `${CATEGORY_COLORS[cat]}`;
-      legendItemValue.innerText = `${cat}`;
-    });
-
-    return legendElement;
-  };
-  legend.addTo(map);
 }
 
 main();

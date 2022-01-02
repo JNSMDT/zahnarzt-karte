@@ -1,6 +1,9 @@
 :root {
   --box-margin: 30px;
 }
+body {
+  background-color: snow;
+}
 
 .AGIF {
   width: 100vw;
