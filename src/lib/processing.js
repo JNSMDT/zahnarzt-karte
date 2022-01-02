@@ -1,24 +1,31 @@
-export function convertPopToNum(data) {
-  const newResults = data.map((d) => {
-    const { bevölkerung } = d;
-    if (typeof bevölkerung === "number") {
-      return d;
-    }
-
-    const pop_no_point = bevölkerung.replace(".", "");
-    const pop_num = Number(pop_no_point);
-
-    return { ...d, bevölkerung: pop_num };
-  });
-
-  return newResults;
-}
-
 /**
- *
- * @param {ResultPopNum[]} results
- * @returns {ResultWithVI}
+ * @typedef {Object} GemeindeDaten
+ * @property {number} gemeindeschlüssel
+ * @property {string} gemeindename
+ * @property {string} kreisname
+ * @property {number} bevölkerung
+ * @property {number} za_absolut
+ * @property {number} za_bereinigt
+ * @property {number} hausbesuche
+ * @property {number} versorgungsindex
  */
+
+// export function convertPopToNum(data) {
+//   const newResults = data.map((d) => {
+//     const { bevölkerung } = d;
+//     if (typeof bevölkerung === "number") {
+//       return d;
+//     }
+
+//     const pop_no_point = bevölkerung.replace(".", "");
+//     const pop_num = Number(pop_no_point);
+
+//     return { ...d, bevölkerung: pop_num };
+//   });
+
+//   return newResults;
+// }
+
 function injectVI(results) {
   const newResults = results.map((result) => {
     const { bevölkerung, za_absolut } = result;
@@ -30,11 +37,6 @@ function injectVI(results) {
   return newResults;
 }
 
-/**
- *
- * @param {RawResults[]} data
- * @returns {NormalizedResults}
- */
 export function normalizeKeys(data) {
   const normalizedResults = data.map((d) => {
     return {
@@ -51,32 +53,36 @@ export function normalizeKeys(data) {
   return normalizedResults;
 }
 
+/**
+ *
+ * @param {Record<string,unknonw>} geoJSON
+ * @param {GemeindeDaten[]} gemeindeDaten
+ * @returns
+ */
 export function combineJSON(geoJSON, gemeindeDaten) {
   const { type, features } = geoJSON;
 
   const newFeat = features.map((feat) => {
-    const { type, properties, geometry } = feat;
+    const gemeindeName = feat.properties.gemeinde_name;
+    /**
+     * @type {number}
+     */
+    const gemeindeSchlüssel = feat.properties.gemeinde_schluessel;
+    const kreisSchlüssel = feat.properties.kreis_schluessel;
 
-    const dataToInject = gemeindeDaten.filter((za) => {
-      /**
-       * @type {string}
-       */
-      const gsString = za.gemeindeschlüssel.toString();
-      const gsLastThree = gsString.slice(gsString.length - 3);
+    const gsString = gemeindeSchlüssel.toString();
+    const gsLastThree = gsString.slice(gsString.length - 3);
 
-      const ks = properties.kreis_schluessel;
+    const zaGemeindeSchlüssel = Number(`${kreisSchlüssel}${gsLastThree}`);
 
-      const zaGemeindeSchlüssel = Number(`${ks}${gsLastThree}`);
+    const gemeindeZADaten = gemeindeDaten.find(
+      (gD) =>
+        gD.gemeindeschlüssel === zaGemeindeSchlüssel &&
+        gD.gemeindename === gemeindeName
+    );
 
-      return (
-        za.gemeindeschlüssel === zaGemeindeSchlüssel &&
-        za.gemeindename == properties.gemeinde_name &&
-        za.kreisname == properties.kreis_name
-      );
-    });
-
-    const newProp = { ...properties, gemeindeZADaten: dataToInject[0] };
-    return { type, properties: newProp, geometry };
+    const newProp = { ...feat.properties, gemeindeZADaten };
+    return { type: feat.type, properties: newProp, geometry: feat.geometry };
   });
 
   const newGeoJSon = { type, features: newFeat };
