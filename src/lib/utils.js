@@ -56,3 +56,18 @@ export async function getJSONData(url, key, longTimeData = false) {
 
   return localGeoJSON;
 }
+
+export function getLegendHTML(colorObject) {
+  const legendElement = L.DomUtil.create("div", "legend-list");
+  const keys = Object.keys(colorObject);
+
+  keys.forEach((key) => {
+    const legendItem = L.DomUtil.create("div", "legend-item", legendElement);
+    const legendItemColor = L.DomUtil.create("div", "legend-color", legendItem);
+    const legendItemValue = L.DomUtil.create("div", "legend-value", legendItem);
+    legendItemColor.style.backgroundColor = `${colorObject[key]}`;
+    legendItemValue.innerText = `${key}`;
+  });
+
+  return legendElement.outerHTML;
+}
