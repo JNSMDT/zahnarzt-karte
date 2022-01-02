@@ -49,7 +49,7 @@ export async function getJSONData(url, key, longTimeData = false) {
     const geoJSON = await fetchJSON(url);
     await localforage.setItem(key, geoJSON);
     await localforage.setItem(`lastPush-${key}`, timestamp);
-    await localforage.setItem(`dataVersion`, dataVersion);
+    await localforage.setItem(`dataVersion-${key}`, dataVersion || "-1");
 
     return geoJSON;
   }

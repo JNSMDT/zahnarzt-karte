@@ -10,14 +10,14 @@ export const BASIC_COLORS = {
 // #################################################################################################
 
 export const ZA_COLORS = {
-  ">100": "#0088ff",
-  "51-100": BASIC_COLORS.dunkelgrün,
-  "21-50": BASIC_COLORS.hellgrün,
-  "11-20": "#88ff00",
-  "6-10": "#ffff00",
-  "3-5": "#ffa500",
-  "1-2": "#ff4500",
-  0: BASIC_COLORS.rot,
+  0: "#ffffff",
+  "1-2": "#c6dbef",
+  "3-5": "#9ecae1",
+  "6-10": "#6baed6",
+  "11-20": "#4292c6",
+  "21-50": "#2171b5",
+  "51-100": "#08519c",
+  ">100": "#08306b",
 };
 
 function getZAColor(zaa) {
@@ -187,8 +187,8 @@ export function categoryStyles(feature) {
 
 const styleFunctions = {
   zaa: zaaStyles,
-  zab: zaaStyles,
-  haus: zaaStyles,
+  zab: zabStyles,
+  haus: hausStyles,
   vi: viStyles,
   cat: categoryStyles,
 };

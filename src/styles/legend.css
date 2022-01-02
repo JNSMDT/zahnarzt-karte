@@ -20,6 +20,8 @@
 }
 
 .legend-color {
+  border: 1px solid rgb(200, 200, 200);
+  /* box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); */
   width: var(--color-box-size);
   height: var(--color-box-size);
 }
