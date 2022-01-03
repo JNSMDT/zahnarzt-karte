@@ -13,7 +13,7 @@
 }
 
 .data-list-item {
-  padding: 25px 0;
+  padding: 2vh 0;
 }
 .data-list-item:last-child {
   border: none;
