@@ -106,28 +106,22 @@ function getCategoryColor(category) {
 // #################################################################################################
 
 export const VI_COLORS = {
-  1: "#006400",
-  2: "#90ee90",
-  3: "#ffff00",
-  4: "#ffa500",
-  5: "#ff4500",
-  6: "#ff0000",
+  "1,2 (>2000)": BASIC_COLORS["dunkelgrün"],
+  "0,95": BASIC_COLORS["hellgrün"],
+  "0,75": BASIC_COLORS["gelb"],
+  "< 0,75": BASIC_COLORS["rot"],
 };
 
-function getVIColor(vi) {
-  switch (vi) {
-    case 1:
-      return VI_COLORS["1"];
-    case 2:
-      return VI_COLORS["2"];
-    case 3:
-      return VI_COLORS["3"];
-    case 4:
-      return VI_COLORS["4"];
-    case 5:
-      return VI_COLORS["5"];
-    case 6:
-      return VI_COLORS["6"];
+function getVIColor(vi, pop) {
+  switch (true) {
+    case vi > 1.2 && pop > 2000:
+      return VI_COLORS["1,2 (>2000)"];
+    case vi >= 0.95:
+      return VI_COLORS["0,95"];
+    case vi >= 0.75:
+      return VI_COLORS["0,75"];
+    case vi < 0.75:
+      return VI_COLORS["< 0,75"];
     default:
       return "#fff";
   }
@@ -168,10 +162,10 @@ export function hausStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function viStyles(feature) {
-  const vi = feature.properties.gemeindeZADaten.vi;
-
+  const vi = feature.properties.gemeindeZADaten.versorgungsindex;
+  const pop = feature.properties.gemeindeZADaten.bevölkerung;
   return {
-    fillColor: getVIColor(vi),
+    fillColor: getVIColor(vi, pop),
   };
 }
 /**

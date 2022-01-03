@@ -26,11 +26,10 @@
 //   return newResults;
 // }
 
-function injectVI(results) {
+export function injectVI(results) {
   const newResults = results.map((result) => {
     const { bevölkerung, za_absolut } = result;
     const vi = (za_absolut * 1000) / bevölkerung;
-
     return { ...result, versorgungsindex: vi };
   });
 
@@ -39,11 +38,17 @@ function injectVI(results) {
 
 export function normalizeKeys(data) {
   const normalizedResults = data.map((d) => {
+    /**
+     * @type {number}
+     */
+    let bevölkerung = d["Bevölkerung"];
+    bevölkerung = Number(bevölkerung.toString().replace(".", ""));
+
     return {
       gemeindename: d.Gemeinde_Name,
       gemeindeschlüssel: d["Gemeindeschlüssel"],
       kreisname: d.kreis_name,
-      bevölkerung: d["Bevölkerung"],
+      bevölkerung: bevölkerung,
       za_absolut: d.za_absolut,
       za_bereinigt: d.za_bereinigt,
       hausbesuche: d.hausbesuche,

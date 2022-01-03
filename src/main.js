@@ -1,7 +1,7 @@
 import { updateSidebar } from "./lib/sidebar";
 import { getJSONData, getLegendHTML } from "./lib/utils";
-import { combineJSON, normalizeKeys } from "./lib/processing";
-import { addStyleFunction, CATEGORY_COLORS } from "./lib/controls";
+import { combineJSON, normalizeKeys, injectVI } from "./lib/processing";
+import { addStyleFunction } from "./lib/mapStyles";
 import { Legend } from "./lib/components";
 /**
  * @typedef {import(@types/leaflet)}
@@ -81,9 +81,15 @@ async function main() {
 
   // Process Data
   gemeindeDaten = normalizeKeys(gemeindeDaten);
+  gemeindeDaten = injectVI(gemeindeDaten);
+  console.log("counter");
   // gemeindeDaten = convertPopToNum(gemeindeDaten);
-
   const geoJSONGemData = combineJSON(geoJSONMV, gemeindeDaten);
+
+  // show hidden elements
+  const controlBar = document.getElementById("ControlBar");
+  if (controlBar) controlBar.classList.remove("hidden");
+
   // Init Map
   /**
    * @type L.MapOptions
