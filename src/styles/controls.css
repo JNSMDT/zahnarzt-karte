@@ -11,7 +11,7 @@
   padding: 10px 20px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 2vh;
 }
 
 .styleButton {
