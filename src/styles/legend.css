@@ -25,19 +25,3 @@
   width: var(--color-box-size);
   height: var(--color-box-size);
 }
-
-/* .legend div {
-  width: 90%;
-  display: flex;
-  align-items: center;
-  margin: auto;
-}
-
-.legend_key {
-  display: inline-block;
-  border-radius: 20%;
-  border: rgba(0, 0, 0, 0.2) solid 2px;
-  width: 16px;
-  height: 16px;
-  margin-right: 20px;
-} */

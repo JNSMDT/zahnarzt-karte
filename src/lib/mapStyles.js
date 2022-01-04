@@ -1,10 +1,10 @@
 import { getLegendHTML } from "./utils";
 
 export const BASIC_COLORS = {
-  dunkelgrün: "#006400",
-  hellgrün: "#00c500",
-  gelb: "#ffff00",
-  rot: "#990000",
+  dunkelgrün: "#1a9850",
+  hellgrün: "#91cf60",
+  gelb: "#fee08b",
+  rot: "#d73027",
 };
 
 // #################################################################################################
@@ -45,43 +45,13 @@ function getZAColor(zaa) {
 
 // #################################################################################################
 
-export const HAUS_COLORS = {
-  1: "#006400",
-  2: "#90ee90",
-  3: "#ffff00",
-  4: "#ffa500",
-  5: "#ff4500",
-  6: "#ff0000",
-};
-
-function getHausColor(haus) {
-  switch (haus) {
-    case 1:
-      return HAUS_COLORS["1"];
-    case 2:
-      return HAUS_COLORS["2"];
-    case 3:
-      return HAUS_COLORS["3"];
-    case 4:
-      return HAUS_COLORS["4"];
-    case 5:
-      return HAUS_COLORS["5"];
-    case 6:
-      return HAUS_COLORS["6"];
-    default:
-      return "#fff";
-  }
-}
-
-// #################################################################################################
-
 export const CATEGORY_COLORS = {
-  1: BASIC_COLORS["dunkelgrün"],
-  2: BASIC_COLORS["hellgrün"],
-  3: BASIC_COLORS["gelb"],
-  4: "#ffae1a",
-  5: "#ff4500",
-  6: BASIC_COLORS["rot"],
+  1: "#1a9850",
+  2: "#91cf60",
+  3: "#d9ef8b",
+  4: "#fee08b",
+  5: "#fc8d59",
+  6: "#d73027",
 };
 
 function getCategoryColor(category) {

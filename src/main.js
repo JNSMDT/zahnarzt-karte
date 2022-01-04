@@ -69,7 +69,6 @@ const GEMEINDE_DATA_URL =
   "https://json-provider.angertitan.workers.dev/zaGemData";
 
 const STARTPOS = [53.9, 12.6]; // starting position [lng, lat]
-const ZOOM = 9.2;
 
 async function main() {
   // Get Data
@@ -102,7 +101,7 @@ async function main() {
   const map = L.map("map", mapOptions);
 
   // set View
-  map.setView(STARTPOS, ZOOM);
+  map.setView(STARTPOS, 0);
 
   // set map style
   const mapTile = L.tileLayer(
@@ -116,7 +115,7 @@ async function main() {
     style: {
       fillColor: "#fff",
       fillOpacity: 0.9,
-      color: "grey",
+      color: "#444444",
       weight: 2,
       opacity: 0.5,
     },
@@ -143,7 +142,8 @@ async function main() {
   addStyleFunction(geoJSONLayer, legend);
   map.addLayer(geoJSONLayer);
 
-  //
+  // set boundaries
+  map.fitBounds(geoJSONLayer.getBounds());
 }
 
 main();
