@@ -38,46 +38,85 @@
     </div>
     <div id="ControlBar" class="controlBar hidden">
       <div class="controlBar-buttonList">
-        <button
-          role="button"
-          id="btn-style-zaa"
-          data-style="zaa"
-          class="styleButton"
-        >
-          Zahnärzte (absolut)
-        </button>
-        <button
-          role="button"
-          id="btn-style-zab"
-          data-style="zab"
-          class="styleButton"
-        >
-          Zahnärzte (bereinigt)
-        </button>
-        <button
-          role="button"
-          id="btn-style-haus"
-          data-style="haus"
-          class="styleButton"
-        >
-          Hausbesuche
-        </button>
-        <button
-          role="button"
-          id="btn-style-vi"
-          data-style="vi"
-          class="styleButton"
-        >
-          Versorgungsindex
-        </button>
-        <button
-          role="button"
-          id="btn-style-cat"
-          data-style="cat"
-          class="styleButton"
-        >
-          Versorgungsindex (regional)
-        </button>
+        <div class="button-group">
+          <h2 class="button-group-title">Gemeinde Daten</h2>
+          <button
+            role="button"
+            id="btn-style-zaa"
+            data-style="zaa"
+            data-id="gD"
+            class="styleButton"
+          >
+            Zahnärzte (absolut)
+          </button>
+          <button
+            role="button"
+            id="btn-style-zab"
+            data-style="zab"
+            data-id="gD"
+            class="styleButton"
+          >
+            Zahnärzte (bereinigt)
+          </button>
+          <button
+            role="button"
+            id="btn-style-haus"
+            data-style="haus"
+            data-id="gD"
+            class="styleButton"
+          >
+            Zahnärzte (Hausbesuche)
+          </button>
+          <button
+            role="button"
+            id="btn-style-vi"
+            data-style="vi"
+            data-id="gD"
+            class="styleButton"
+          >
+            Versorgungsindex
+          </button>
+          <button
+            role="button"
+            id="btn-style-rvi"
+            data-style="rvi"
+            data-id="gD"
+            class="styleButton"
+          >
+            Versorgungsindex (regional)
+          </button>
+        </div>
+        <div class="button-group">
+          <h2 class="button-group-title">Landkreis Daten</h2>
+
+          <button
+            role="button"
+            id="btn-style-lkzaa"
+            data-style="lkzaa"
+            data-id="lkD"
+            class="styleButton"
+          >
+            Zahnärzte (absolut)
+          </button>
+          <button
+            role="button"
+            id="btn-style-lkzab"
+            data-style="lkzab"
+            data-id="lkD"
+            class="styleButton"
+          >
+            Zahnärzte (bereinigt)
+          </button>
+          <button
+            role="button"
+            id="btn-style-lkhaus"
+            data-style="lkhaus"
+            data-id="lkD"
+            class="styleButton"
+          >
+            Zahnärzte (Hausbesuche)
+          </button>
+        </div>
       </div>
     </div>
     <script type="module" src="/src/main.js"></script>
