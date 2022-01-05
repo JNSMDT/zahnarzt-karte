@@ -144,7 +144,7 @@ async function main() {
     },
   });
   const legend = new Legend({
-    position: "topright",
+    position: "topleft",
     content: "",
   });
 
