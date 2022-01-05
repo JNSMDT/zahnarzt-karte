@@ -49,8 +49,8 @@ export async function getJSONData(url, key, longTimeData = false) {
   return localGeoJSON;
 }
 
-export function getLegendHTML(colorObject) {
-  const legendElement = L.DomUtil.create("div", "legend-list");
+export function getLegendHTML(colorObject, styleClass) {
+  const legendElement = L.DomUtil.create("div", `legend-list ${styleClass}`);
   const keys = Object.keys(colorObject);
 
   keys.forEach((key) => {
