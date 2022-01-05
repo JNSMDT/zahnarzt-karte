@@ -245,15 +245,12 @@ const colorObjects = {
  * @param {import("leaflet").FeatureGroup<any>} landkreisLayer
  */
 export function addStyleFunction(gemeindeLayer, landkreisLayer, legend) {
-  console.log("creating button styles");
-
   const buttonElements = document.getElementsByClassName("styleButton");
 
   const buttonList = Array.from(buttonElements);
   buttonList.forEach((button) => {
     const style = button.dataset.style;
     const dataID = button.dataset.id;
-    console.log(dataID);
     button.onclick = () => {
       if (dataID === "gD") {
         landkreisLayer.bringToBack();
@@ -263,7 +260,6 @@ export function addStyleFunction(gemeindeLayer, landkreisLayer, legend) {
         });
         gemeindeLayer.setStyle(styleFunctions[style]);
       } else if (dataID === "lkD") {
-        console.log(style);
         gemeindeLayer.bringToBack();
         gemeindeLayer.setStyle({
           fillOpacity: 0,

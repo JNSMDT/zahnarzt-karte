@@ -39,7 +39,6 @@ const STARTPOS = [53.9, 12.6]; // starting position [lng, lat]
 
 async function main() {
   // Get Data
-  console.log("Getting Data");
   const gemeindeGeoJSON = await getJSONData(
     GEMEINDE_GEOJSON_URL,
     "gemeindeGeoJSON",
@@ -76,7 +75,6 @@ async function main() {
     landkreisZahnarztData
   );
 
-  console.log(landkreisZahnarztGeoJSON);
   // show hidden elements
   const controlBar = document.getElementById("ControlBar");
   if (controlBar) controlBar.classList.remove("hidden");
@@ -157,6 +155,8 @@ async function main() {
   map.addLayer(landkreisLayer);
   // set boundaries
   map.fitBounds(gemeindeLayer.getBounds());
+  console.log("Welcome to this little map.");
+  console.log(`You are on version ${pkg.version}`);
 }
 
 main();
