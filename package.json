@@ -1,6 +1,6 @@
 {
   "name": "afig",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "main": "dist/worker/worker.es.js",
   "scripts": {
     "processing": "pnpm run process-results && pnpm run combine-data",
