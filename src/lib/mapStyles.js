@@ -48,28 +48,28 @@ function getZAColors(zaa) {
 // #################################################################################################
 
 export const RVI_COLORS = {
-  1: VI_BASE_COLORS.dunkelgrün,
-  2: VI_BASE_COLORS.hellgrün,
-  3: VI_BASE_COLORS.gelbgrün,
-  4: VI_BASE_COLORS.gelb,
-  5: VI_BASE_COLORS.orange,
-  6: VI_BASE_COLORS.rot,
+  Mitversorger: VI_BASE_COLORS.dunkelgrün,
+  Selbstversorger: VI_BASE_COLORS.hellgrün,
+  "bedarfsdeckende Gemeinde": VI_BASE_COLORS.gelbgrün,
+  Versorgte: VI_BASE_COLORS.gelb,
+  "Selbst-Unterversorgte": VI_BASE_COLORS.orange,
+  Unterversorgte: VI_BASE_COLORS.rot,
 };
 
 function getRVIColors(category) {
   switch (category) {
     case 1:
-      return RVI_COLORS["1"];
+      return RVI_COLORS["Mitversorger"];
     case 2:
-      return RVI_COLORS["2"];
+      return RVI_COLORS["Selbstversorger"];
     case 3:
-      return RVI_COLORS["3"];
+      return RVI_COLORS["bedarfsdeckende Gemeinde"];
     case 4:
-      return RVI_COLORS["4"];
+      return RVI_COLORS["Versorgte"];
     case 5:
-      return RVI_COLORS["5"];
+      return RVI_COLORS["Selbst-Unterversorgte"];
     case 6:
-      return RVI_COLORS["6"];
+      return RVI_COLORS["Unterversorgte"];
     default:
       return "#fff";
   }
@@ -86,7 +86,7 @@ export const VI_COLORS = {
 
 function getVIColors(vi, pop) {
   switch (true) {
-    case vi > 1.2 && pop > 2000:
+    case vi > 1.2 && pop > 200:
       return VI_COLORS["1,2 (>2000)"];
     case vi >= 0.95:
       return VI_COLORS["0,95"];
@@ -121,6 +121,30 @@ function getLKZAColors(za) {
       return LKZA_COLORS["100 - 149"];
     case za < 100:
       return LKZA_COLORS["< 100"];
+    default:
+      return "#fff";
+  }
+}
+
+// #################################################################################################
+
+export const LKHAUS_COLORS = {
+  "< 25": "#c6dbef",
+  "25 - 35": "#2171b5",
+  "36 - 40": "#08519c",
+  "> 40": "#08306b",
+};
+
+function getLKHAUSColors(haus) {
+  switch (true) {
+    case haus > 40:
+      return LKHAUS_COLORS["> 40"];
+    case haus >= 35:
+      return LKHAUS_COLORS["36 - 40"];
+    case haus >= 25:
+      return LKHAUS_COLORS["25 - 35"];
+    case haus < 25:
+      return LKHAUS_COLORS["< 25"];
     default:
       return "#fff";
   }
@@ -212,7 +236,7 @@ export function lkhausStyles(feature) {
   const { hausbesuche } = feature.properties.zahnarztDaten;
 
   return {
-    fillColor: getLKZAColors(hausbesuche),
+    fillColor: getLKHAUSColors(hausbesuche),
     fillOpacity: 0.95,
     opacity: 1,
   };
@@ -237,7 +261,7 @@ const colorObjects = {
   rvi: RVI_COLORS,
   lkzaa: LKZA_COLORS,
   lkzab: LKZA_COLORS,
-  lkhaus: LKZA_COLORS,
+  lkhaus: LKHAUS_COLORS,
 };
 
 /**
@@ -268,7 +292,7 @@ export function addStyleFunction(gemeindeLayer, landkreisLayer, legend) {
         landkreisLayer.setStyle(styleFunctions[style]);
       }
 
-      legend.setContent(getLegendHTML(colorObjects[style]));
+      legend.setContent(getLegendHTML(colorObjects[style], `legend-${style}`));
       buttonList.forEach((button) => button.classList.remove("active"));
       button.classList.add("active");
     };
