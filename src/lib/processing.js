@@ -30,13 +30,25 @@ export function injectVI(results) {
   const newResults = results.map((result) => {
     const { bevölkerung, za_absolut } = result;
     const vi = (za_absolut * 1000) / bevölkerung;
-    return { ...result, versorgungsindex: vi };
+    return { ...result, versorgungsindex: vi.toFixed(4) };
   });
 
   return newResults;
 }
 
-export function normalizeKeys(data) {
+export function normalizeKeys(data, isLK = false) {
+  if (isLK) {
+    const normalizedResults = data.map((d) => {
+      return {
+        kreisID: d.id_Kreis,
+        kreisname: d.kreis_name,
+        za_absolut: d.za_absolut,
+        za_bereinigt: d.za_bereinigt,
+        hausbesuche: d.hausbesuche,
+      };
+    });
+    return normalizedResults;
+  }
   const normalizedResults = data.map((d) => {
     /**
      * @type {number}
@@ -64,7 +76,7 @@ export function normalizeKeys(data) {
  * @param {GemeindeDaten[]} gemeindeDaten
  * @returns
  */
-export function combineJSON(geoJSON, gemeindeDaten) {
+export function combineGemeindeJSON(geoJSON, gemeindeDaten) {
   const { type, features } = geoJSON;
 
   const newFeat = features.map((feat) => {
@@ -80,16 +92,32 @@ export function combineJSON(geoJSON, gemeindeDaten) {
 
     const zaGemeindeSchlüssel = Number(`${kreisSchlüssel}${gsLastThree}`);
 
-    const gemeindeZADaten = gemeindeDaten.find(
+    const zahnarztDaten = gemeindeDaten.find(
       (gD) =>
         gD.gemeindeschlüssel === zaGemeindeSchlüssel &&
         gD.gemeindename === gemeindeName
     );
 
-    const newProp = { ...feat.properties, gemeindeZADaten };
+    const newProp = { ...feat.properties, zahnarztDaten };
     return { type: feat.type, properties: newProp, geometry: feat.geometry };
   });
 
-  const newGeoJSon = { type, features: newFeat };
-  return newGeoJSon;
+  const newGeoJSON = { type, features: newFeat };
+  return newGeoJSON;
+}
+
+export function combineLandkreisJSON(geoJSON, landkreisDaten) {
+  const { type, features } = geoJSON;
+
+  const newFeat = features.map((feat) => {
+    const kreisname = feat.properties.kreis_name;
+
+    const zahnarztDaten = landkreisDaten.find(
+      (lD) => lD.kreisname === kreisname
+    );
+    const newProp = { ...feat.properties, zahnarztDaten };
+    return { type: feat.type, properties: newProp, geometry: feat.geometry };
+  });
+  const newGeoJSON = { type, features: newFeat };
+  return newGeoJSON;
 }

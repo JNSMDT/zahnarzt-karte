@@ -23,10 +23,6 @@ export async function getJSONData(url, key, longTimeData = false) {
     : await fetchJSON("https://json-provider.angertitan.workers.dev/version");
 
   const recentDateVersion = localDataVersion === dataVersion;
-  console.log({
-    localDataVersion,
-    dataVersion,
-  });
   const localGeoJSON = recentDateVersion
     ? await localforage.getItem(key)
     : null;
