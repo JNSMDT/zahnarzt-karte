@@ -50,17 +50,11 @@ export function normalizeKeys(data, isLK = false) {
     return normalizedResults;
   }
   const normalizedResults = data.map((d) => {
-    /**
-     * @type {number}
-     */
-    let bevölkerung = d["Bevölkerung"];
-    bevölkerung = Number(bevölkerung.toString().replace(".", ""));
-
     return {
       gemeindename: d.Gemeinde_Name,
       gemeindeschlüssel: d["Gemeindeschlüssel"],
       kreisname: d.kreis_name,
-      bevölkerung: bevölkerung,
+      bevölkerung: d["Bevölkerung"],
       za_absolut: d.za_absolut,
       za_bereinigt: d.za_bereinigt,
       hausbesuche: d.hausbesuche,
