@@ -1,12 +1,12 @@
 .legend-list {
   position: absolute;
-  top: 20px;
-  left: 20px;
-  --color-box-size: 30px;
+  top: 1vw;
+  left: 1vw;
+  --color-box-size: 20px;
   background-color: snow;
-  padding: 20px;
+  padding: 5px 20px;
   z-index: 1;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
   line-height: 20px;
 }
@@ -14,12 +14,22 @@
 .legend-item {
   display: flex;
   align-items: center;
-  padding: 15px 0;
+  padding: 5px 0;
   /* justify-content: center; */
-  gap: 15px;
-  height: 50px;
+  gap: 20px;
+  height: 2vw;
 }
-
+@media (min-height: 1200px) {
+  .legend-list {
+    top: 2vw;
+    left: 2vw;
+    --color-box-size: 30px;
+    font-size: 1.4rem;
+  }
+  .legend-item {
+    height: 2.5vw;
+  }
+}
 .legend-color {
   border: 1px solid rgb(200, 200, 200);
   /* box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); */
@@ -37,7 +47,7 @@
 }
 
 .legend-rvi {
-  min-width: 400px;
+  min-width: 360px;
 }
 
 .legend-vi {
