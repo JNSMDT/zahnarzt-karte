@@ -86,7 +86,7 @@ export const VI_COLORS = {
 
 function getVIColors(vi, pop) {
   switch (true) {
-    case vi > 1.2 && pop > 1200:
+    case vi > 1.2 && pop > 2000:
       return VI_COLORS["1,2 (>2000)"];
     case vi >= 0.95:
       return VI_COLORS["0,95"];
@@ -193,9 +193,7 @@ export function hausStyles(feature) {
 export function viStyles(feature) {
   const vi = feature.properties.zahnarztDaten.versorgungsindex;
   const pop = feature.properties.zahnarztDaten.bevölkerung;
-  if (feature.properties.zahnarztDaten.gemeindename === "Gresse") {
-    console.log(vi, pop);
-  }
+
   return {
     fillColor: getVIColors(vi, pop),
     fillOpacity: 0.95,
