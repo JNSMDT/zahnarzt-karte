@@ -28,12 +28,12 @@ const LANDKREIS_GEOJSON_URL =
  * @type {string}
  */
 const GEMEINDE_ZAHNARZT_DATA_URL =
-  "https://json-provider.angertitan.workers.dev/zaGemData";
+  "https://json-provider.jnsmdt.workers.dev/zaGemData";
 /**
  * @type {string}
  */
 const LANDKREIS_ZAHNARZT_DATA_URL =
-  "https://json-provider.angertitan.workers.dev/zaLKData";
+  "https://json-provider.jnsmdt.workers.dev/zaLKData";
 
 const STARTPOS = [53.9, 12.6]; // starting position [lng, lat]
 
