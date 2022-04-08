@@ -20,7 +20,7 @@ export async function getJSONData(url, key, longTimeData = false) {
 
   const dataVersion = longTimeData
     ? -1
-    : await fetchJSON("https://json-provider.angertitan.workers.dev/version");
+    : await fetchJSON("https://json-provider.jnsmdt.workers.dev/version");
 
   const recentDateVersion = localDataVersion === dataVersion;
   const localGeoJSON = recentDateVersion
