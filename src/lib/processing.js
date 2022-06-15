@@ -26,6 +26,7 @@
 //   return newResults;
 // }
 
+// berechnen des Versorgungsindex
 export function injectVI(results) {
   const newResults = results.map((result) => {
     const { bevölkerung, za_absolut } = result;
@@ -36,6 +37,7 @@ export function injectVI(results) {
   return newResults;
 }
 
+// Vereinheitlichen der Keys
 export function normalizeKeys(data, isLK = false) {
   if (isLK) {
     const normalizedResults = data.map((d) => {
@@ -64,6 +66,7 @@ export function normalizeKeys(data, isLK = false) {
   return normalizedResults;
 }
 
+// Zusammenfügen der Zahnarztdaten ind GeoJSONdaten
 /**
  *
  * @param {Record<string,unknonw>} geoJSON
@@ -84,22 +87,29 @@ export function combineGemeindeJSON(geoJSON, gemeindeDaten) {
     const gsString = gemeindeSchlüssel.toString();
     const gsLastThree = gsString.slice(gsString.length - 3);
 
+    // Der Gemeindeschlüssel der GeoJSONdaten ist aus irgendwelchen Gründen kürzer als die aus den Zahnarztdaten
+    // kann aber aus dem Kreisschlüssel und den letzten drei Ziffern des Gemeindeschlüssels aus den Zahnarztdaten.
+    // erstellt werden.
     const zaGemeindeSchlüssel = Number(`${kreisSchlüssel}${gsLastThree}`);
 
+    // finden der GeoJSONdaten auf Basis des Gemeindeschlüssels und dem Gemeindenamen
     const zahnarztDaten = gemeindeDaten.find(
       (gD) =>
         gD.gemeindeschlüssel === zaGemeindeSchlüssel &&
         gD.gemeindename === gemeindeName
     );
 
+    // Zusammenfügen der GeoJSON daten und der Zahnarztdaten für die Gemeinde
     const newProp = { ...feat.properties, zahnarztDaten };
     return { type: feat.type, properties: newProp, geometry: feat.geometry };
   });
 
+  // Austauschen der alten Zusatzdaten der GeoJSON mit denen der Zahnarztdaten
   const newGeoJSON = { type, features: newFeat };
   return newGeoJSON;
 }
 
+// Wie Funktion oben nur für Landkreise, daher bedeutend einfacher
 export function combineLandkreisJSON(geoJSON, landkreisDaten) {
   const { type, features } = geoJSON;
 

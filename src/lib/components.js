@@ -1,3 +1,5 @@
+// Legenden Komponente 
+// Anpassen der Funktionalitäten und Styling
 export const Legend = L.Control.extend({
   onAdd: function (map) {
     // add reference to mapinstance

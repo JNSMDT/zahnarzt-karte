@@ -1,5 +1,7 @@
 import { getLegendHTML } from "./utils";
 
+// Initialisieren von Standardwerten und Farben
+// Farben Basis Versorgungsindex
 export const VI_BASE_COLORS = {
   dunkelgrün: "#1a9850",
   hellgrün: "#91cf60",
@@ -11,6 +13,7 @@ export const VI_BASE_COLORS = {
 
 // #################################################################################################
 
+// Farben Zahnarztdaten
 export const ZA_COLORS = {
   0: "#ffffff",
   "1-2": "#c6dbef",
@@ -47,6 +50,7 @@ function getZAColors(zaa) {
 
 // #################################################################################################
 
+// Farben Regionaler Versorgungsindex
 export const RVI_COLORS = {
   Mitversorger: VI_BASE_COLORS.dunkelgrün,
   Selbstversorger: VI_BASE_COLORS.hellgrün,
@@ -77,6 +81,7 @@ function getRVIColors(category) {
 
 // #################################################################################################
 
+// Farben Versorgungsindex
 export const VI_COLORS = {
   "1,2 (>2000)": VI_BASE_COLORS.dunkelgrün,
   "0,95": VI_BASE_COLORS.hellgrün,
@@ -101,6 +106,7 @@ function getVIColors(vi, pop) {
 
 // #################################################################################################
 
+// Farben Landkreiszahnarztdaten
 export const LKZA_COLORS = {
   "< 100": "#c6dbef",
   "100 - 149": "#6baed6",
@@ -128,6 +134,7 @@ function getLKZAColors(za) {
 
 // #################################################################################################
 
+// Farben Landkreis Hausbesuche
 export const LKHAUS_COLORS = {
   "< 25": "#c6dbef",
   "25 - 35": "#2171b5",
@@ -152,6 +159,9 @@ function getLKHAUSColors(haus) {
 
 // #################################################################################################
 
+// Erstellen der Leaflet Stylefunktionen 
+
+// Stylefunktionen Zahnarzt Absolut
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -163,6 +173,8 @@ export function zaaStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Bereinigt
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -175,6 +187,8 @@ export function zabStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Hausbesuche
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -187,6 +201,8 @@ export function hausStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Versorgungsindex
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -200,6 +216,8 @@ export function viStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Regionalerversorgungsindex
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -212,6 +230,8 @@ export function rviStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Lankreis Absolut
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -224,6 +244,11 @@ export function lkzaaStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Lankreis bereinigt
+/**
+ * @type {import("leaflet").StyleFunction}
+ */
 export function lkzabStyles(feature) {
   const { za_bereinigt } = feature.properties.zahnarztDaten;
 
@@ -233,6 +258,11 @@ export function lkzabStyles(feature) {
     opacity: 1,
   };
 }
+
+// Stylefunktionen Zahnarzt Lankreis Hausbesuche
+/**
+ * @type {import("leaflet").StyleFunction}
+ */
 export function lkhausStyles(feature) {
   const { hausbesuche } = feature.properties.zahnarztDaten;
 
@@ -243,6 +273,7 @@ export function lkhausStyles(feature) {
   };
 }
 
+// speichern der Stylefunktion in einem Objekt für leichtere aufrufbarkeit
 const styleFunctions = {
   zaa: zaaStyles,
   zab: zabStyles,
@@ -254,6 +285,7 @@ const styleFunctions = {
   lkhaus: lkhausStyles,
 };
 
+// speichern der Farben in Objekt für leichtere Aufrufbarkeit
 const colorObjects = {
   zaa: ZA_COLORS,
   zab: ZA_COLORS,
@@ -265,36 +297,51 @@ const colorObjects = {
   lkhaus: LKHAUS_COLORS,
 };
 
+
+// Funktion um die Legende und Farben je nach ausgewählten Layer und Daten anzupassen
 /**
  * @param {import("leaflet").FeatureGroup<any>} gemeindeLayer
  * @param {import("leaflet").FeatureGroup<any>} landkreisLayer
  */
 export function addStyleFunction(gemeindeLayer, landkreisLayer, legend) {
+  // Wählen aller Knöpfe in Kontrolbar
   const buttonElements = document.getElementsByClassName("styleButton");
 
+  // Für jeden Knopf die Daten und ID des Knopfs auslesen
   const buttonList = Array.from(buttonElements);
   buttonList.forEach((button) => {
     const style = button.dataset.style;
     const dataID = button.dataset.id;
+
+    // Bei Knopfdruck je nach Knopf das Styling umschalten
     button.onclick = () => {
+      // Optionen für Gemeinde
       if (dataID === "gD") {
         landkreisLayer.bringToBack();
         landkreisLayer.setStyle({
           fillOpacity: 0,
           opacity: 0,
         });
+        // Farben setzen auf Basis des Knopfstyles
         gemeindeLayer.setStyle(styleFunctions[style]);
+        // OPtionen für Landkreis
       } else if (dataID === "lkD") {
         gemeindeLayer.bringToBack();
         gemeindeLayer.setStyle({
           fillOpacity: 0,
           opacity: 0,
         });
+        // Farben setzen auf Basis des Knopfstyles
         landkreisLayer.setStyle(styleFunctions[style]);
       }
 
+      // Ändern der Legende auf Basis der Knöpfe 
       legend.setContent(getLegendHTML(colorObjects[style], `legend-${style}`));
+
+      // Styling von allen Knöpfen entfernen
       buttonList.forEach((button) => button.classList.remove("active"));
+
+      // Styling für den gewählten Knopf ändern.
       button.classList.add("active");
     };
   });

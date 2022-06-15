@@ -1,3 +1,5 @@
+// Cloudflare Worker zum Bereitstellen der Zahnarztdaten.
+
 /**
  * @typedef {import("@cloudflare/workers-types")}
  */

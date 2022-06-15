@@ -1,7 +1,10 @@
+
+// in den Daten ist alles Lowercase zum anzeigen werden die Daten Capitalized
 function capitalize(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
+// Die Sidebar (anzeigen der gespeicherten Daten) anpassen wenn eine Gemeinde/Landkreis gewählt wurde
 export function updateSidebar(gemeindeDaten) {
   const keys = Object.keys(gemeindeDaten);
 
