@@ -159,14 +159,14 @@ function getLKHAUSColors(haus) {
 
 // #################################################################################################
 
-// Erstellen der Leaflet Stylefunktionen 
+// Erstellen der Leaflet Stylefunktionen
 
 // Stylefunktionen Zahnarzt Absolut
 /**
  * @type {import("leaflet").StyleFunction}
  */
 export function zaaStyles(feature) {
-  const zaa = feature.properties.zahnarztDaten.za_absolut;
+  const zaa = feature.properties.za_absolut;
   return {
     fillColor: getZAColors(zaa),
     fillOpacity: 0.95,
@@ -179,7 +179,7 @@ export function zaaStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function zabStyles(feature) {
-  const zab = feature.properties.zahnarztDaten.za_bereinigt;
+  const zab = feature.properties.za_bereinigt;
 
   return {
     fillColor: getZAColors(zab),
@@ -193,7 +193,7 @@ export function zabStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function hausStyles(feature) {
-  const haus = feature.properties.zahnarztDaten.hausbesuche;
+  const haus = feature.properties.hausbesuche;
 
   return {
     fillColor: getZAColors(haus),
@@ -207,8 +207,8 @@ export function hausStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function viStyles(feature) {
-  const vi = feature.properties.zahnarztDaten.versorgungsindex;
-  const pop = feature.properties.zahnarztDaten.bevölkerung;
+  const vi = feature.properties.versorgungsindex;
+  const pop = feature.properties.bevölkerung;
 
   return {
     fillColor: getVIColors(vi, pop),
@@ -222,7 +222,7 @@ export function viStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function rviStyles(feature) {
-  const rvi = feature.properties.zahnarztDaten.kategorie;
+  const rvi = feature.properties.kategorie;
 
   return {
     fillColor: getRVIColors(rvi),
@@ -236,7 +236,7 @@ export function rviStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function lkzaaStyles(feature) {
-  const { za_absolut } = feature.properties.zahnarztDaten;
+  const { za_absolut } = feature.properties;
 
   return {
     fillColor: getLKZAColors(za_absolut),
@@ -250,7 +250,7 @@ export function lkzaaStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function lkzabStyles(feature) {
-  const { za_bereinigt } = feature.properties.zahnarztDaten;
+  const { za_bereinigt } = feature.properties;
 
   return {
     fillColor: getLKZAColors(za_bereinigt),
@@ -264,7 +264,7 @@ export function lkzabStyles(feature) {
  * @type {import("leaflet").StyleFunction}
  */
 export function lkhausStyles(feature) {
-  const { hausbesuche } = feature.properties.zahnarztDaten;
+  const { hausbesuche } = feature.properties;
 
   return {
     fillColor: getLKHAUSColors(hausbesuche),
@@ -296,7 +296,6 @@ const colorObjects = {
   lkzab: LKZA_COLORS,
   lkhaus: LKHAUS_COLORS,
 };
-
 
 // Funktion um die Legende und Farben je nach ausgewählten Layer und Daten anzupassen
 /**
@@ -335,7 +334,7 @@ export function addStyleFunction(gemeindeLayer, landkreisLayer, legend) {
         landkreisLayer.setStyle(styleFunctions[style]);
       }
 
-      // Ändern der Legende auf Basis der Knöpfe 
+      // Ändern der Legende auf Basis der Knöpfe
       legend.setContent(getLegendHTML(colorObjects[style], `legend-${style}`));
 
       // Styling von allen Knöpfen entfernen
