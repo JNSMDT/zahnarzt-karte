@@ -40,157 +40,148 @@ const STARTPOS = [53.9, 12.6]; // starting position [lng, lat]
 /**
  * Hauptfunktion um asynchrone Methoden besser abzubilden bzw. ohne .then und callbacks arbeiten zu können.
  */
-async function main() {
-  // ## Laden der Daten ##
 
-  // Laden der Gemeinde-Geo-Daten
-  const gemeindeGeoJSON = await getJSONData(
-    GEMEINDE_GEOJSON_URL,
-    "gemeindeGeoJSON",
-    true
-  );
+// ## Laden der Daten ##
 
-  // Laden der Landkreis-Geo-Daten
-  const landkreisGeoJSON = await getJSONData(
-    LANDKREIS_GEOJSON_URL,
-    "landkreisGeoJSON",
-    true
-  );
+// Laden der Gemeinde-Geo-Daten
+const gemeindeGeoJSON = await getJSONData(
+  GEMEINDE_GEOJSON_URL,
+  "gemeindeGeoJSON",
+  true
+);
 
-  // Laden der Lankreis-Zahnarzt-Daten
-  let landkreisZahnarztData = await getJSONData(
-    LANDKREIS_ZAHNARZT_DATA_URL,
-    "landkreisZahnarztDaten"
-  );
+// Laden der Landkreis-Geo-Daten
+const landkreisGeoJSON = await getJSONData(
+  LANDKREIS_GEOJSON_URL,
+  "landkreisGeoJSON",
+  true
+);
 
-  // Vereinheitlichen der Zahnarztdaten Keys auf die Geodaten Keys
-  landkreisZahnarztData = normalizeKeys(landkreisZahnarztData, true);
+// Laden der Lankreis-Zahnarzt-Daten
+let landkreisZahnarztData = await getJSONData(
+  LANDKREIS_ZAHNARZT_DATA_URL,
+  "landkreisZahnarztDaten"
+);
 
-  // Laden der Gemeinde-Zahnarzt-Daten
-  let gemeindeZahnarztDaten = await getJSONData(
-    GEMEINDE_ZAHNARZT_DATA_URL,
-    "gemeindeZahnarztDaten"
-  );
-  
-  // Vereinheitlichen der Zahnarztdaten Keys auf die Geodaten Keys
-  gemeindeZahnarztDaten = normalizeKeys(gemeindeZahnarztDaten);
+// Vereinheitlichen der Zahnarztdaten Keys auf die Geodaten Keys
+landkreisZahnarztData = normalizeKeys(landkreisZahnarztData, true);
 
-  // Berechnen des Versorgungsindex und einfügen in den Zahnarztdatensatz
-  gemeindeZahnarztDaten = injectVI(gemeindeZahnarztDaten);
+// Laden der Gemeinde-Zahnarzt-Daten
+let gemeindeZahnarztDaten = await getJSONData(
+  GEMEINDE_ZAHNARZT_DATA_URL,
+  "gemeindeZahnarztDaten"
+);
 
-  // vereinen der GeoJSON und Zahnarstdaten (Gemeinde)
-  const gemeindeZahnarztGeoJSON = combineGemeindeJSON(
-    gemeindeGeoJSON,
-    gemeindeZahnarztDaten
-  );
+// Vereinheitlichen der Zahnarztdaten Keys auf die Geodaten Keys
+gemeindeZahnarztDaten = normalizeKeys(gemeindeZahnarztDaten);
 
-  // vereinen der GeoJSON und Zahnarztdaten (Landkreis)
-  const landkreisZahnarztGeoJSON = combineLandkreisJSON(
-    landkreisGeoJSON,
-    landkreisZahnarztData
-  );
+// Berechnen des Versorgungsindex und einfügen in den Zahnarztdatensatz
+gemeindeZahnarztDaten = injectVI(gemeindeZahnarztDaten);
 
-  // Selecting der Kontrollbar im DOM
-  const controlBar = document.getElementById("ControlBar");
+// vereinen der GeoJSON und Zahnarstdaten (Gemeinde)
+var gemeindeZahnarztGeoJSON = combineGemeindeJSON(
+  gemeindeGeoJSON,
+  gemeindeZahnarztDaten
+);
+console.log(gemeindeGeoJSON);
+// vereinen der GeoJSON und Zahnarztdaten (Landkreis)
+const landkreisZahnarztGeoJSON = combineLandkreisJSON(
+  landkreisGeoJSON,
+  landkreisZahnarztData
+);
 
-  // Wenn Kontrolbar gefunden wurde, anzeigen der Kontrolbar
-  // Die Kontrolbar ist Standardmäßig ausgeblendet, da das Laden der Daten sehr lange dauert
-  if (controlBar) controlBar.classList.remove("hidden");
+// Selecting der Kontrollbar im DOM
+const controlBar = document.getElementById("ControlBar");
 
-  // Initialisieren der Karte
+// Wenn Kontrolbar gefunden wurde, anzeigen der Kontrolbar
+// Die Kontrolbar ist Standardmäßig ausgeblendet, da das Laden der Daten sehr lange dauert
+if (controlBar) controlBar.classList.remove("hidden");
 
-  // festlegen der Standardoptionen der Karte
-  /**
-   * @type L.MapOptions
-   */
-  const mapOptions = {
-    zoomSnap: 0.1,
-    zoomControl: false,
-  };
+// Initialisieren der Karte
 
-  // Erstellen einer neuen Karteninstanz
-  const map = L.map("map", mapOptions);
+// festlegen der Standardoptionen der Karte
+/**
+ * @type L.MapOptions
+ */
+const mapOptions = {
+  zoomSnap: 0.1,
+  zoomControl: false,
+};
 
-  // Startpunkt auf der Karte setzen
-  map.setView(STARTPOS, 0);
+// Erstellen einer neuen Karteninstanz
+const map = L.map("map", mapOptions);
 
-  // Maptile erstellen und laden
-  const mapTile = L.tileLayer(
-    "https://tile.jawg.io/bb320d20-02b7-4285-b370-e6ffc012a219/{z}/{x}/{y}{r}.png?access-token=trdpYvK5CNGdcUtYZwYlLkK4k4oBpUisLjA51tTh7dxFzcI1u5NdtYy9JqAk8NZN",
-    {}
-  );
-  // Maptile zur Karte hinzufügen
-  mapTile.addTo(map);
+// Startpunkt auf der Karte setzen
+map.setView(STARTPOS, 0);
 
-  // Neuen Daten/GeoJSON Layer für die Gemeinden
-  // Basisstyling setzen
-  // Klickfunktion erstellen und hinzufügen
-  const gemeindeLayer = L.geoJSON(gemeindeZahnarztGeoJSON, {
-    style: {
-      fillColor: "#fff",
-      fillOpacity: 0,
-      color: "#444444",
-      weight: 2,
-      opacity: 0.1,
-    },
-    onEachFeature: (feature, layer) => {
-      layer.on({
-        click: () => {
-          const { zahnarztDaten, ...geoJSONData } = feature.properties;
-          console.dir({
-            gdata: zahnarztDaten,
-            geoData: geoJSONData,
-          });
-          updateSidebar(zahnarztDaten);
-        },
-      });
-    },
-  });
+// Maptile erstellen und laden
+const mapTile = L.tileLayer(
+  "https://tile.jawg.io/bb320d20-02b7-4285-b370-e6ffc012a219/{z}/{x}/{y}{r}.png?access-token=trdpYvK5CNGdcUtYZwYlLkK4k4oBpUisLjA51tTh7dxFzcI1u5NdtYy9JqAk8NZN",
+  {}
+);
+// Maptile zur Karte hinzufügen
+mapTile.addTo(map);
 
-  // Neuer Daten/GeoJSON Layer für die Landkreise
-  const landkreisLayer = L.geoJSON(landkreisZahnarztGeoJSON, {
-    style: {
-      fillOpacity: 0,
-      color: "#444444",
-      weight: 2,
-      opacity: 0,
-    },
-    onEachFeature: (feature, layer) => {
-      layer.on({
-        click: () => {
-          const { zahnarztDaten, ...geoJSONData } = feature.properties;
-          console.dir({
-            lkdata: zahnarztDaten,
-            geoData: geoJSONData,
-          });
-          updateSidebar(zahnarztDaten);
-        },
-      });
-    },
-  });
+// Neuen Daten/GeoJSON Layer für die Gemeinden
+// Basisstyling setzen
+// Klickfunktion erstellen und hinzufügen
+const gemeindeLayer = L.geoJSON(gemeindeZahnarztGeoJSON, {
+  style: {
+    fillColor: "#fff",
+    fillOpacity: 0,
+    color: "#444444",
+    weight: 2,
+    opacity: 0.1,
+  },
+  onEachFeature: (feature, layer) => {
+    layer.on({
+      click: () => {
+        const props = feature.properties;
+        console.dir(props);
+        updateSidebar(utils.fprops);
+      },
+    });
+  },
+});
 
-  // Neue Legendeninstanz erstellen
-  const legend = new Legend({
-    position: "topleft",
-    content: "",
-  });
+// Neuer Daten/GeoJSON Layer für die Landkreise
+const landkreisLayer = L.geoJSON(landkreisZahnarztGeoJSON, {
+  style: {
+    fillOpacity: 0,
+    color: "#444444",
+    weight: 2,
+    opacity: 0,
+  },
+  onEachFeature: (feature, layer) => {
+    layer.on({
+      click: () => {
+        const props = feature.properties;
+        console.dir(props);
+        updateSidebar(props);
+      },
+    });
+  },
+});
 
-  // Legende zur Karte hinzufügen
-  map.addControl(legend);
+// Neue Legendeninstanz erstellen
+const legend = new Legend({
+  position: "topleft",
+  content: "",
+});
 
-  // Funktion um beim umschalten zwischen Gemeinde und Landkreis die Legende anzupassen
-  addStyleFunction(gemeindeLayer, landkreisLayer, legend);
+// Legende zur Karte hinzufügen
+map.addControl(legend);
 
-  // Daten/GeoJSON Layer zur Karte hinzufügen
-  map.addLayer(gemeindeLayer);
-  map.addLayer(landkreisLayer);
+// Funktion um beim umschalten zwischen Gemeinde und Landkreis die Legende anzupassen
+addStyleFunction(gemeindeLayer, landkreisLayer, legend);
 
-  // Zoom auf Bereiche mit vorhandenen Daten
-  map.fitBounds(gemeindeLayer.getBounds());
+// Daten/GeoJSON Layer zur Karte hinzufügen
+map.addLayer(gemeindeLayer);
+map.addLayer(landkreisLayer);
 
-  // Debugging Nachrichten in der Konsole
-  console.log("Welcome to this little map.");
-  console.log(`You are on version ${pkg.version}`);
-}
+// Zoom auf Bereiche mit vorhandenen Daten
+map.fitBounds(gemeindeLayer.getBounds());
 
-main();
+// Debugging Nachrichten in der Konsole
+console.log("Welcome to this little map.");
+console.log(`You are on version ${pkg.version}`);

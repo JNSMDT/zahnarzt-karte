@@ -83,7 +83,6 @@ export function combineGemeindeJSON(geoJSON, gemeindeDaten) {
      */
     const gemeindeSchlüssel = feat.properties.gemeinde_schluessel;
     const kreisSchlüssel = feat.properties.kreis_schluessel;
-
     const gsString = gemeindeSchlüssel.toString();
     const gsLastThree = gsString.slice(gsString.length - 3);
 
@@ -98,9 +97,8 @@ export function combineGemeindeJSON(geoJSON, gemeindeDaten) {
         gD.gemeindeschlüssel === zaGemeindeSchlüssel &&
         gD.gemeindename === gemeindeName
     );
-
     // Zusammenfügen der GeoJSON daten und der Zahnarztdaten für die Gemeinde
-    const newProp = { ...feat.properties, zahnarztDaten };
+    const newProp = { ...feat.properties, ...zahnarztDaten };
     return { type: feat.type, properties: newProp, geometry: feat.geometry };
   });
 
@@ -119,7 +117,7 @@ export function combineLandkreisJSON(geoJSON, landkreisDaten) {
     const zahnarztDaten = landkreisDaten.find(
       (lD) => lD.kreisname === kreisname
     );
-    const newProp = { ...feat.properties, zahnarztDaten };
+    const newProp = { ...feat.properties, ...zahnarztDaten };
     return { type: feat.type, properties: newProp, geometry: feat.geometry };
   });
   const newGeoJSON = { type, features: newFeat };
