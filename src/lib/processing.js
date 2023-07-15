@@ -1,6 +1,5 @@
 /**
  * @typedef {Object} GemeindeDaten
- * @property {number} gemeindeschlüssel
  * @property {string} gemeindename
  * @property {string} kreisname
  * @property {number} bevölkerung

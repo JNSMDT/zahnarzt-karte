@@ -2,7 +2,7 @@
  * @typedef {import(@types/leaflet)}
  */
 import { updateSidebar } from "./lib/sidebar";
-import { getJSONData, getLegendHTML } from "./lib/utils";
+import { filterProps, getJSONData, getLegendHTML } from "./lib/utils";
 import {
   combineGemeindeJSON,
   normalizeKeys,
@@ -138,7 +138,7 @@ async function main() {
         click: () => {
           const props = feature.properties;
           console.dir(props);
-          updateSidebar(utils.fprops);
+          updateSidebar(filterProps(props));
         },
       });
     },
@@ -157,7 +157,7 @@ async function main() {
         click: () => {
           const props = feature.properties;
           console.dir(props);
-          updateSidebar(props);
+          updateSidebar(filterProps(props, true));
         },
       });
     },

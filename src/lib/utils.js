@@ -39,12 +39,11 @@ export async function getJSONData(url, key, longTimeData = false) {
     ? await localforage.getItem(`lastPush-${key}`)
     : null;
 
-
   const timestamp = new Date().getTime();
   const maxTime = 1000 * 21600; // 1000ms -> 1s, 21600s -> 6h
 
-  // Laden der Daten aus dem Web wenn keine Datenvorhanden sind, 
-  // keine Daten zum letzten speichern vorhanden sind 
+  // Laden der Daten aus dem Web wenn keine Datenvorhanden sind,
+  // keine Daten zum letzten speichern vorhanden sind
   // oder wenn das letzte speichern mehr als 6h her ist
   if (
     localGeoJSON === null ||
@@ -76,4 +75,47 @@ export function getLegendHTML(colorObject, styleClass) {
   });
 
   return legendElement.outerHTML;
+}
+
+/**
+ * @typedef {Object} AllProps
+ * @property {...import("./processing").GemeindeDaten}
+ * @property {[key:string]: any}
+ */
+
+/**
+ *
+ * @param {AllProps} props
+ * @param {boolean} isLK
+ * @returns
+ */
+export function filterProps(props, isLK) {
+  const {
+    bevölkerung,
+    gemeindename,
+    hausbesuche,
+    kreisname,
+    versorgungsindex,
+    za_absolut,
+    za_bereinigt,
+  } = props;
+
+  if (isLK) {
+    return {
+      kreisname,
+      hausbesuche,
+      za_absolut,
+      za_bereinigt,
+    };
+  }
+
+  return {
+    gemeindename,
+    kreisname,
+    bevölkerung,
+    hausbesuche,
+    versorgungsindex,
+    za_absolut,
+    za_bereinigt,
+  };
 }
