@@ -1,0 +1,3174 @@
+[
+  {
+    "name": "Praxis Brückner",
+    "address": "Prenzlauer Straße 39, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schneider",
+    "address": "Rotbuchenring 1 b, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Wohlgemuth",
+    "address": "Neustrelitzer Straße 75, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Lischinski",
+    "address": "Clara-Zetkin-Straße 17, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Bülow",
+    "address": "Ziegelbergstraße 7, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Gundlach",
+    "address": "An der Marienkirche 2, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Freytag",
+    "address": "Ludwig-van-Beethoven-Ring 13, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Zahn",
+    "address": "Jahnstraße 12, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Khalifeh",
+    "address": "Schwedenstraße 2, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schultz",
+    "address": "Gebrüder-Boll-Straße 1 d, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Slatnow",
+    "address": "Friedrich-Engels-Ring 35, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schwermer",
+    "address": "Wartlaustraße 1, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Sanitätsversorgungszentrum Neubrandenburg",
+    "address": "Weg am Hang 35, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Kerschke",
+    "address": "Torfsteg 11, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Wohlleben",
+    "address": "Katharinenstraße 40, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Wohlrab",
+    "address": "Friedrich-Engels-Ring 2, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Krüger",
+    "address": "Südbahnstraße 11, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Lüdke",
+    "address": "Kirschenallee 13, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Nagyváradi",
+    "address": "Feldstraße 2, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schülein",
+    "address": "Pfaffenstraße 27, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Dr. Kubetschek",
+    "address": "Wilhelm-Külz-Straße 4, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Dr. Eichstädt",
+    "address": "Wartlaustraße 1, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Rößner",
+    "address": "Brodaerstraße 11, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Dr. Gettel",
+    "address": "Robert-Blum-Straße 4, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Negnal",
+    "address": "Nemerower Straße 4 - 6, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Stoltz",
+    "address": "Platanenstraße 10, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Voigt",
+    "address": "Morgenlandstraße 3, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Thederahn",
+    "address": "Ziegelbergstraße 5 a, 17033 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Sera",
+    "address": "An der Hürde 7, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Diòsy",
+    "address": "Sponholzer Straße 23 a, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Weßlau",
+    "address": "Erich-Zastrow-Straße 12, 17034 Neubrandenburg"
+  },
+  {
+    "name": "MVZ 32-Zähne im Glück GmbH",
+    "address": "Alfred-Haude-Straße 5, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Kuhl",
+    "address": "Fasanenstraße 29, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Hellwig",
+    "address": "Adlerstraße 28, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schlegel",
+    "address": "Adlerstraße 28, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Quitenski",
+    "address": "Kranichstraße 41, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Ihlenfelder Straße 20, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Diósy",
+    "address": "Sponholzerstraße 23 a, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Voll",
+    "address": "Atelierstraße 1, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Schneider",
+    "address": "Willi-Bredel-Straße 12, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Weißenberg",
+    "address": "An der Hürde 11 - 13, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Grassel",
+    "address": "An der Hürde 11 - 13, 17034 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Hahn",
+    "address": "Helmut-Just-Straße 6, 17036 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Engel",
+    "address": "Juri-Gagarin-Ring 39, 17036 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Voigtländer",
+    "address": "Robert-Koch-Straße 11, 17036 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Wöller",
+    "address": "Ikarusstraße 14 a, 17036 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Kulow",
+    "address": "Robert-Koch-Straße 17, 17036 Neubrandenburg"
+  },
+  {
+    "name": "Praxis Gratz",
+    "address": "Eichenweg 3, 17039 Neverin"
+  },
+  {
+    "name": "Praxis Dachner",
+    "address": "Demminer Straße 50, 17087 Altentreptow"
+  },
+  {
+    "name": "Praxis Drews",
+    "address": "Brandenburger Straße 14/15, 17087 Altentreptow"
+  },
+  {
+    "name": "Praxis Linek",
+    "address": "Fichtestraße 4, 17087 Altentreptow"
+  },
+  {
+    "name": "Praxis Seefeldt",
+    "address": "Fichtestraße 4, 17087 Altentreptow"
+  },
+  {
+    "name": "Praxis Stöhlmacher",
+    "address": "Fritz-Reuter- Straße 3, 17089 Siedenbollentin"
+  },
+  {
+    "name": "Praxis Jeromin",
+    "address": "Am Landambulatorium 1, 17089 Burow"
+  },
+  {
+    "name": "Praxis Ahlgrimm",
+    "address": "Am Fettloch 4, 17091 Rosenow"
+  },
+  {
+    "name": "Praxis Schreiber",
+    "address": "Dewitzer Chaussee 9, 17094 Burg Stargard"
+  },
+  {
+    "name": "Praxis Dr. Bruckert",
+    "address": "Am Markt 2, 17094 Burg Stargard"
+  },
+  {
+    "name": "Praxis Köller",
+    "address": "Mühlenstraße 16, 17098 Friedland"
+  },
+  {
+    "name": "Praxis Kummer",
+    "address": "3. Ringstraße 5 a, 17098 Friedland"
+  },
+  {
+    "name": "Praxis Wöller",
+    "address": "Marienstraße 20, 17098 Friedland"
+  },
+  {
+    "name": "Praxis Grötschel",
+    "address": "Mühlenstraße 81 a, 17098 Friedland"
+  },
+  {
+    "name": "Praxis Repschläger",
+    "address": "Turmstraße 2 a, 17098 Friedland"
+  },
+  {
+    "name": "Zahnarztpraxis Christian Schultz",
+    "address": "Pasewalker Straße 6, 17098 Friedland"
+  },
+  {
+    "name": "Praxis Alscher",
+    "address": "Mühlenstraße 30, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Krabbe",
+    "address": "Grünstraße 22, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Bittmann-Franck",
+    "address": "Wollweberstraße 2, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Pangerl",
+    "address": "Adolf-Pompe-Straße 24, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Oldenburg",
+    "address": "Treptower Straße 26, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Nienkarken",
+    "address": "Bergstraße 6, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Bretzke",
+    "address": "Baustraße 32, 17109 Demmin"
+  },
+  {
+    "name": "Praxis Beneke",
+    "address": "Schwedenstraße 6, 17121 Loitz"
+  },
+  {
+    "name": "Praxis Nemitz",
+    "address": "Goethestraße 37, 17121 Loitz"
+  },
+  {
+    "name": "Praxis Lahmann",
+    "address": "Marktstraße 154, 17121 Loitz"
+  },
+  {
+    "name": "Praxis Thomaschewski",
+    "address": "Demminer Straße 44, 17126 Jarmen"
+  },
+  {
+    "name": "Praxis Peters",
+    "address": "Goethestraße 18, 17126 Jarmen"
+  },
+  {
+    "name": "Praxis Dr. Gorkow",
+    "address": "Burgstraße 19, 17126 Jarmen"
+  },
+  {
+    "name": "Praxis Klönhammer",
+    "address": "Scheunenstraße 10, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Kniest",
+    "address": "Scheunenstraße 10, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Sievert",
+    "address": "Heinrich-Heine-Straße 39, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Dr. Buchwald",
+    "address": "Petersilien Straße 5, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Dr. Knüpfer",
+    "address": "Scheunenstraße 10 a, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Schultz",
+    "address": "Scheunenstraße 10 a, 17139 Malchin"
+  },
+  {
+    "name": "Praxis Streuling",
+    "address": "August-Seidel-Straße 29, 17153 Stavenhagen"
+  },
+  {
+    "name": "Praxis Prof. Oesterreich",
+    "address": "Schultetusstr. 22, 17153 Stavenhagen"
+  },
+  {
+    "name": "Praxis Bittmann",
+    "address": "Reuterplatz 3, 17153 Stavenhagen"
+  },
+  {
+    "name": "Praxis Rathmann",
+    "address": "Demminer Straße 18, 17159 Dargun"
+  },
+  {
+    "name": "Praxis Schröder",
+    "address": "Diesterwegstraße 26, 17159 Dargun"
+  },
+  {
+    "name": "Praxis Skaisgirski",
+    "address": "Amtsstraße 26, 17159 Dargun"
+  },
+  {
+    "name": "Praxis Dr. Demond",
+    "address": "Marktplatz 5, 17166 Teterow"
+  },
+  {
+    "name": "Praxis Henning",
+    "address": "Goethestraße 31, 17166 Teterow"
+  },
+  {
+    "name": "Praxis Donath",
+    "address": "Poggestraße 8, 17166 Teterow"
+  },
+  {
+    "name": "Praxis Dr. Kroll / Dipl.-Stom. Scheel",
+    "address": "Poggestraße 8, 17166 Teterow"
+  },
+  {
+    "name": "Praxis Dr. Finke",
+    "address": "Hornburgstraße 18, 17179 Gnoien"
+  },
+  {
+    "name": "Praxis Dr. Freudenfeld",
+    "address": "Wiedsoll 16, 17179 Gnoien"
+  },
+  {
+    "name": "Praxis Zorn",
+    "address": "Rostocker Straße 1 a, 17179 Gnoien"
+  },
+  {
+    "name": "Praxis Volkmann",
+    "address": "Rosa-Luxemburg-Straße 14, 17192 Waren/Müritz"
+  },
+  {
+    "name": "Praxis Lamster",
+    "address": "Schleswiger Straße 7, 17192 Waren"
+  },
+  {
+    "name": "Praxis Starke",
+    "address": "Große Gasse 15, 17192 Waren"
+  },
+  {
+    "name": "Praxis Donath",
+    "address": "Goethestraße 48 - 21, 17192 Waren"
+  },
+  {
+    "name": "Praxis Friedrich",
+    "address": "Kirchenstraße 7, 17192 Waren"
+  },
+  {
+    "name": "Praxis Wendorf/Gehrmann/Plehn",
+    "address": "Goethestraße 48 - 51, 17192 Waren"
+  },
+  {
+    "name": "Praxis Dr. Beckert",
+    "address": "Warendorfer Straße 4, 17192 Waren"
+  },
+  {
+    "name": "Praxis Dr. Androshckuk &amp; Komnig",
+    "address": "Fischerstraße 10, 17192 Waren"
+  },
+  {
+    "name": "Praxis Dr. Handy",
+    "address": "Lloydstraße 3, 17192 Waren (Müritz)"
+  },
+  {
+    "name": "Praxis Neuendorf",
+    "address": "Neuer Markt 20, 17192 Waren"
+  },
+  {
+    "name": "Praxis Sieber",
+    "address": "Dietrich-Bonhoeffer-Straße 10, 17192 Waren"
+  },
+  {
+    "name": "Praxis Dr. Weigang",
+    "address": "Große Grüne Straße 5, 17192 Waren"
+  },
+  {
+    "name": "Praxis Holzapfel",
+    "address": "Gustav-Melkert-Straße 4, 17207 Röbel"
+  },
+  {
+    "name": "Praxis Höhne",
+    "address": "Bahnhofstraße 39, 17207 Röbel"
+  },
+  {
+    "name": "Praxis Pfanne",
+    "address": "Mirower Straße 2, 17207 Röbel"
+  },
+  {
+    "name": "Praxis Mehlhorn",
+    "address": "Güstrower Straße 51, 17213 Malchow"
+  },
+  {
+    "name": "Praxis Dau",
+    "address": "Rosa-Luxemburg-Straße 9, 17213 Malchow"
+  },
+  {
+    "name": "Praxis Grünberg",
+    "address": "Bahnhofstraße 7, 17213 Malchow"
+  },
+  {
+    "name": "Praxis Dr. Blohm",
+    "address": "Warener Straße 14 - 15, 17217 Penzlin"
+  },
+  {
+    "name": "Praxis Synwoldt",
+    "address": "Am Markt 2, 17219 Möllenhagen"
+  },
+  {
+    "name": "Praxis Roewer",
+    "address": "Bruchstraße 17, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Kastrau",
+    "address": "Bruchstraße 17, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Kalmykova",
+    "address": "Karbe-Wagner-Straße 57, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Scheurell",
+    "address": "Markt 10 - 11, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Stahnke-Mell",
+    "address": "Hohenzieritzer Straße 13, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Waldmann",
+    "address": "Elisabethstraße 6, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Kurzweil",
+    "address": "Töpferstraße 2, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Riesebeck",
+    "address": "Fürstenberger Straße 11 a, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Dr. Dietrich",
+    "address": "Lessingstraße 4, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Latendorf",
+    "address": "Strelitzer Straße 2- 4, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Gerloff",
+    "address": "Sassenstraße 12, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Kalmeier",
+    "address": "Zierker Straße 30, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Hinz",
+    "address": "Karbe-Wagner-Straße 28, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Wilke",
+    "address": "Marienstraße 4, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Nespital-Hummel",
+    "address": "Strelitzer Straße 15, 17235 Neustrelitz"
+  },
+  {
+    "name": "Praxis Mönch",
+    "address": "Neuer Markt 3, 17248 Rechlin"
+  },
+  {
+    "name": "Praxis Schröder-Jarchow",
+    "address": "Fritz-Reuter-Straße 2 a, 17252 Mirow"
+  },
+  {
+    "name": "Praxis Hiller",
+    "address": "Bahnhofstraße 07, 17255 Wesenberg"
+  },
+  {
+    "name": "Praxis Dr. Rajko Lippert & Kollegen",
+    "address": "Bahnhofstraße 9, 17255 Wesenberg"
+  },
+  {
+    "name": "Praxis Dr. Lison",
+    "address": "Fürstenberger Straße 1, 17258 Feldberger Seenlandschaft"
+  },
+  {
+    "name": "Praxis Pohl",
+    "address": "Strelitzer Straße 38, 17258 Feldberger Seenlandschaft"
+  },
+  {
+    "name": "Praxis Eschner",
+    "address": "Kastanienallee 4, 17258 Feldberger Seenlandschaft"
+  },
+  {
+    "name": "Praxis Fehrmann/Trutwig",
+    "address": "Torgelower Straße 14, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Wendt",
+    "address": "Am Markt 1, 17309 Pasewalk"
+  },
+  {
+    "name": "Zahnarztgruppe Viereck / Kürassier Kaserne /",
+    "address": "Kürassier Kaserne, 17309 Viereck"
+  },
+  {
+    "name": "Praxis Bluhm",
+    "address": "Klosterstraße 26, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Lüdtke",
+    "address": "Karl-Marx-Straße 6, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Meyer",
+    "address": "Mühlenstraße 15, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Korzan",
+    "address": "Prenzlauer Chaussee 30, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Wetzel",
+    "address": "Feldstraße 1 a, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Morgenstern",
+    "address": "Lange Straße 9, 17309 Viereck"
+  },
+  {
+    "name": "Pflegeheim St. Spiritus",
+    "address": "Am St. Spiritus 11, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Schilling",
+    "address": "Prenzlauer Straße 13, 17309 Pasewalk"
+  },
+  {
+    "name": "Praxis Heling",
+    "address": "Ernst-Thälmann-Straße 8 a, 17321 Löcknitz"
+  },
+  {
+    "name": "Praxis Schillak",
+    "address": "Stettiner Tor 2, 17328 Penkun"
+  },
+  {
+    "name": "Praxis Krüger",
+    "address": "Falkenberger Straße 36, 17335 Strasburg"
+  },
+  {
+    "name": "Praxis Hartel",
+    "address": "Markt 2 a, 17348 Woldegk"
+  },
+  {
+    "name": "Praxis Keiss",
+    "address": "Krumme Straße 11, 17348 Woldegk"
+  },
+  {
+    "name": "Praxis Schriewer",
+    "address": "August-Bebel-Straße 4, 17348 Woldegk"
+  },
+  {
+    "name": "Praxis Wrage",
+    "address": "Am Tanger 13, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Kremkow",
+    "address": "Goethestraße 5, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Gierke",
+    "address": "Pestalozzistraße 7, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Pyra",
+    "address": "Königstraße 23, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Scheunemann",
+    "address": "Goethestraße 1, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Fels",
+    "address": "Bahnhofstraße 41, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Masch",
+    "address": "Gartenstraße 1, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Geldschläger",
+    "address": "Ferdinandstraße 7, 17358 Torgelow"
+  },
+  {
+    "name": "Praxis Kremkow",
+    "address": "Luckower Straße 1, 17367 Eggesin"
+  },
+  {
+    "name": "Praxis Fleischer",
+    "address": "Lindenstraße 5, 17367 Eggesin"
+  },
+  {
+    "name": "Praxis Schünemann",
+    "address": "Belliner Straße 35 a, 17373 Ueckermünde"
+  },
+  {
+    "name": "Praxis Hardow",
+    "address": "Kranichstraße 30, 17373 Ueckermünde"
+  },
+  {
+    "name": "Praxis Jahn",
+    "address": "Ueckerstraße 48, 17373 Ueckermünde"
+  },
+  {
+    "name": "Praxis Dr. Großkopf",
+    "address": "Goethestraße 10, 17373 Ueckermünde"
+  },
+  {
+    "name": "Praxis Markowicz",
+    "address": "Chausseestraße  45, 17373 Ueckermünde"
+  },
+  {
+    "name": "Praxis Vogel",
+    "address": "Ueckerstraße 35, 17373 Ueckermünde"
+  },
+  {
+    "name": "Zahnarztpraxis am Haff",
+    "address": "Haffstraße 28, 17375 Mönkebude"
+  },
+  {
+    "name": "Praxis Lettow",
+    "address": "Bahnhofstraße 29, 17379 Ferdinandshof"
+  },
+  {
+    "name": "Praxis Töpfer",
+    "address": "Mühlenstraße 18 a, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Dr. Gleser",
+    "address": "Lübecker Straße 3, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Eggebrecht",
+    "address": "Ravelinstraße 16, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Dabers",
+    "address": "Pasewalker Straße 19, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Dr. Becker",
+    "address": "Markt 4, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Korthase",
+    "address": "Demminer Straße 16, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Lehnhoff",
+    "address": "Pasewalker Allee 73, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Daedlow",
+    "address": "Mühlenstraße 18, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Beitz",
+    "address": "Neuer Markt 14, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Weißenborn",
+    "address": "Robinienweg 1, 17389 Anklam"
+  },
+  {
+    "name": "Praxis Bartelt",
+    "address": "Denniner Straße 23, 17392 Spantekow"
+  },
+  {
+    "name": "Zahnarztpraxis Ducherow<br />Dr. Anke Heiden",
+    "address": "Am Bahnhof 10, 17398 Ducherow"
+  },
+  {
+    "name": "Praxis Müller",
+    "address": "Geschwister-Scholl-Straße 4, 17406 Usedom"
+  },
+  {
+    "name": "Praxis Richter",
+    "address": "Kirchenstraße 10 a, 17419 Ahlbeck"
+  },
+  {
+    "name": "Praxis Zschüttig",
+    "address": "Wollinerstraße 2, 17419 Seebad Ahlbeck"
+  },
+  {
+    "name": "Praxis Krohn",
+    "address": "Saarstraße 5, 17419 Ahlbeck"
+  },
+  {
+    "name": "Praxis Rahn",
+    "address": "Friedenstraße 4, 17424 Heringsdorf"
+  },
+  {
+    "name": "Praxis Radke",
+    "address": "Friedenstraße 4, 17424 Heringsdorf"
+  },
+  {
+    "name": "Praxis Lüder",
+    "address": "Bergstraße 6, 17429 Heringsdorf"
+  },
+  {
+    "name": "Praxis Poppe",
+    "address": "An der Landstraße 8, 17429 Benz / Neppermin"
+  },
+  {
+    "name": "Praxis Proll",
+    "address": "Seestraße 12, 17429 Heringsdorf"
+  },
+  {
+    "name": "Praxis Kischko",
+    "address": "Hufelandstraße 1, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Kmieciak",
+    "address": "Brunnenstraße 4, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Spassov",
+    "address": "Steinstraße 15, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Worm",
+    "address": "Steinstraße 3, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Eigbrecht",
+    "address": "Schiffbauerdamm 1, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Rassmus",
+    "address": "Schusterstraße 22, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Thiel",
+    "address": "Wilhelmstraße 37, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Heß",
+    "address": "Wolgaster Weg 10, 17438 Wolgast"
+  },
+  {
+    "name": "Praxis Reinholz",
+    "address": "Hauptstraße 10, 17449 Karlshagen"
+  },
+  {
+    "name": "Praxis Dr. Vogt",
+    "address": "Bahnhofstraße 101, 17449 Trassenheide"
+  },
+  {
+    "name": "Praxis Dr. Berndt",
+    "address": "Neue Strandstraße 41, 17454 Zinnowitz"
+  },
+  {
+    "name": "Praxis Meyer",
+    "address": "Dr.-Wachsmann-Straße 4, 17454 Zinnowitz"
+  },
+  {
+    "name": "Praxis Albrecht",
+    "address": "Feldstraße 35, 17459 Koserow"
+  },
+  {
+    "name": "Praxis Zekai",
+    "address": "Waldstraße 3, 17459 Ückeritz"
+  },
+  {
+    "name": "Praxis Albrecht",
+    "address": "Schulstraße 1, 17459 Koserow"
+  },
+  {
+    "name": "Praxis Dr. Böhringer",
+    "address": "Pappelallee 1, 17489 Greifswald"
+  },
+  {
+    "name": "MKG-Praxis<br />Dr. Matthias Schuster",
+    "address": "Bleichstraße 19, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Kunze",
+    "address": "Bahnhofstraße 44 e, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Schankath",
+    "address": "Wolgaster Straße 42, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Basner",
+    "address": "Wolgaster Straße 42, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Riedel",
+    "address": "Marienstraße 33, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Schwahn",
+    "address": "Fischstraße 12, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Eremenko",
+    "address": "Mühlenstraße 30, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Podmelle",
+    "address": "Bleichstraße 19, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Günther",
+    "address": "Theodor-Körner-Straße 35 b, 17489 Neuenkirchen"
+  },
+  {
+    "name": "Praxis Löw",
+    "address": "Marienstraße 33, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Jummel",
+    "address": "Anklamer Straße 78, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Spassov",
+    "address": "Apfelweg 28, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Lau",
+    "address": "Arndtstraße 24, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Kinzel",
+    "address": "Grimmerstraße 56 a, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Söhnel",
+    "address": "Alte Brauerei 1, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Varbelow",
+    "address": "Karl-Marx-Platz 2, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Ballke / Buth",
+    "address": "Gützkower Straße 69, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Patrunky",
+    "address": "Knopfstraße 12/13, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Gürtler",
+    "address": "Fischstraße 10, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Brück",
+    "address": "Lange Straße 78/80, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Greese",
+    "address": "Gützkower Straße 85, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Koglin",
+    "address": "Lange Straße 38, 17489 Greifswald"
+  },
+  {
+    "name": "Kieferorthopädie am Botanischen Garten",
+    "address": "Grimmer Straße 86, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Redlich",
+    "address": "Wiesenstraße 24, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Niedermeyer-Bökel",
+    "address": "An den Wurthen 22, 17489 Greifswald"
+  },
+  {
+    "name": "MVZ Odebrechtstiftung GmbH",
+    "address": "Gützkower Landstraße 69, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Teichmann",
+    "address": "Lange Straße 21, 17489 Greifswald"
+  },
+  {
+    "name": "Praxis Fritzke",
+    "address": "Ernst-Thälmann-Ring 11-13, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Mundt",
+    "address": "Lomonossowallee 58, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Pernice",
+    "address": "Ernst-Thälmann-Ring 66, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Bradtke",
+    "address": "Mendelejewweg 16, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Wiezorrek-Höppner",
+    "address": "Ernst-Thälmann-Ring 66, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Becker &amp; Kollegen",
+    "address": "Lomonossowallee 56, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Stiebe",
+    "address": "Ernst-Thälmann-Ring 66, 17491 Greifswald"
+  },
+  {
+    "name": "Praxis Klug",
+    "address": "Fridtjof-Nansen-Straße 27, 17493 Greifswald"
+  },
+  {
+    "name": "Praxis Dr. Grulke",
+    "address": "Rigaer Straße 9, 17493 Greifswald"
+  },
+  {
+    "name": "Praxis Reißmann",
+    "address": "Riemser Weg 3, 17493 Greifswald"
+  },
+  {
+    "name": "Praxis Schankath",
+    "address": "Wolgaster Landstraße 6, 17493 Greifswald"
+  },
+  {
+    "name": "Praxis Seidig",
+    "address": "Oberreihe 1, 17495 Lühmannsdorf"
+  },
+  {
+    "name": "Klinikum Karlsburg",
+    "address": "Greifswalder Straße 11, 17495 Karlsburg"
+  },
+  {
+    "name": "Praxis Zillmann",
+    "address": "Karrendorfer Straße 9 a, 17498 Mesekenhagen"
+  },
+  {
+    "name": "Praxis Gothe",
+    "address": "Ernst-Thälmann-Str. 6, 17498 Dersekow"
+  },
+  {
+    "name": "Praxis Konschake",
+    "address": "August-Bebel-Straße 12, 17506 Gützkow"
+  },
+  {
+    "name": "Praxis Schumann",
+    "address": "August-Bebel-Straße 51, 17506 Gützkow"
+  },
+  {
+    "name": "Praxis Dr. Becker",
+    "address": "Waldstraße 6 a, 17509 Lubmin"
+  },
+  {
+    "name": "Praxis Hor",
+    "address": "Freester Straße 22, 17509 Lubmin"
+  },
+  {
+    "name": "VOLLDENT",
+    "address": "Warnowstraße 1, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Bregulla",
+    "address": "Paulstraße 48 - 55, 18055 Rostock"
+  },
+  {
+    "name": "Praxis von der Ahe",
+    "address": "Rungestraße 17, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Dargatz-Reisinger",
+    "address": "Kröpeliner Straße 18, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Oberender",
+    "address": "Herderstraße 15, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Schneider",
+    "address": "Altbettelmönchstraße 2, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Kuhrau",
+    "address": "Hellingstraße 3, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Dr.  Anders",
+    "address": "Stephanstraße 14, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Palis",
+    "address": "Am Burgwall 36, 18055 Rostock"
+  },
+  {
+    "name": "Medizinisches Versorgungszentrum &quot;MVZ Jakobipassage Rostock&quot;",
+    "address": "Kröpeliner Straße 57, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Krohn",
+    "address": "Bei der Marienkirche 24, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Bürenheide",
+    "address": "Lange Straße 6, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Plaumann",
+    "address": "Hermannstraße 34, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Bach",
+    "address": "Timmermannsstrat 6, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Gast / Dr. Struck",
+    "address": "Adolf-Wilbrandt-Straße 10, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Setzkorn-Schülke",
+    "address": "Hermannstraße 34, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Eilert",
+    "address": "Runge Straße 16, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Zapf",
+    "address": "Eselföterstraße 6, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Went",
+    "address": "Koßfelder Straße 16, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Kuklinski",
+    "address": "Graf-Schack-Straße 7, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Drude",
+    "address": "Augustenstraße 1, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Schneider",
+    "address": "Lohgerberstraße 7, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Rohrmann",
+    "address": "Kröpeliner Straße 37, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Schumacher",
+    "address": "St.-Georg-Straße 82, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Lauritzen",
+    "address": "Schnickmannstraße 11, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Bruhn",
+    "address": "Paulstraße 47, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Frost",
+    "address": "Breite Straße 16, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Bölter",
+    "address": "Himmelspforte 1, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Zückner",
+    "address": "St. Georg-Straße 91, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Saif",
+    "address": "Kröpeliner Straße 23, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Weise",
+    "address": "St.-Georg-Straße 99, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Fuchs",
+    "address": "St.-Georg-Straße 99, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Habenicht",
+    "address": "Wollenweberstraße 43, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Kesselring",
+    "address": "Rostocker Heide 1, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Kranz",
+    "address": "Am Vögenteich 26, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Bohlmann",
+    "address": "Paulstraße 48 - 55, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Langguth",
+    "address": "St. Georg-Straße 59, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Langschwager",
+    "address": "Stephanstraße 12, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Sieber",
+    "address": "Heiner-Moll-Weg 30, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Sponholz",
+    "address": "Dehmelstraße 15, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Endmann",
+    "address": "Altschmiedestraße 30, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Göseke",
+    "address": "Augustenstraße 103, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Ruppert",
+    "address": "Augustenstraße 18, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Baum",
+    "address": "Am Vögenteich 24, 18055 Rostock"
+  },
+  {
+    "name": "Praxis Rohde",
+    "address": "Wismarsche Straße 6/7, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Kluge",
+    "address": "Friedhofsweg 44 a, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Marko",
+    "address": "Patriotischer Weg 116 a, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Bräuer-Rittig",
+    "address": "Karl-Marx-Straße 33, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Babendererde",
+    "address": "Karl-Marx-Straße 57, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Willsch",
+    "address": "Fritz-Reuter-Straße 48, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dähn",
+    "address": "Trotzenburger Weg 15, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Nötzel",
+    "address": "Wismarsche Straße 4, 18057 Rostock"
+  },
+  {
+    "name": "Zahnärzte Bergstraße",
+    "address": "Bergstraße 10, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Retzlaff",
+    "address": "Doberaner Straße 100, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Staginsky",
+    "address": "Leonhardstraße 1, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Henning-Mehlhorn",
+    "address": "Ulmenstraße 21 a, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Titze",
+    "address": "Doberaner Straße 43 b, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Harnack",
+    "address": "Borenweg 11, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Rottleb",
+    "address": "Bremer Straße 39 d, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Simon",
+    "address": "Elisabethstraße 1 a, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Biel",
+    "address": "Borwinstraße 27, 18057 Rostock"
+  },
+  {
+    "name": "MVZ Zahnzentrum Rostock",
+    "address": "Deutsche-Med-Platz 2, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Bade",
+    "address": "Doberaner Straße 115, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Tylko",
+    "address": "Wismarsche Straße 5, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Röhrdanz",
+    "address": "Wismarsche Straße 32, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Schröder",
+    "address": "Patriotischer Weg 13, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Reihs",
+    "address": "Doberaner Straße 43 b, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Sandmann/Herzog",
+    "address": "Parkstraße 10, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Sengebusch/Prophet",
+    "address": "Wismarsche Straße 4, 18057 Rostock"
+  },
+  {
+    "name": "Praxis Reckziegel",
+    "address": "Südring 23, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Kurzmann",
+    "address": "Parkstraße 12, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Dr. S. Pecher-Saß",
+    "address": "Nobelstraße 50, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Pielenz",
+    "address": "Voßstraße 31 a, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Knöfel",
+    "address": "Robert-Koch-Straße 9, 18059 Rostock"
+  },
+  {
+    "name": "Praxis von Schwanewede",
+    "address": "Robert-Koch-Straße 9, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Hagemann",
+    "address": "Erich-Schlesinger-Straße 28, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Versümer",
+    "address": "Parkstraße 14 a, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Möller",
+    "address": "Buchholzer Straße 20, 18059 Niendorf"
+  },
+  {
+    "name": "Praxis Möller",
+    "address": "Erich-Schlesinger-Straße 28, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Koenen",
+    "address": "Südring 28 a, 18059 Rostock"
+  },
+  {
+    "name": "Praxis Hammer",
+    "address": "Schulenburgstraße 20, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Timm",
+    "address": "Wiener Platz 3 a, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Sauerschnig",
+    "address": "Am Erlenteich 2, 18069 Lambrechtshagen"
+  },
+  {
+    "name": "Praxis Willert",
+    "address": "Beethovenstraße 27, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Petzold",
+    "address": "Ernst-Thälmann-Straße 3 a, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Reimer",
+    "address": "Tschaikowskistraße 42, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Meier",
+    "address": "Heinrich-Schütz-Straße 10 b, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Bauer",
+    "address": "Tannenweg 4, 18069 Sievershagen"
+  },
+  {
+    "name": "Zahnärzte am Kugelbrunnen",
+    "address": "Goerdelerstraße 50, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Schwarz",
+    "address": "Tannenweg 2, 18069 Lambrechtshagen"
+  },
+  {
+    "name": "Praxis Konkel",
+    "address": "Schulenburgstraße 20, 18069 Rostock"
+  },
+  {
+    "name": "Praxis Tiede",
+    "address": "Bertolt-Brecht-Straße 23, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Schmutzer",
+    "address": "Ehm-Welk-Straße 22, 18106 Rostock"
+  },
+  {
+    "name": "MVZ 32-Zähne im Glück",
+    "address": "Henrik-Ibsen-Straße 30, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Unger",
+    "address": "Kolumbusring 58, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Heitner",
+    "address": "Ehm-Welk-Straße 22, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Müller",
+    "address": "Willem-Barents-Straße 29, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Backhaus",
+    "address": "Bertolt-Brecht-Straße 19, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Morenz",
+    "address": "Kolumbusring 61, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Flegel",
+    "address": "Roald-Amundsen-Straße 24, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Beu",
+    "address": "Willem-Barents-Straße 6, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Pahncke",
+    "address": "Maxim-Gorki-Straße 52, 18106 Rostock"
+  },
+  {
+    "name": "Praxis Rachold/Köpnick",
+    "address": "Warnowallee 26, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Thürmer",
+    "address": "Trelleborger Straße 10 c, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Kruse",
+    "address": "Trelleborger Straße 10 b, 18107 Rostock"
+  },
+  {
+    "name": "Medizinisches Versorgungszentrum<br />zahnfit Rostock (ZMVZ)",
+    "address": "Trelleborger Straße 10 b, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Nickel/Hacker",
+    "address": "Warnowallee 5, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Letzner",
+    "address": "St.-Petersburger Straße 39, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Kleffling",
+    "address": "Danziger Straße 55, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Eidinger",
+    "address": "Sanddornweg 5, 18107 Elmenhorst"
+  },
+  {
+    "name": "Praxis Lißon",
+    "address": "Stockholmer Straße 14 a, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Zech",
+    "address": "Warnowallee 31, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Herzog / Dr. Öri",
+    "address": "Trelleborger Straße 10 b, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Clauser",
+    "address": "Helsinkier Straße 21, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Sebastian Adam",
+    "address": "Warnowallee 25, 18107 Rostock"
+  },
+  {
+    "name": "Praxis Mruk",
+    "address": "Trelleborger Straße 10 c, 18107 Rostock"
+  },
+  {
+    "name": "ZMVZ Rostock Groß Klein",
+    "address": "Schiffbauerring 16, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Srur",
+    "address": "Schleswiger Straße 14, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Thiesen",
+    "address": "Taklerring 40, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Kaufmann",
+    "address": "Eutiner Straße 6 b, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Zäncker",
+    "address": "Schiffbauerring 60, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Blum",
+    "address": "Eutiner Straße 32 a, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Sadenwasser",
+    "address": "Mecklenburger Allee 19, 18109 Rostock"
+  },
+  {
+    "name": "Praxis Kleist",
+    "address": "Fritz-Reuter-Straße 35, 18119 Warnemünde"
+  },
+  {
+    "name": "Praxis Valenta",
+    "address": "Am Strom 105, 18119 Rostock"
+  },
+  {
+    "name": "Praxis Pomowski",
+    "address": "Lortzingstraße 17, 18119 Warnemünde"
+  },
+  {
+    "name": "Praxis Cordt",
+    "address": "Gartenstraße 88, 18119 Rostock"
+  },
+  {
+    "name": "ZMVZ Warnemünde GmbH",
+    "address": "Werftallee 10, 18119 Warnemünde"
+  },
+  {
+    "name": "Praxis Rabbel",
+    "address": "Zum Zollamt 1, 18119 Rostock"
+  },
+  {
+    "name": "Praxis Voß",
+    "address": "Hinrichsdorfer Straße 13, 18146 Rostock"
+  },
+  {
+    "name": "Praxis  Dr. Tschullik",
+    "address": "Hannes-Meyer-Platz 30, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Bartaune",
+    "address": "Hinrichsdorfer Straße 13, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Dubenweg 1, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Sieler",
+    "address": "Kiewittweg 1, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Schult",
+    "address": "Hannes-Meyer-Platz 7, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Wollmann",
+    "address": "Hannes-Meyer-Platz 7, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Kitzmann",
+    "address": "Johann-C.-Wilken-Straße 2 - 4, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Dres. Dalisda",
+    "address": "Hinrichsdorfer Straße 50, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Flemming",
+    "address": "Mörikeweg 49, 18146 Rostock"
+  },
+  {
+    "name": "Praxis Kurth",
+    "address": "Kranichhof 12, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Qual",
+    "address": "Pressentinstraße 66, 18147 Gehlsdorf"
+  },
+  {
+    "name": "Praxis Trahms",
+    "address": "Fährstraße 9, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Hartmann",
+    "address": "Joliot-Curie-Allee 15, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Kurnoth",
+    "address": "Kastanienweg 8, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Madeja",
+    "address": "Martin-Luther-King-Allee 12, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Schweder",
+    "address": "Joliot-Curie-Allee 49, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Kleditzsch",
+    "address": "Urho-Kekkonen-Straße 2, 18147 Rostock"
+  },
+  {
+    "name": "Praxis Dr. Dreßler",
+    "address": "Birkenallee 17, 18181 Graal-Müritz"
+  },
+  {
+    "name": "Praxis Pätzig",
+    "address": "Kurstraße 5, 18181 Graal-Müritz"
+  },
+  {
+    "name": "Praxis Dehne-Hamm",
+    "address": "Fritz-Reuter-Straße 21, 18181 Graal-Müritz"
+  },
+  {
+    "name": "Praxis Scheumann-Mücke",
+    "address": "August-Bebel-Straße 4 a, 18181 Graal-Müritz"
+  },
+  {
+    "name": "Praxis Tode",
+    "address": "Dorfstraße 49, 18182 Blankenhagen"
+  },
+  {
+    "name": "Praxis Merkel",
+    "address": "Schlossweg 11, 18182 Gelbensande"
+  },
+  {
+    "name": "Praxis Palluch",
+    "address": "Stralsunder Straße 50 a, 18182 Bentwisch"
+  },
+  {
+    "name": "Praxis Tamburlini",
+    "address": "Moorweg 5, 18184 Broderstorf"
+  },
+  {
+    "name": "Praxis Fremke",
+    "address": "Ribnitzer Straße 4, 18190 Sanitz"
+  },
+  {
+    "name": "Praxis Dr. Fischer / Hammel",
+    "address": "Am Bahnhof 5, 18190 Sanitz"
+  },
+  {
+    "name": "Praxis Dr. Eggebrecht",
+    "address": "Ernst-Thälmann-Straße 16, 18195 Tessin"
+  },
+  {
+    "name": "Praxis Waldmann-Krüger",
+    "address": "St.-Jürgen-Straße 4 - 8, 18195 Tessin"
+  },
+  {
+    "name": "Praxis Stegemann/Scholz",
+    "address": "Neue Dorfstraße 7, 18196 Dummerstorf"
+  },
+  {
+    "name": "Praxis Händel",
+    "address": "Schmiedeweg 4 a, 18196 Dummerstorf"
+  },
+  {
+    "name": "Praxis Hentschel",
+    "address": "Neubauviertel 4, 18196 Dummerstorf"
+  },
+  {
+    "name": "Praxis Jäkel",
+    "address": "Satower Straße 7, 18198 Kritzmow"
+  },
+  {
+    "name": "Praxis Krummenauer",
+    "address": "Satower Straße 28, 18198 Kritzmow"
+  },
+  {
+    "name": "Praxis Berg",
+    "address": "Mollistraße 9, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Dr. med. dent. Mathias Kühn",
+    "address": "Parkentiner Weg 57, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Maeß",
+    "address": "Ehm-Welk-Straße 22, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Gelberg",
+    "address": "Dammchaussee 30, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Hauptmann",
+    "address": "Parkentiner Weg 45, 18209 Bad Doberan"
+  },
+  {
+    "name": "Zahngesundheit Molliblick",
+    "address": "Goethestraße 1 a, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Hartung",
+    "address": "Marktstraße 4, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Dähn",
+    "address": "Dammchaussee 30, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Merkel",
+    "address": "Goethestraße 32, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Steinfeldt",
+    "address": "Doberaner Straße 29 a, 18209 Parkentin"
+  },
+  {
+    "name": "Praxis Schulze",
+    "address": "Heinrich-Heine-Straße 9 a, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Jäger",
+    "address": "Goethestraße 12, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Jonuschies",
+    "address": "Dammchaussee 32, 18209 Bad Doberan"
+  },
+  {
+    "name": "Praxis Heim",
+    "address": "Hofstraße 6, 18211 Ostseebad Nienhagen"
+  },
+  {
+    "name": "Praxis Schäning-Just",
+    "address": "Strandstraße 1, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Dr. Brepohl",
+    "address": "Dünenstraße 7, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Neumann",
+    "address": "Poststraße 4, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Dr. Bretzke",
+    "address": "Poststraße 4, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Dr. Baudisch",
+    "address": "Poststraße 2, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Lamprecht",
+    "address": "Doberaner Straße 6, 18225 Kühlungsborn"
+  },
+  {
+    "name": "Praxis Hermann",
+    "address": "Am Parkplatz 1 b, 18230 Rerik"
+  },
+  {
+    "name": "Praxis Boger",
+    "address": "Kröpeliner Straße 22, 18233 Neubukow"
+  },
+  {
+    "name": "Praxis Flohr",
+    "address": "Neue Straße 1 a, 18233 Neubukow"
+  },
+  {
+    "name": "Praxis Röwe",
+    "address": "Keneser Straße 30, 18233 Neubukow"
+  },
+  {
+    "name": "Praxis Dr. Banhardt",
+    "address": "Wismarsche Straße 4, 18236 Kröpelin"
+  },
+  {
+    "name": "Praxis Kraatz",
+    "address": "Am Mühlenbach 36, 18239 Satow"
+  },
+  {
+    "name": "Praxis Günther",
+    "address": "Am Forsthof 15, 18246 Bützow"
+  },
+  {
+    "name": "Praxis Friz",
+    "address": "Hof 5, 18246 Steinhagen"
+  },
+  {
+    "name": "Praxis Knoch",
+    "address": "Am Forsthof 22, 18246 Bützow"
+  },
+  {
+    "name": "Praxis Wolschon",
+    "address": "Lange Straße 51, 18246 Bützow"
+  },
+  {
+    "name": "Praxis Kannenberg",
+    "address": "Ellernbruch 4, 18246 Bützow"
+  },
+  {
+    "name": "Praxis Kühn",
+    "address": "Bahnhofstraße 11, 18246 Bützow"
+  },
+  {
+    "name": "Praxis Hackbarth",
+    "address": "Lange Straße 39, 18249 Bernitt"
+  },
+  {
+    "name": "Praxis Vergin",
+    "address": "Zerniner Straße 60, 18249 Warnow"
+  },
+  {
+    "name": "Praxis Heß",
+    "address": "Loxstedter Straße 23, 18258 Schwaan"
+  },
+  {
+    "name": "Praxis Rambow",
+    "address": "Rudolf-Breitscheid-Straße 11, 18258 Schwaan"
+  },
+  {
+    "name": "Praxis Noske/ Engel",
+    "address": "Gertrudenstraße 29, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Dr. Gröll",
+    "address": "Goldberger Straße 92, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Fröhlich/Tschierschke",
+    "address": "Haselstraße 2, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Keller",
+    "address": "Pferdemarkt 2, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Großkreutz",
+    "address": "Wallensteinstraße 3, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Thürmer",
+    "address": "Pferdemarkt 16, 18273 Güstrow"
+  },
+  {
+    "name": "Zahnärzte am Schloss",
+    "address": "Domstraße 7, 18273 Güstrow"
+  },
+  {
+    "name": "Gesundheitsamt Güstow",
+    "address": "Am Wall 3, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Mey",
+    "address": "Haselstraße 2, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Biewald",
+    "address": "Mittelweg 7, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Dres. Kopp",
+    "address": "Niklotstraße 39, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Dr. Schäfer",
+    "address": "Speicherstraße 8, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Tschierschke",
+    "address": "Eisenbahnstraße 18, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Heinrich",
+    "address": "Hafenstraße 04, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Höpcke",
+    "address": "Eisenbahnstraße 8, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Karow",
+    "address": "Lange Straße 10, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Ortmann",
+    "address": "Pferdemarkt 2, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Düwel",
+    "address": "Hageböcker Straße 19, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Held-Peréz",
+    "address": "Hafenstraße 4, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Köhler",
+    "address": "Ziegeleiweg 8, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Holz",
+    "address": "Am Berge 6, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Lawrenz",
+    "address": "Haselstraße 2, 18273 Güstrow"
+  },
+  {
+    "name": "Praxis Stahlfast",
+    "address": "Friedhofsweg 8, 18276 Lüssow"
+  },
+  {
+    "name": "Praxis Pose",
+    "address": "Lange Straße 16, 18292 Krakow am See"
+  },
+  {
+    "name": "Praxis Heiden",
+    "address": "Güstrower Chaussee 20, 18292 Krakow am See"
+  },
+  {
+    "name": "Praxis Plautz",
+    "address": "Hauptstraße 25, 18299 Laage"
+  },
+  {
+    "name": "Praxis Leide",
+    "address": "Rosmarienstraße 18 a, 18299 Laage"
+  },
+  {
+    "name": "Praxis Zimmer",
+    "address": "Breesener Straße 23, 18299 Laage"
+  },
+  {
+    "name": "Praxis Dr. Brietze",
+    "address": "Alte Klosterstraße 3 - 5, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Martens",
+    "address": "Rostocker Straße 42, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Ziegler",
+    "address": "Stralsunder Straße 60, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Puls",
+    "address": "Mittelweg 38 a, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Kubis",
+    "address": "Körkwitzer Weg 11 b, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis  Harloff",
+    "address": "Schillstraße 12 a, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Dr. Benedix",
+    "address": "Bahnhofstraße 43 a, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Dres. Dreyer",
+    "address": "Fischerstraße 9, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Weden",
+    "address": "Damgartener Chaussee 36, 18311 Ribnitz-Damgarten"
+  },
+  {
+    "name": "Praxis Teichmann",
+    "address": "Neue Straße 31, 18317 Saal"
+  },
+  {
+    "name": "Praxis Voß",
+    "address": "Hauptstraße 70, 18320 Ahrenshagen"
+  },
+  {
+    "name": "Praxis Pavlovsky/Meier",
+    "address": "Birkenweg 5, 18320 Trinwillershagen"
+  },
+  {
+    "name": "Praxis Lüttich",
+    "address": "Marlower Straße 1, 18334 Dettmannsdorf"
+  },
+  {
+    "name": "Praxis Splettstößer",
+    "address": "An der Kirche 3, 18334 Semlow"
+  },
+  {
+    "name": "Mundwerk 32",
+    "address": "Rosa-Luxemburg-Straße 17, 18334 Bad Sülze"
+  },
+  {
+    "name": "Praxis Thürkow",
+    "address": "Carl-Kossow-Straße 21, 18337 Marlow"
+  },
+  {
+    "name": "Praxis Dr. Slowikowski",
+    "address": "Kirchstraße 7, 18347 Dierhagen"
+  },
+  {
+    "name": "Praxis Schirrmeister",
+    "address": "Parkstraße 20, 18347 Wustrow"
+  },
+  {
+    "name": "Praxis Dr. Bork",
+    "address": "Lange Straße 35 - 37, 18356 Barth"
+  },
+  {
+    "name": "Praxis Gonsiorek",
+    "address": "Bahnhofstraße 1, 18356 Barth"
+  },
+  {
+    "name": "Praxis Holst",
+    "address": "Gärtnergang 4, 18356 Barth"
+  },
+  {
+    "name": "Praxis Heyden",
+    "address": "Bahnhofstraße 6, 18356 Barth"
+  },
+  {
+    "name": "Praxis Busch",
+    "address": "Mauerstraße 15/17, 18356 Barth"
+  },
+  {
+    "name": "Praxis Dr. Bremer",
+    "address": "Blaue Wiese 4, 18356 Barth"
+  },
+  {
+    "name": "Praxis von Wedelstädt",
+    "address": "Grüne Siedlung 25, 18374 Zingst"
+  },
+  {
+    "name": "Praxis Stolzenberger",
+    "address": "Schulstraße 2, 18375 Born"
+  },
+  {
+    "name": "Praxis Dr. Burmeister",
+    "address": "Friedrich-Engels-Straße 11, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Spengler",
+    "address": "Friedrich-Wolf-Straße 1, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Kirchhoff",
+    "address": "Heinrich-Heine-Ring 107 c, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Heiden",
+    "address": "Prohner Straße 42, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Dr. Albrecht",
+    "address": "Friedrich-Engels-Straße 12 b, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Neesen",
+    "address": "Knieperdamm 47, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Wäscher",
+    "address": "Heinrich-Heine-Ring 107 c, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Heinrich-Heine-Ring 78, 18435 Stralsund"
+  },
+  {
+    "name": "Zahnarztpraxis Dr. Patzer",
+    "address": "Heinrich-Mann-Straße 62 - 64, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Riel",
+    "address": "Friedrich-Engels-Straße 17, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Borowiak",
+    "address": "Spielhagenstraße 2, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Findeisen",
+    "address": "Sarnowstraße 40, 18435 Stralsund"
+  },
+  {
+    "name": "Praxis Ewert",
+    "address": "Lion-Feuchtwanger-Straße 39, 18435 Stralsund"
+  },
+  {
+    "name": "DIE ZAHNARZTPRAXIS STRALSUND",
+    "address": "Sarnowstraße 52, 18435 Stralsund"
+  },
+  {
+    "name": "Zahnarztpraxis Dr. Kleschweski",
+    "address": "Jungfernstieg 4 a, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Spiekermann",
+    "address": "Grünthal 22, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Fischer",
+    "address": "Richtenberger Chaussee 36, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Dr. von Brockhausen<br />OCS Stralsund",
+    "address": "Tribseer Damm, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Groß",
+    "address": "Marienstraße 2 - 4, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Büchner",
+    "address": "Carl-Heydemann-Ring 138, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Schwebke",
+    "address": "Grünhufer Bogen 1 a, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Linke",
+    "address": "Tribseer Damm 2, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Hein",
+    "address": "Kranichgrund 28, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Schwenn",
+    "address": "Grünhufer Bogen 15, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Friedrich-Engels-Straße 30, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Stark",
+    "address": "Lupinenweg 2, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Voigt",
+    "address": "Lübecker Allee 80, 18437 Stralsund"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Fährhofstraße 25, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Heiden",
+    "address": "Olof-Palme-Platz 4, 18439 Stralsund"
+  },
+  {
+    "name": "Mundwerk 32",
+    "address": "Strandschlag 2, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Schwarz",
+    "address": "Greifswalder Chaussee 80, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Pietschmann",
+    "address": "Olof-Palme-Platz 2, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Küppers",
+    "address": "Olof-Palme-Platz 2, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Grzechowiak",
+    "address": "Frankendamm 27, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Schiele",
+    "address": "Frankenstraße 11, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Puttnies",
+    "address": "Kiebenhieberstraße 7, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Siebert",
+    "address": "Neuer Markt 18 - 22, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Lange",
+    "address": "Neuer Markt 18 - 22, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Dr. Spiekermann",
+    "address": "Wasserstraße 18, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Liepe",
+    "address": "Wasserstraße 50, 18439 Stralsund"
+  },
+  {
+    "name": "Praxis Wutzler",
+    "address": "Stralsunder Straße 33 a, 18445 Prohn"
+  },
+  {
+    "name": "Praxis Seide",
+    "address": "Am Gutshaus 5, 18445 Kramerhof"
+  },
+  {
+    "name": "Praxis Rosenberger",
+    "address": "Ernst-Thälmann-Straße 1, 18461 Franzburg"
+  },
+  {
+    "name": "Praxis Perlberg",
+    "address": "Weberstraße 6, 18461 Richtenberg"
+  },
+  {
+    "name": "Praxis Wojciechowsky",
+    "address": "Feldstraße 48, 18461 Richtenberg"
+  },
+  {
+    "name": "Praxis Weidemann",
+    "address": "Willi-Braun-Straße 30 a, 18465 Tribsees"
+  },
+  {
+    "name": "Praxis Cyliax-Laubinger",
+    "address": "Verbindungsweg 37, 18465 Tribsees"
+  },
+  {
+    "name": "Praxis Schwarz",
+    "address": "Friedrichstraße 42, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Dr. Fitsch",
+    "address": "Fritz-Reuter-Straße 9, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Kopsch",
+    "address": "Carl-von-Ossietzky-Straße 1 a, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Pawlenko",
+    "address": "Straße der Befreiung 72 a, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Schwarz",
+    "address": "Bahnhofstraße 48, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Virag-Gesch",
+    "address": "Straße der Solidarität 7, 18507 Grimmen"
+  },
+  {
+    "name": "Praxis Dr. Kuhl",
+    "address": "Lindenallee 19 b, 18519 Sundhagen"
+  },
+  {
+    "name": "Domaniecki Dental",
+    "address": "Straße der DSF 5, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Dr. Dienelt",
+    "address": "Dammstraße 18 a, 18528 Bergen auf Rügen"
+  },
+  {
+    "name": "Praxis Dr. Dannehl",
+    "address": "Marktstraße 07, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Höft",
+    "address": "Stralsunder Straße 16, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Kannengießer",
+    "address": "Dammstraße 18 a, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Dr. Ebel",
+    "address": "Störtebekerstraße 5 d, 18528 Bergen"
+  },
+  {
+    "name": "Praxis König",
+    "address": "Störtebekerstraße 5 d, 18528 Bergen/Rügen"
+  },
+  {
+    "name": "Praxis Bahr",
+    "address": "Dammstraße 10 a, 18528 Bergen auf Rügen"
+  },
+  {
+    "name": "Praxis Barkholtz",
+    "address": "Störtebekerstraße 31, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Igelbrink",
+    "address": "Markt 8, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Hrubesch",
+    "address": "Breitsprecherstraße 10 b, 18528 Bergen"
+  },
+  {
+    "name": "Praxis Gütges",
+    "address": "Wasserstraße 18 a, 18528 Bergen auf Rügen"
+  },
+  {
+    "name": "Praxis Pahl",
+    "address": "Straße der Jugend 11, 18546 Sassnitz"
+  },
+  {
+    "name": "Praxis Uta Kuhn-Reiff, M.Sc.",
+    "address": "Fischerring 9, 18546 Sassnitz"
+  },
+  {
+    "name": "Praxis Vaßmer",
+    "address": "Johanniskirchstraße 3, 18546 Sassnitz"
+  },
+  {
+    "name": "Praxis Nörenberg",
+    "address": "Brunnenaue 3 a, 18551 Sagard"
+  },
+  {
+    "name": "Praxis Dr. Marchlewitz",
+    "address": "Glower Straße 27 a, 18551 Sagard"
+  },
+  {
+    "name": "Praxis Kretschmer",
+    "address": "Max-Reimann-Straße 4 a, 18556 Altenkirchen"
+  },
+  {
+    "name": "Praxis Stern",
+    "address": "Dorfstraße 58 a, 18569 Trent"
+  },
+  {
+    "name": "Praxis Dr. Braumann",
+    "address": "Neubaustraße 1, 18573 Samtens"
+  },
+  {
+    "name": "Praxis Knochen",
+    "address": "Hunnenstraße 18, 18574 Garz / Rügen"
+  },
+  {
+    "name": "Praxis Stotten",
+    "address": "Lindenstraße 3, 18574 Garz"
+  },
+  {
+    "name": "Praxis Treichel",
+    "address": "August-Bebel-Straße 25, 18581 Putbus"
+  },
+  {
+    "name": "Praxis Herrmann",
+    "address": "Feldstraße 4 a, 18586 Göhren/Rügen"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Hermannstraße 5, 18586 Sellin"
+  },
+  {
+    "name": "Praxis Plötz",
+    "address": "Granitzer Straße 18, 18586 Sellin"
+  },
+  {
+    "name": "Praxis Dr. Gurle",
+    "address": "Strandstraße 4, 18586 Ostseebad Baabe"
+  },
+  {
+    "name": "Praxis Kummer",
+    "address": "Margareten Straße 14, 18609 Ostseebad Binz"
+  },
+  {
+    "name": "Praxis Strelow",
+    "address": "Dünenstraße 34 b, 18609 Binz"
+  },
+  {
+    "name": "Praxis Haase",
+    "address": "Dünenstraße 33 a, 18609 Binz / Rügen"
+  },
+  {
+    "name": "Praxis Dr. Groß / Dr. Knottnerus-Meyer",
+    "address": "Klöresgang 1, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Hahn",
+    "address": "Seestraße 28, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Alsafadi",
+    "address": "Zum Bahnhof 38, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Haacker",
+    "address": "Moritz-Wiggers-Straße 6, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Völkel",
+    "address": "Lübecker Straße 25 - 27, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Scholz",
+    "address": "Goethestraße 87, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Sabelus",
+    "address": "Schloßstraße 38, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Lindner",
+    "address": "Lübecker Straße 57, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Heinze",
+    "address": "Obotritenring 109, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Janenz",
+    "address": "Fritz-Reuter-Straße 40, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Schirgel",
+    "address": "Franz-Mehring-Straße 44, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Thun",
+    "address": "Steinstraße 11, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Worschech",
+    "address": "Wismarsche Straße 132 - 134, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Pröhl",
+    "address": "Mecklenburgstraße 105, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Dr. Roßburg",
+    "address": "Moritz-Wiggers-Straße 4, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Boldt",
+    "address": "Goethestraße 84, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Kuhr",
+    "address": "Von Thünen-Straße 14, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Borchert",
+    "address": "Obotritenring 177, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Salbach",
+    "address": "Goethestraße 72, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Opitz/Bünger",
+    "address": "Goethestraße 87, 19053 Schwerin"
+  },
+  {
+    "name": "MVZ Zahnzentrum Schwerin",
+    "address": "Graf-Schack-Allee 20, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Gelißen",
+    "address": "Geschwister-Scholl-Straße 9, 19053 Schwerin"
+  },
+  {
+    "name": "MKG-Chirurgie im Gusanum",
+    "address": "Wismarsche Straße 132 - 134, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Dr. Georgi / Dr. Mischke / Dr. Garling",
+    "address": "Goethestraße 8 - 10, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Schneider",
+    "address": "Goethestraße 79, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Tetz-Bücking",
+    "address": "Wismarsche Straße 132 - 134, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Drefs",
+    "address": "Zum Bahnhof 21, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Dr. Behnsen",
+    "address": "Platz der Freiheit 5, 19053 Schwerin"
+  },
+  {
+    "name": "MVZ 32-Zähne im Glück GmbH",
+    "address": "Marienplatz 1, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Kossow",
+    "address": "Fritz-Reuter-Straße 13, 19053 Schwerin"
+  },
+  {
+    "name": "Praxis Dr. Deißler",
+    "address": "Friedrichstraße 3, 19055 Schwerin"
+  },
+  {
+    "name": "Zahnärztekammer Mecklenburg-Vorpommern",
+    "address": "Wismarsche Straße 304, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Prof. Dr. Dr. Bschorer",
+    "address": "Schliemannstraße 18, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Katlun",
+    "address": "Schelfstraße 26, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Liesberg-Walther",
+    "address": "Großer Moor 45, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Müller",
+    "address": "Speicherstraße 53, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Dr. Segler / Quandt",
+    "address": "Röntgenstraße 14, 19055 Schwerin"
+  },
+  {
+    "name": "Praxis Jenning",
+    "address": "Trebbower Straße 4 c, 19057 Schwerin"
+  },
+  {
+    "name": "Praxis Kujawa",
+    "address": "Warnitzer Straße 2, 19057 Schwerin"
+  },
+  {
+    "name": "Praxis Woywode",
+    "address": "Rahlstedter Straße 29, 19057 Schwerin"
+  },
+  {
+    "name": "Praxis Wehrmann",
+    "address": "Ratzeburger Straße 2 c, 19057 Schwerin"
+  },
+  {
+    "name": "Praxis Israel",
+    "address": "Rahlstedter Straße 29, 19057 Schwerin"
+  },
+  {
+    "name": "Praxis Loebel",
+    "address": "Lübecker Straße 125, 19059 Schwerin"
+  },
+  {
+    "name": "Praxis Zumstrull",
+    "address": "Lübecker Straße 115, 19059 Schwerin"
+  },
+  {
+    "name": "Praxis Krause",
+    "address": "Lessingstraße 33, 19059 Schwerin"
+  },
+  {
+    "name": "Praxis Hochleutner",
+    "address": "Robert-Beltz-Straße 2, 19059 Schwerin"
+  },
+  {
+    "name": "Die Prozahnärzte",
+    "address": "Johannes-Brahms-Straße 59, 19059 Schwerin"
+  },
+  {
+    "name": "Praxis Wallstabe",
+    "address": "Friedrich-Engels-Straße 2 a, 19061 Schwerin"
+  },
+  {
+    "name": "Die Prozahnärzte",
+    "address": "Dreescher Markt 4, 19061 Schwerin"
+  },
+  {
+    "name": "Praxis Schröder",
+    "address": "Dreescher Markt 2, 19061 Schwerin"
+  },
+  {
+    "name": "Praxis Schulze",
+    "address": "Friedrich-Engels-Straße 2 b, 19061 Schwerin"
+  },
+  {
+    "name": "Praxis Burghardt",
+    "address": "Dreescher Markt 2, 19061 Schwerin"
+  },
+  {
+    "name": "Praxis Hoffmann",
+    "address": "Hamburger Allee 130, 19063 Schwerin"
+  },
+  {
+    "name": "Praxis Mrosseck",
+    "address": "Hamburger Allee 140 b, 19063 Schwerin"
+  },
+  {
+    "name": "Praxis Neubert",
+    "address": "Am Grünen Tal 22, 19063 Schwerin"
+  },
+  {
+    "name": "Praxis Orlik",
+    "address": "Am Kiessee 1, 19065 Pinnow"
+  },
+  {
+    "name": "Praxis Veclici",
+    "address": "Seestraße 10 a, 19067 Leezen"
+  },
+  {
+    "name": "Praxis Götze",
+    "address": "Feldweg 6 b, 19069 Lübstorf"
+  },
+  {
+    "name": "Praxis Mündel",
+    "address": "Dorfstraße 9, 19069 Seehof"
+  },
+  {
+    "name": "Praxis Hinzpeter-Rusche",
+    "address": "Straße der DSF 52, 19071 Brüsewitz"
+  },
+  {
+    "name": "Praxis Röhner",
+    "address": "Schweriner Straße 19, 19073 Wittenförden"
+  },
+  {
+    "name": "Die Prozahnärzte",
+    "address": "Buchenstraße 1, 19075 Pampow"
+  },
+  {
+    "name": "Praxis Linford",
+    "address": "Bahnhofstraße 28, 19077 Rastow"
+  },
+  {
+    "name": "Praxis Maul",
+    "address": "Straße des Friedens 5, 19079 Banzkow"
+  },
+  {
+    "name": "Praxis Panescu",
+    "address": "Eichenweg 16, 19079 Sukow"
+  },
+  {
+    "name": "Praxis Reichelt",
+    "address": "Wiesenweg 3 a, 19086 Plate"
+  },
+  {
+    "name": "Zahnärzte am See",
+    "address": "Freiheitsallee 13, 19089 Crivitz"
+  },
+  {
+    "name": "Praxis Töpke",
+    "address": "Breite Straße 19, 19089 Crivitz"
+  },
+  {
+    "name": "Praxis Kase",
+    "address": "Schweriner Straße 57, 19205 Gadebusch"
+  },
+  {
+    "name": "Praxis Schult",
+    "address": "Radegastweg 8 a, 19205 Gadebusch"
+  },
+  {
+    "name": "Praxis Schreen",
+    "address": "Mühlenstraße 38, 19205 Gadebusch"
+  },
+  {
+    "name": "Praxis Munz",
+    "address": "Klocksdorfer Straße 4, 19217 Carlow"
+  },
+  {
+    "name": "Praxis Paprotzki",
+    "address": "Schweriner Straße 11, 19217 Rehna"
+  },
+  {
+    "name": "Praxis Wagner",
+    "address": "Fritz-Reuter-Straße 16, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Baier",
+    "address": "Poststraße 21, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Schultz",
+    "address": "Lange Straße 87 - 89, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Dr. Matheja",
+    "address": "Schweriner Straße 11 a, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Wiegelmann",
+    "address": "Schweriner Straße 22 a, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Kirsch",
+    "address": "Hagenower Straße 22, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Rosengarth",
+    "address": "Poststraße 7, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Gauditz",
+    "address": "Friedrich-Heincke Straße 9, 19230 Hagenow"
+  },
+  {
+    "name": "Praxis Ley",
+    "address": "Bahnhofstraße 14, 19243 Wittenburg"
+  },
+  {
+    "name": "Praxis Schmeichel",
+    "address": "Große Straße 26, 19243 Wittenburg"
+  },
+  {
+    "name": "Praxis Jahnke",
+    "address": "Goethestraße 26 b, 19243 Wittenburg"
+  },
+  {
+    "name": "Praxis Janke",
+    "address": "Müllerweg 4, 19246 Zarrentin"
+  },
+  {
+    "name": "Praxis Preusse &amp; Partner",
+    "address": "Hauptstraße 20, 19246 Zarrentin"
+  },
+  {
+    "name": "Praxis Gast",
+    "address": "Lübsche Straße 9 b, 19246 Zarrentin"
+  },
+  {
+    "name": "Praxis Wacker",
+    "address": "Rosenstraße 3, 19249 Lübtheen"
+  },
+  {
+    "name": "Praxis Kwoll",
+    "address": "Markttorstraße 11 a, 19258 Boizenburg"
+  },
+  {
+    "name": "Praxis Schmidt",
+    "address": "Klingbergstraße 28, 19258 Boizenburg"
+  },
+  {
+    "name": "Praxis Lüdtke",
+    "address": "Zarrentiner Straße 12 a, 19258 Gresse"
+  },
+  {
+    "name": "Praxis Mertens",
+    "address": "Bahnhofstraße 13 a, 19258 Boizenburg"
+  },
+  {
+    "name": "Praxis Schenk",
+    "address": "Dr.-Alexander-Straße 78, 19258 Boizenburg"
+  },
+  {
+    "name": "Praxis Heintzelmann",
+    "address": "Hamburger Straße 15, 19258 Boizenburg/Elbe"
+  },
+  {
+    "name": "Praxis Dähn-Wollenberg",
+    "address": "Ernst-Thälmann-Straße 4, 19260 Vellahn"
+  },
+  {
+    "name": "Praxis Siems",
+    "address": "Dr.-Robert-Koch-Straße 4, 19260 Vellahn"
+  },
+  {
+    "name": "Praxis Meyer",
+    "address": "Lüneburger Straße 22, 19273 Neuhaus"
+  },
+  {
+    "name": "Praxis Sack",
+    "address": "Poststraße 5, 19273 Amt Neuhaus"
+  },
+  {
+    "name": "Praxis Holter",
+    "address": "Seminarstraße 1 - 3, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Lemke",
+    "address": "Schweriner Straße 27, 19288 Ludwigslust"
+  },
+  {
+    "name": "Die Prozahnärzte",
+    "address": "Schloßstraße 49, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Dr. Brauer",
+    "address": "Lindenstraße 25, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Jödecke",
+    "address": "Am Seminargarten 5, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Jacobsen/ Bierwolf / Zumstrull / Warnecke",
+    "address": "Schloßstraße 16, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Dr. Böhringer",
+    "address": "Am Alten Forsthof 9 a, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Berlin",
+    "address": "Klenower Straße 59, 19288 Ludwigslust"
+  },
+  {
+    "name": "Praxis Böhm",
+    "address": "Karenzer Straße 1a, 19294 Conow"
+  },
+  {
+    "name": "Praxis Kroß",
+    "address": "Ludwigsluster Straße 66, 19294 Malliß"
+  },
+  {
+    "name": "Praxis Kellermann",
+    "address": "Zum Plasten 2, 19294 Neu Kaliß"
+  },
+  {
+    "name": "Die Prozahnärzte",
+    "address": "Marktplatz 1a, 19294 Neu Kaliß"
+  },
+  {
+    "name": "Praxis Prüßing",
+    "address": "Grabower Chaussee 5 a, 19300 Zierzow"
+  },
+  {
+    "name": "Praxis Klüss",
+    "address": "Lassahner Straße 16, 19300 Grabow"
+  },
+  {
+    "name": "Praxis Junius",
+    "address": "Kiesserdamm 21, 19300 Grabow"
+  },
+  {
+    "name": "Praxis Zgaga",
+    "address": "Kießerdamm 21, 19300 Grabow"
+  },
+  {
+    "name": "Praxis Hubatsch",
+    "address": "Zum Briesen 11, 19303 Tewswoos"
+  },
+  {
+    "name": "Praxis Schulz",
+    "address": "Elbstraße 2, 19303 Dömitz"
+  },
+  {
+    "name": "Praxis Steinbach",
+    "address": "Laascher Straße 21, 19306 Neustadt-Glewe"
+  },
+  {
+    "name": "Praxis Diederich",
+    "address": "Brauereistraße 1 B, 19306 Neustadt-Glewe"
+  },
+  {
+    "name": "Praxis Wagner",
+    "address": "Neuhöfer Straße 1 a, 19306 Neustadt-Glewe"
+  },
+  {
+    "name": "Praxis Buchholz-Tilk/Wormuth",
+    "address": "Buchholzallee 25, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Menzel",
+    "address": "Flörkestraße 2, 19370 Parchim"
+  },
+  {
+    "name": "MVZ Zahnzentrum Schwerin",
+    "address": "Burgdamm 8, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Gewert",
+    "address": "Westring 39, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Brandt",
+    "address": "Leninstraße 23, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Schönekerl",
+    "address": "Flörkestraße 22, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Wolff",
+    "address": "Ziegendorfer Chaussee 6, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Dres. Klitsch",
+    "address": "Am Ilepol 1, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Behrens",
+    "address": "Buchholzallee 7, 19370 Parchim"
+  },
+  {
+    "name": "Praxis Köppen",
+    "address": "Mestliner Querstraße 2, 19374 Mestlin"
+  },
+  {
+    "name": "Praxis Mews",
+    "address": "An der Brücke 1, 19386 Lübz"
+  },
+  {
+    "name": "Praxis Hasak",
+    "address": "Bobziner Weg 1, 19386 Lübz"
+  },
+  {
+    "name": "Praxis Jesse",
+    "address": "Plauer Straße 9 a, 19386 Lübz"
+  },
+  {
+    "name": "Praxis Rath",
+    "address": "Mühlenstraße 9, 19386 Lübz"
+  },
+  {
+    "name": "Praxis Schwarz",
+    "address": "Goldberger Straße 28, 19386 Lübz"
+  },
+  {
+    "name": "Praxis Dr. Prüßner",
+    "address": "Steinstraße 46 a, 19395 Plau am See"
+  },
+  {
+    "name": "Praxis Glaner",
+    "address": "Quetziner Straße 2 a, 19395 Plau am See"
+  },
+  {
+    "name": "Praxis Neubert",
+    "address": "Schulstraße 58, 19395 Plau am See"
+  },
+  {
+    "name": "Praxis Borgwardt",
+    "address": "Töpferstraße 14, 19395 Plau am See"
+  },
+  {
+    "name": "Praxis Mierendorff",
+    "address": "Lange Straße 61, 19399 Goldberg"
+  },
+  {
+    "name": "Praxis Reinke",
+    "address": "Amtsstraße 25, 19399 Goldberg"
+  },
+  {
+    "name": "Praxis Fels",
+    "address": "Finkenkamp 2 a, 19406 Sternberg"
+  },
+  {
+    "name": "Praxis Dr. Brandt",
+    "address": "Am Mattenstieg 1, 19406 Dabel"
+  },
+  {
+    "name": "Praxis Zander",
+    "address": "Seestraße 12 a, 19406 Sternberg"
+  },
+  {
+    "name": "Praxis Bräuer",
+    "address": "Schäferkamp 9, 19406 Sternberg"
+  },
+  {
+    "name": "Praxis Bendt",
+    "address": "Schweriner Straße 57 b, 19412 Brüel"
+  },
+  {
+    "name": "Praxis Jansen",
+    "address": "Weg zum Roten See 1, 19412 Brüel"
+  },
+  {
+    "name": "Praxis Dr. Möbius",
+    "address": "Bergstraße 1 c, 19412 Brüel"
+  },
+  {
+    "name": "Praxis Dr. Dahlmann/Göldenitz",
+    "address": "Burgstraße 11, 19417 Warin"
+  },
+  {
+    "name": "Praxis Lißon",
+    "address": "Wismarsche Straße 56, 19417 Warin"
+  },
+  {
+    "name": "Praxis Bühring",
+    "address": "Hauptstraße 13, 23923 Lüdersdorf"
+  },
+  {
+    "name": "Praxis Menzel",
+    "address": "Am Markt 7, 23923 Schönberg"
+  },
+  {
+    "name": "Praxis Marckardt",
+    "address": "Feldstraße 23 a, 23923 Schönberg"
+  },
+  {
+    "name": "Praxis Schucknecht",
+    "address": "Am Bahnhof 1, 23923 Herrnburg"
+  },
+  {
+    "name": "Praxis Hennig",
+    "address": "Hauptstraße 92, 23923 Herrnburg"
+  },
+  {
+    "name": "Praxis Dres. Burmeister",
+    "address": "Karl-Marx-Straße 5, 23936 Grevesmühlen"
+  },
+  {
+    "name": "Praxis Klemp",
+    "address": "Lübecker Straße 15 b, 23936 Grevesmühlen"
+  },
+  {
+    "name": "Praxis Herbort",
+    "address": "Rudolf-Breitscheid-Straße 8, 23936 Grevesmühlen"
+  },
+  {
+    "name": "Zahnärztliche Praxis Hofmann",
+    "address": "Im Vogelsang 2, 23936 Grevesmühlen"
+  },
+  {
+    "name": "Praxis Rudolph",
+    "address": "Klützer Straße 15, 23936 Grevesmühlen"
+  },
+  {
+    "name": "Praxis Bohne",
+    "address": "Grevesmühlener Straße 13, 23942 Dassow"
+  },
+  {
+    "name": "Praxis Rath",
+    "address": "Straße der Jugend 8, 23942 Kalkhorst"
+  },
+  {
+    "name": "Praxis Dr. Czieschnek",
+    "address": "Ostseeallee 22, 23946 Ostseebad Boltenhagen"
+  },
+  {
+    "name": "Praxis Hoehle",
+    "address": "Ostseeallee 10, 23946 Ostseebad Boltenhagen"
+  },
+  {
+    "name": "Praxis Rummel",
+    "address": "Grüner Ring 1 A, 23948 Damshagen"
+  },
+  {
+    "name": "Praxis Gares",
+    "address": "Lindenring 1 a, 23948 Klütz"
+  },
+  {
+    "name": "Praxis Schröder",
+    "address": "Rudolf-Breitscheid-Straße 41 a, 23948 Klütz"
+  },
+  {
+    "name": "Praxis Herz",
+    "address": "Dahlmannstraße 20, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Becker",
+    "address": "Alter Holzhafen 27, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Berchtold/Modler",
+    "address": "Dankwartstraße 41, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Micheel",
+    "address": "Dr.-Leber-Straße 53, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Holtz",
+    "address": "Schweriner Straße 24, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Stranz",
+    "address": "Mühlenstraße 32, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Dr. Gerath",
+    "address": "Dahlmannstraße 18, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Scheibner",
+    "address": "Lübsche Straße 21, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Maly",
+    "address": "Dahlmannstraße 38, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Cramer / Dr. Geißler",
+    "address": "Lübsche Straße 148, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Dr. Fust",
+    "address": "Schiffbauerdamm 10 a, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Kuhn",
+    "address": "Hauptstraße 11, 23966 Bad Kleinen"
+  },
+  {
+    "name": "Praxis Schulze",
+    "address": "Störtebekerstraße 2, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Dr. Ellmer",
+    "address": "Philipp-Müller-Straße 44, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Schafrik",
+    "address": "Alter Holzhafen 8, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Dr. Otto",
+    "address": "Alter Holzhafen 21 a, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Sondermann",
+    "address": "Turnerweg 2, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Kretzschmar-Paul",
+    "address": "Dahlberg 2, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Unger",
+    "address": "Kapitänspromenade 31, 23966 Wismar"
+  },
+  {
+    "name": "Praxis Heller",
+    "address": "Zierower Landstraße 3, 23968 Wismar"
+  },
+  {
+    "name": "Praxis Wandel",
+    "address": "Kirchstraße 5, 23968 Proseken"
+  },
+  {
+    "name": "Zentrum für Zahnmedizin GmbH",
+    "address": "Rudolf-Breitscheid-Straße 21 a, 23968 Wismar"
+  },
+  {
+    "name": "Praxis Maertin",
+    "address": "Rudolf-Breitscheid-Straße 15, 23968 Wismar"
+  },
+  {
+    "name": "Praxis Schuchardt",
+    "address": "Goethestraße 23, 23970 Wismar"
+  },
+  {
+    "name": "Praxis Dr. Müller &amp; ZA Pfitzner",
+    "address": "Klußer Damm 80 a, 23970 Wismar"
+  },
+  {
+    "name": "Praxis Dettmann",
+    "address": "Philosophenweg 43, 23970 Wismar"
+  },
+  {
+    "name": "Praxis Kloß",
+    "address": "Klußer Damm 30, 23970 Wismar"
+  },
+  {
+    "name": "Praxis Bleicher",
+    "address": "Gdansker Straße 1 a, 23970 Wismar"
+  },
+  {
+    "name": "Praxis Scheibner",
+    "address": "Hauptstraße 38, 23974 Neuburg"
+  },
+  {
+    "name": "Praxis Westphal",
+    "address": "Bützower Straße 19, 23992 Neukloster"
+  },
+  {
+    "name": "Praxis Welly",
+    "address": "Klosterstraße 3 b, 23992 Neukloster"
+  },
+  {
+    "name": "Praxis Dr. Ebert",
+    "address": "Ernst-Thälmann-Straße 3 a, 23992 Neukloster"
+  },
+  {
+    "name": "Praxis Heller",
+    "address": "Koppelweg 7, 23996 Bad Kleinen"
+  },
+  {
+    "name": "Praxis Oll",
+    "address": "Birkenweg 20, 23999 Kirchdorf"
+  }
+]
