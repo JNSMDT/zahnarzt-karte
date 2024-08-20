@@ -1,125 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" href="./assets/icon.svg" />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-      crossorigin=""
-    />
-    <link rel="stylesheet" href="/src/style.css" />
-    <script
-      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-      crossorigin=""
-    ></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Zahnarzt Map</title>
-  </head>
-  <body>
-    <main class="AGIF">
-      <div class="loader">
-        <div class="lds-ellipsis">
-          <div></div>
-          <div></div>
-          <div></div>
-          <div></div>
-        </div>
-        <div class="loader-text">LOADING DATA</div>
-      </div>
-      <div id="map">
-        <!-- <div id="legend" class="legend"></div> -->
-      </div>
-      <!-- <div id="layer_buttons" class="layer_buttons"></div> -->
-    </main>
-    <div class="sideBar">
-      <ul class="sideBar-data-list"></ul>
-    </div>
-    <div id="ControlBar" class="controlBar hidden">
-      <div class="controlBar-buttonList">
-        <div class="button-group">
-          <h2 class="button-group-title">Gemeinde Daten</h2>
-          <button
-            role="button"
-            id="btn-style-zaa"
-            data-style="zaa"
-            data-id="gD"
-            class="styleButton"
-          >
-            Zahnärzte (absolut)
-          </button>
-          <button
-            role="button"
-            id="btn-style-zab"
-            data-style="zab"
-            data-id="gD"
-            class="styleButton"
-          >
-            Zahnärzte (bereinigt)
-          </button>
-          <button
-            role="button"
-            id="btn-style-haus"
-            data-style="haus"
-            data-id="gD"
-            class="styleButton"
-          >
-            Zahnärzte (Hausbesuche)
-          </button>
-          <button
-            role="button"
-            id="btn-style-vi"
-            data-style="vi"
-            data-id="gD"
-            class="styleButton"
-          >
-            Versorgungsindex
-          </button>
-          <button
-            role="button"
-            id="btn-style-rvi"
-            data-style="rvi"
-            data-id="gD"
-            class="styleButton"
-          >
-            Versorgungsindex (regional)
-          </button>
-        </div>
-        <div class="button-group">
-          <h2 class="button-group-title">Landkreis Daten</h2>
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" href="./assets/icon.svg" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+		<link rel="stylesheet" href="/src/style.css" />
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Zahnarzt Map</title>
+	</head>
+	<body>
+		<main class="AGIF">
+			<div class="loader">
+				<div class="lds-ellipsis">
+					<div></div>
+					<div></div>
+					<div></div>
+					<div></div>
+				</div>
+				<div class="loader-text">LOADING DATA</div>
+			</div>
+			<div id="map">
+				<!-- <div id="legend" class="legend"></div> -->
+			</div>
+			<!-- <div id="layer_buttons" class="layer_buttons"></div> -->
+		</main>
+		<div class="sideBar">
+			<ul class="sideBar-data-list"></ul>
+		</div>
+		<div id="ControlBar" class="controlBar hidden">
+			<div class="controlBar-buttonList">
+				<div class="button-group">
+					<h2 class="button-group-title">Gemeinde Daten</h2>
+					<button role="button" id="btn-style-zaa" data-style="zaa" data-id="gD" class="styleButton">Zahnärzte (absolut)</button>
+					<button role="button" id="btn-style-zab" data-style="zab" data-id="gD" class="styleButton">Zahnärzte (bereinigt)</button>
+					<button role="button" id="btn-style-haus" data-style="haus" data-id="gD" class="styleButton">Zahnärzte (Hausbesuche)</button>
+					<button role="button" id="btn-style-vi_a" data-style="vi_a" data-id="gD" class="styleButton">Versorgungsindex (absolut)</button>
+					<button role="button" id="btn-style-vi_b" data-style="vi_b" data-id="gD" class="styleButton">Versorgungsindex (bereinigt)</button>
+					<button role="button" id="btn-style-rvi" data-style="rvi" data-id="gD" class="styleButton">Versorgungsindex (regional - absolut)</button>
+				</div>
+				<div class="button-group">
+					<h2 class="button-group-title">Landkreis Daten</h2>
 
-          <button
-            role="button"
-            id="btn-style-lkzaa"
-            data-style="lkzaa"
-            data-id="lkD"
-            class="styleButton"
-          >
-            Zahnärzte (absolut)
-          </button>
-          <button
-            role="button"
-            id="btn-style-lkzab"
-            data-style="lkzab"
-            data-id="lkD"
-            class="styleButton"
-          >
-            Zahnärzte (bereinigt)
-          </button>
-          <button
-            role="button"
-            id="btn-style-lkhaus"
-            data-style="lkhaus"
-            data-id="lkD"
-            class="styleButton"
-          >
-            Zahnärzte (Hausbesuche)
-          </button>
-        </div>
-      </div>
-    </div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+					<button role="button" id="btn-style-lkzaa" data-style="lkzaa" data-id="lkD" class="styleButton">Zahnärzte (absolut)</button>
+					<button role="button" id="btn-style-lkzab" data-style="lkzab" data-id="lkD" class="styleButton">Zahnärzte (bereinigt)</button>
+					<button role="button" id="btn-style-lkhaus" data-style="lkhaus" data-id="lkD" class="styleButton">Zahnärzte (Hausbesuche)</button>
+				</div>
+			</div>
+		</div>
+		<script type="module" src="/src/main.js"></script>
+	</body>
 </html>

@@ -27,43 +27,44 @@
 
 // berechnen des Versorgungsindex
 export function injectVI(results) {
-  const newResults = results.map((result) => {
-    const { bevölkerung, za_absolut, kreisname } = result;
-    const factor = kreisname === 'Rostock' ? 1280 : 1680;
-    const vi = (za_absolut * factor) / bevölkerung;
-    return { ...result, versorgungsindex: vi.toFixed(4) };
-  });
+	const newResults = results.map((result) => {
+		const { bevölkerung, za_absolut, kreisname, za_bereinigt } = result;
+		const factor = kreisname === 'Rostock' ? 1280 : 1680;
+		const vi_a = (za_absolut * factor) / bevölkerung;
+		const vi_b = (za_bereinigt * factor) / bevölkerung;
+		return { ...result, versorgungsindex_a: vi_a.toFixed(4), versorgungsindex_b: vi_b.toFixed(4) };
+	});
 
-  return newResults;
+	return newResults;
 }
 
 // Vereinheitlichen der Keys
 export function normalizeKeys(data, isLK = false) {
-  if (isLK) {
-    const normalizedResults = data.map((d) => {
-      return {
-        kreisID: d.id_Kreis,
-        kreisname: d.kreis_name,
-        za_absolut: d.za_absolut,
-        za_bereinigt: d.za_bereinigt,
-        hausbesuche: d.hausbesuche,
-      };
-    });
-    return normalizedResults;
-  }
-  const normalizedResults = data.map((d) => {
-    return {
-      gemeindename: d.Gemeinde_Name,
-      gemeindeschlüssel: d["Gemeindeschlüssel"],
-      kreisname: d.kreis_name,
-      bevölkerung: d["Bevölkerung"],
-      za_absolut: d.za_absolut,
-      za_bereinigt: d.za_bereinigt,
-      hausbesuche: d.hausbesuche,
-      kategorie: d.Kategorie === null ? 0 : d.Kategorie,
-    };
-  });
-  return normalizedResults;
+	if (isLK) {
+		const normalizedResults = data.map((d) => {
+			return {
+				kreisID: d.id_Kreis,
+				kreisname: d.kreis_name,
+				za_absolut: d.za_absolut,
+				za_bereinigt: d.za_bereinigt,
+				hausbesuche: d.hausbesuche,
+			};
+		});
+		return normalizedResults;
+	}
+	const normalizedResults = data.map((d) => {
+		return {
+			gemeindename: d.Gemeinde_Name,
+			gemeindeschlüssel: d['Gemeindeschlüssel'],
+			kreisname: d.kreis_name,
+			bevölkerung: d['Bevölkerung'],
+			za_absolut: d.za_absolut,
+			za_bereinigt: d.za_bereinigt,
+			hausbesuche: d.hausbesuche,
+			kategorie: d.Kategorie === null ? 0 : d.Kategorie,
+		};
+	});
+	return normalizedResults;
 }
 
 // Zusammenfügen der Zahnarztdaten ind GeoJSONdaten
@@ -74,52 +75,46 @@ export function normalizeKeys(data, isLK = false) {
  * @returns
  */
 export function combineGemeindeJSON(geoJSON, gemeindeDaten) {
-  const { type, features } = geoJSON;
+	const { type, features } = geoJSON;
 
-  const newFeat = features.map((feat) => {
-    const gemeindeName = feat.properties.gemeinde_name;
-    /**
-     * @type {number}
-     */
-    const gemeindeSchlüssel = feat.properties.gemeinde_schluessel;
-    const kreisSchlüssel = feat.properties.kreis_schluessel;
-    const gsString = gemeindeSchlüssel.toString();
-    const gsLastThree = gsString.slice(gsString.length - 3);
+	const newFeat = features.map((feat) => {
+		const gemeindeName = feat.properties.gemeinde_name;
+		/**
+		 * @type {number}
+		 */
+		const gemeindeSchlüssel = feat.properties.gemeinde_schluessel;
+		const kreisSchlüssel = feat.properties.kreis_schluessel;
+		const gsString = gemeindeSchlüssel.toString();
+		const gsLastThree = gsString.slice(gsString.length - 3);
 
-    // Der Gemeindeschlüssel der GeoJSONdaten ist aus irgendwelchen Gründen kürzer als die aus den Zahnarztdaten
-    // kann aber aus dem Kreisschlüssel und den letzten drei Ziffern des Gemeindeschlüssels aus den Zahnarztdaten.
-    // erstellt werden.
-    const zaGemeindeSchlüssel = Number(`${kreisSchlüssel}${gsLastThree}`);
+		// Der Gemeindeschlüssel der GeoJSONdaten ist aus irgendwelchen Gründen kürzer als die aus den Zahnarztdaten
+		// kann aber aus dem Kreisschlüssel und den letzten drei Ziffern des Gemeindeschlüssels aus den Zahnarztdaten.
+		// erstellt werden.
+		const zaGemeindeSchlüssel = Number(`${kreisSchlüssel}${gsLastThree}`);
 
-    // finden der GeoJSONdaten auf Basis des Gemeindeschlüssels und dem Gemeindenamen
-    const zahnarztDaten = gemeindeDaten.find(
-      (gD) =>
-        gD.gemeindeschlüssel === zaGemeindeSchlüssel &&
-        gD.gemeindename === gemeindeName
-    );
-    // Zusammenfügen der GeoJSON daten und der Zahnarztdaten für die Gemeinde
-    const newProp = { ...feat.properties, ...zahnarztDaten };
-    return { type: feat.type, properties: newProp, geometry: feat.geometry };
-  });
+		// finden der GeoJSONdaten auf Basis des Gemeindeschlüssels und dem Gemeindenamen
+		const zahnarztDaten = gemeindeDaten.find((gD) => gD.gemeindeschlüssel === zaGemeindeSchlüssel && gD.gemeindename === gemeindeName);
+		// Zusammenfügen der GeoJSON daten und der Zahnarztdaten für die Gemeinde
+		const newProp = { ...feat.properties, ...zahnarztDaten };
+		return { type: feat.type, properties: newProp, geometry: feat.geometry };
+	});
 
-  // Austauschen der alten Zusatzdaten der GeoJSON mit denen der Zahnarztdaten
-  const newGeoJSON = { type, features: newFeat };
-  return newGeoJSON;
+	// Austauschen der alten Zusatzdaten der GeoJSON mit denen der Zahnarztdaten
+	const newGeoJSON = { type, features: newFeat };
+	return newGeoJSON;
 }
 
 // Wie Funktion oben nur für Landkreise, daher bedeutend einfacher
 export function combineLandkreisJSON(geoJSON, landkreisDaten) {
-  const { type, features } = geoJSON;
+	const { type, features } = geoJSON;
 
-  const newFeat = features.map((feat) => {
-    const kreisname = feat.properties.kreis_name;
+	const newFeat = features.map((feat) => {
+		const kreisname = feat.properties.kreis_name;
 
-    const zahnarztDaten = landkreisDaten.find(
-      (lD) => lD.kreisname === kreisname
-    );
-    const newProp = { ...feat.properties, ...zahnarztDaten };
-    return { type: feat.type, properties: newProp, geometry: feat.geometry };
-  });
-  const newGeoJSON = { type, features: newFeat };
-  return newGeoJSON;
+		const zahnarztDaten = landkreisDaten.find((lD) => lD.kreisname === kreisname);
+		const newProp = { ...feat.properties, ...zahnarztDaten };
+		return { type: feat.type, properties: newProp, geometry: feat.geometry };
+	});
+	const newGeoJSON = { type, features: newFeat };
+	return newGeoJSON;
 }
