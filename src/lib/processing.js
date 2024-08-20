@@ -28,8 +28,9 @@
 // berechnen des Versorgungsindex
 export function injectVI(results) {
   const newResults = results.map((result) => {
-    const { bevölkerung, za_absolut } = result;
-    const vi = (za_absolut * 1000) / bevölkerung;
+    const { bevölkerung, za_absolut, kreisname } = result;
+    const factor = kreisname === 'Rostock' ? 1280 : 1680;
+    const vi = (za_absolut * factor) / bevölkerung;
     return { ...result, versorgungsindex: vi.toFixed(4) };
   });
 
