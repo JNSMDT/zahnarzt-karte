@@ -232,7 +232,7 @@ export function vi_bStyles(feature) {
 	};
 }
 
-// Stylefunktionen Zahnarzt Regionalerversorgungsindex
+// Stylefunktionen Zahnarzt Versorgertyp - absolut
 /**
  * @type {import("leaflet").StyleFunction}
  */
@@ -241,6 +241,20 @@ export function rviStyles(feature) {
 
 	return {
 		fillColor: getRVIColors(rvi),
+		fillOpacity: 0.95,
+		opacity: 1,
+	};
+}
+
+// Stylefunktionen Zahnarzt Versorgertyp - bereinigt
+/**
+ * @type {import("leaflet").StyleFunction}
+ */
+export function rvi_bStyles(feature) {
+	const rvi_b = feature.properties.kategorie_b;
+
+	return {
+		fillColor: getRVIColors(rvi_b),
 		fillOpacity: 0.95,
 		opacity: 1,
 	};
@@ -296,6 +310,7 @@ const styleFunctions = {
 	vi_a: vi_aStyles,
 	vi_b: vi_bStyles,
 	rvi: rviStyles,
+	rvi_b: rvi_bStyles,
 	lkzaa: lkzaaStyles,
 	lkzab: lkzabStyles,
 	lkhaus: lkhausStyles,
@@ -309,6 +324,7 @@ const colorObjects = {
 	vi_a: VI_COLORS,
 	vi_b: VI_COLORS,
 	rvi: RVI_COLORS,
+	rvi_b: RVI_COLORS,
 	lkzaa: LKZA_COLORS,
 	lkzab: LKZA_COLORS,
 	lkhaus: LKHAUS_COLORS,

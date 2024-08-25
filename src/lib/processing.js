@@ -62,6 +62,7 @@ export function normalizeKeys(data, isLK = false) {
 			za_bereinigt: d.za_bereinigt,
 			hausbesuche: d.hausbesuche,
 			kategorie: d.Kategorie === null ? 0 : d.Kategorie,
+			kategorie_b: d.Kategorie_b === null ? 0 : d.Kategorie_b,
 		};
 	});
 	return normalizedResults;

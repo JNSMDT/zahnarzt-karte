@@ -94,7 +94,7 @@ export function filterProps(props, isLK) {
 	return {
 		Gemeindename: gemeindename,
 		Kreisname: kreisname,
-		Bevölerung: bevölkerung,
+		Bevölkerung: bevölkerung,
 		'Zahnärzte (absolut)': za_absolut,
 		'Zahnärzte (bereiningt)': za_bereinigt,
 		Hausbesuche: hausbesuche,
