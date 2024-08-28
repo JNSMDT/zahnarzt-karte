@@ -20,18 +20,20 @@ async function fetchJSON(url) {
 export async function getJSONData(url, key, longTimeData = false) {
 	// laden der lokalen Datenversion
 	const localDataVersion = await localforage.getItem(`dataVersion-${key}`);
-
+	console.log("local data version:", localDataVersion);
 	// laden der externen Datenversion
 	const dataVersion = longTimeData ? -1 : await fetchJSON('https://json-provider.jnsmdt.workers.dev/version');
 
-	// prüfen auf Aktualität der Daten
-	const recentDateVersion = localDataVersion === dataVersion;
+	console.log("external data version:", dataVersion);
 
+	// prüfen auf Aktualität der Daten
+	const isNewDataVersion = localDataVersion !== dataVersion;
+	console.log(isNewDataVersion ? "new Data avaiable fetching..." : "no new data available");
 	// wenn keine neuen Daten verfügbar, laden der Daten aus dem Localstorage(IndexDB)
-	const localGeoJSON = recentDateVersion ? await localforage.getItem(key) : null;
+	const localData = isNewDataVersion ? await localforage.getItem(key) : null;
 
 	// setzen wann die Daten das letzte mal im Localstorage gespeichert wurden
-	const lastPush = recentDateVersion ? await localforage.getItem(`lastPush-${key}`) : null;
+	const lastPush = isNewDataVersion ? await localforage.getItem(`lastPush-${key}`) : null;
 
 	const timestamp = new Date().getTime();
 	const maxTime = 1000 * 21600; // 1000ms -> 1s, 21600s -> 6h
@@ -39,16 +41,16 @@ export async function getJSONData(url, key, longTimeData = false) {
 	// Laden der Daten aus dem Web wenn keine Datenvorhanden sind,
 	// keine Daten zum letzten speichern vorhanden sind
 	// oder wenn das letzte speichern mehr als 6h her ist
-	if (localGeoJSON === null || lastPush === null || Number(lastPush) > timestamp + maxTime) {
-		const geoJSON = await fetchJSON(url);
-		await localforage.setItem(key, geoJSON);
+	if (localData === null || lastPush === null || Number(lastPush) + maxTime < timestamp) {
+		const newData = await fetchJSON(url);
+		await localforage.setItem(key, newData);
 		await localforage.setItem(`lastPush-${key}`, timestamp);
 		await localforage.setItem(`dataVersion-${key}`, dataVersion);
 
-		return geoJSON;
+		return newData;
 	}
 
-	return localGeoJSON;
+	return localData;
 }
 
 // setzen der Legendstyles und HTML Struktur
