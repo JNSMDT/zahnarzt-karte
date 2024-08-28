@@ -19,10 +19,10 @@ async function fetchJSON(url) {
  */
 export async function getJSONData(url, key, longTimeData = false) {
 	// laden der lokalen Datenversion
-	const localDataVersion = await localforage.getItem(`dataVersion-${key}`);
+	const localDataVersion = longTimeData ? {dataVersion: -1 } : await localforage.getItem(`dataVersion-${key}`);
 	console.log("local data version:", localDataVersion.dataVersion);
 	// laden der externen Datenversion
-	const dataVersionReq = longTimeData ? -1 : await fetchJSON('https://json-provider.jnsmdt.workers.dev/version');
+	const dataVersionReq = longTimeData ? {dataVersion: -1 } : await fetchJSON('https://json-provider.jnsmdt.workers.dev/version');
 
 	console.log("external data version:", dataVersionReq.dataVersion);
 
