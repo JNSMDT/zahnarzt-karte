@@ -22,12 +22,12 @@ export async function getJSONData(url, key, longTimeData = false) {
 	const localDataVersion = await localforage.getItem(`dataVersion-${key}`);
 	console.log("local data version:", localDataVersion);
 	// laden der externen Datenversion
-	const dataVersion = longTimeData ? -1 : await fetchJSON('https://json-provider.jnsmdt.workers.dev/version');
+	const dataVersionReq = longTimeData ? -1 : await fetchJSON('https://json-provider.jnsmdt.workers.dev/version');
 
-	console.log("external data version:", dataVersion);
+	console.log("external data version:", dataVersionReq.dataVersion);
 
 	// prüfen auf Aktualität der Daten
-	const isNewDataVersion = localDataVersion !== dataVersion;
+	const isNewDataVersion = localDataVersion !== dataVersionReq.dataVersion;
 	console.log(isNewDataVersion ? "new Data avaiable fetching..." : "no new data available");
 	// wenn keine neuen Daten verfügbar, laden der Daten aus dem Localstorage(IndexDB)
 	const localData = isNewDataVersion ? await localforage.getItem(key) : null;
@@ -45,7 +45,7 @@ export async function getJSONData(url, key, longTimeData = false) {
 		const newData = await fetchJSON(url);
 		await localforage.setItem(key, newData);
 		await localforage.setItem(`lastPush-${key}`, timestamp);
-		await localforage.setItem(`dataVersion-${key}`, dataVersion);
+		await localforage.setItem(`dataVersion-${key}`, dataVersionReq.dataVersion);
 
 		return newData;
 	}
